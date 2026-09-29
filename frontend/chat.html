@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Satbayev AI Consultant</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="logo">SU</div>
+  <div>
+    <h1 data-i18n="title">Satbayev AI Consultant</h1>
+    <div class="sub" data-i18n="subtitle">Виртуальный консультант по официальным документам университета</div>
+  </div>
+  <div class="spacer"></div>
+  <div class="langs">
+    <button data-lang="kk">🇰🇿 Қазақша</button>
+    <button data-lang="ru">🇷🇺 Русский</button>
+    <button data-lang="en">🇬🇧 English</button>
+  </div>
+  <button class="ghost" id="authBtn" data-i18n="login">Войти</button>
+</header>
+
+<div class="layout">
+  <aside>
+    <h3 data-i18n="examples">Примеры вопросов</h3>
+    <div id="examples"></div>
+    <h3 data-i18n="history">История</h3>
+    <div id="history"><div class="hist-item" data-i18n="loginForHistory">Войдите, чтобы видеть историю</div></div>
+    <div class="settings">
+      <h3 data-i18n="settings">Настройки поиска</h3>
+      <label data-i18n="mode">Режим поиска</label>
+      <select id="mode">
+        <option value="hybrid">Hybrid (70% dense + 30% keyword)</option>
+        <option value="dense">Dense (embeddings)</option>
+        <option value="bm25">BM25 (keyword)</option>
+      </select>
+      <label>Top-K</label>
+      <select id="topk"><option>3</option><option selected>5</option><option>10</option></select>
+      <label><input type="checkbox" id="showDebug" style="width:auto"> <span data-i18n="debug">Показать найденные фрагменты</span></label>
+    </div>
+  </aside>
+
+  <main class="chat">
+    <div id="messages">
+      <div class="welcome" id="welcome">
+        <h2 data-i18n="welcomeTitle">Здравствуйте! Я виртуальный консультант Satbayev University</h2>
+        <p data-i18n="welcomeText">Задайте вопрос на казахском, русском или английском языке. Я отвечаю только по официальным документам университета и всегда показываю источники.</p>
+      </div>
+    </div>
+    <form class="composer" id="composer">
+      <textarea id="q" data-i18n-ph="placeholder" placeholder="Задайте вопрос..." maxlength="1000"></textarea>
+      <button class="primary" id="send" data-i18n="send">Отправить</button>
+    </form>
+  </main>
+</div>
+
+<div class="modal" id="authModal">
+  <div class="card">
+    <h3 id="authTitle" data-i18n="login">Войти</h3>
+    <input id="fullName" data-i18n-ph="fullName" placeholder="Имя" style="display:none">
+    <input id="email" type="email" placeholder="Email">
+    <input id="password" type="password" data-i18n-ph="password" placeholder="Пароль">
+    <div class="err" id="authErr"></div>
+    <div class="row">
+      <button class="primary" id="authSubmit" data-i18n="login">Войти</button>
+      <button id="authSwitch" data-i18n="register">Регистрация</button>
+    </div>
+    <div class="row"><button id="authClose" data-i18n="close">Закрыть</button></div>
+  </div>
+</div>
+<script src="i18n.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
