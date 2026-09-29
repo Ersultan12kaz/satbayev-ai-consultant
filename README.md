@@ -51,6 +51,8 @@ official.satbayev.university и satbayev.university → Википедия (бе
 | 16 | `16_translator_2_train.bat` | Аудармашыны оқыту (GPU, 2 сағ.; қайта іске қоссаң жалғасады) |
 | 20–21 | `20_improve_assistant.bat`, `21_big_test.bat` | Сайтты толық жинау + барлық модельді қайта оқыту + 1156 сұрақпен үлкен тест |
 | 22 | `22_push_to_github.bat` | Жобаны GitHub-қа жоспар бойынша кезең-кезеңімен жібереді (main / develop / feature/*) |
+| 23 | `23_upload_models_to_github.bat` | Оқытылған модельдер мен құжаттарды GitHub Release v1.0-ге жүктейді (zip) |
+| 0b | `0b_download_models.bat` | Басқа компьютерде: модельдер мен құжаттарды GitHub-тан жүктеп алады — оқытусыз іске қосуға болады |
 
 `_training_files\` папкасында — модельдерді оқытуға қолданылған корпус пен чекпоинттер (ассистенттің жұмысына
 керек емес, бірақ қайта оқыту мен диплом қорғауға сақталған).
@@ -243,9 +245,12 @@ Swagger: <http://127.0.0.1:8000/docs>
 | `feature/evaluation` | Этап 10 тестовые вопросы → Этап 11 метрики и отчёты |
 | `develop` | слияние всех feature-веток → Этап 12 Docker и развёртывание |
 
-В GitHub не попадают: обученные модели (`models/`), скачанные документы (`data/raw`, `data/processed`),
-корпуса (`data/lm`, `data/translation`), `_training_files/`, логи и `.env`. Модели воспроизводятся скриптами
-`2_train_all.bat`, `12–16_*.bat`. Схема: [`docs/architecture`](docs/architecture/README.md).
+Обученные модели (`models/`, файлы до 210 МБ) и документы университета (`data/raw`, `data/processed`) больше
+лимита Git (100 МБ на файл), поэтому они лежат в **GitHub Release v1.0** в виде zip-архивов
+(`23_upload_models_to_github.bat`). На другом компьютере: `git clone` → `1_setup.bat` → `0b_download_models.bat` →
+`3_start_assistant.bat` — ассистент работает без обучения.
+Не публикуются: `_training_files/` (≈9 ГБ дампов Википедии и чекпоинтов — воссоздаются `12–16_*.bat`),
+`data/app.db` (аккаунты и история чатов), логи и `.env`. Схема: [`docs/architecture`](docs/architecture/README.md).
 
 ## Безопасность
 
