@@ -1,0 +1,1093 @@
+﻿id,category,lang,question,status,confidence,R@5,MRR,citation_accuracy,faithfulness,latency_ms,top_source,answer,human_score_0_2
+admission_01_ru,admission,ru,Какие документы нужны для поступления на бакалавриат?,answered,high,1.0,0.25,0.0,1.0,58.62,Путеводитель абитуриента бакалавриата,"Коротко: Обычно прием документов на конкурс проходит примерно с 13 по 20 июля, однако сроки могут сдвигаться. [1]
+
+Поступление — Какие документы и требования:
+1. После сдачи ЕНТ необходимо подать документы на конкурс государственных грантов. [1]",
+admission_01_kk,admission,kk,Бакалавриатқа түсу үшін қандай құжаттар қажет?,answered,low,1.0,1.0,1.0,1.0,75.97,Шетелдік студенттерді қабылдау,"Қысқаша жауап: Қазақстанға университетке оқуға түсу үшін келерде, визаны ресімдеу тәртібі, қажетті құжаттар мен оны тапсыру мерзімі туралы толығырақ ақпарат алу үшін Қазақстан консулдығымен кеңесіңіз. [1]",
+admission_01_en,admission,en,What documents are required for admission to the bachelor's program?,answered,medium,1.0,0.5,0.0,1.0,55.85,Inviting foreign students,"In short: To enroll in Satbayev University for a bachelor's, master's or doctoral degree program, an appropriate level of education is required. [1]
+
+Admission — Documents and requirements:
+1. At the first stage, the applicant provides the following set of documents for confirmation: Application for admission. [1]",
+admission_02_ru,admission,ru,Какой минимальный балл ЕНТ нужен для поступления?,not_found,low,1.0,0.2,,,49.3,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+admission_02_kk,admission,kk,Түсу үшін ҰБТ-ның ең төменгі балы қандай?,answered,high,1.0,0.3333,0.0,1.0,64.44,Бакалавр талапкеріне арналған нұсқаулық,"Қысқаша жауап: Satbayev University үшін ҰБТ-ның шекті балы - 80 баллдан басталады, оның ішінде математикалық сауаттылық пен оқу сауаттылығынан кемінде 3 балл, Қазақстан тарихы және бейіндік пәндерден кемінде 5 балл жинау қажет. [1]
+
+Қажетті құжаттар мен талаптар:
+1. Мамандығы бойынша ақылы білім алуға құжат тапсырған колледж түлектері ҰБТ-ға қатыспайды және құжаттарды тікелей қабылдау комиссиясына тапсырады. [1]
+2. Университетке оқуға түсу процесі үш айдан астам уақытты алады және әртүрлі кезеңдерде сізге әртүрлі құжаттар мен жабдықтар қажет болады. [1]",
+admission_02_en,admission,en,What is the minimum UNT score required for admission?,answered,high,1.0,1.0,1.0,1.0,53.72,Admission to higher education programmes (bachelor) 2026-2027,"In short: Admission to groups of educational programs requiring creative training. [1]
+
+Admission — Conditions:
+1. For participation in the competition for granting an education grant and. (or) admission to paid study, the applicant shall provide a certificate of the UNT with a score not less than a threshold score, including at least 5 points on Kazakhstan history and each specialized subject, at least 3 points on mathematical literacy and reading literacy. [1]",
+admission_03_ru,admission,ru,Когда начинается прием документов в университет?,answered,high,1.0,0.25,0.0,1.0,52.28,Путеводитель абитуриента бакалавриата,"Коротко: Обычно прием документов на конкурс проходит примерно с 13 по 20 июля, однако сроки могут сдвигаться. [1]",
+admission_03_kk,admission,kk,Университетке құжаттарды қабылдау қашан басталады?,not_found,low,1.0,1.0,,,137.61,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+admission_03_en,admission,en,When does the university start accepting applications?,answered,high,1.0,0.5,0.0,1.0,66.97,Regulation on conducting the open competition of innovative ideas and projects Tech Startup KazNRTU named after K.Satbayev 2023,"In short: Start and end dates for accepting applications. [1]
+
+Deadlines:
+1. The place and / or method of accepting applications. [1]",
+admission_04_ru,admission,ru,Как поступить в магистратуру Satbayev University?,answered,high,0.0,0.0,0.0,1.0,59.68,Путеводитель абитуриента бакалавриата,"Коротко: Что нужно, чтобы поступить: Собрать документы Выбрать направление обучения и профильные предметы ЕНТ Сдать ЕНТ и, если вы поступаете на творческую специальность, творческий экзамен Получить государственный грант на обучение Подать документы на зачисление в Satbayev University Детали приемной комиссии 2026 года Абитуриенты, закончившие школу или колледж, и претендующие на государственный грант, сдают ЕНТ и поступают в университет на конкурсной основе. [1]",
+admission_04_kk,admission,kk,Satbayev University магистратурасына қалай түсуге болады?,answered,high,0.0,0.0,0.0,1.0,71.34,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ PhD-Foundation және Masters-Foundation бағдарламалары туралы Ереже 2025,Қысқаша жауап: Тыңдаушыны Университеттің магистратурасына түсуге даярлау мақсатында. [1],
+admission_04_en,admission,en,How can I enter the master's program at Satbayev University?,answered,high,0.0,0.0,0.0,1.0,58.78,Abdranova Anel,"In short: Abdranova Anel How did you enter Satbayev University? [1]
+
+How to do it:
+1. My grandmother helped me enter here; she wanted me to study at Satbayev University, since it was the best technical higher education institution. [1]
+2. Why did you choose Satbayev University? [1]",
+admission_05_ru,admission,ru,Какие вступительные экзамены сдают в докторантуру?,not_found,low,0.0,0.0,,,57.56,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+admission_05_kk,admission,kk,Докторантураға қандай түсу емтихандары тапсырылады?,answered,low,0.0,0.0,0.0,1.0,75.59,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: 2-межелік бақылау нәтижелері электрондық ведомосқа межелік апта аяқталғаннан кейін 7 күнтізбелік күн ішінде, бірақ осы пән бойынша емтихан тапсырғанға дейін 1 тәуліктен кешіктірмей енгізіледі. [1]
+
+Емтихан — Қажетті құжаттар мен талаптар:
+1. Университетте әрбір академиялық кезең аяқталғаннан кейін емтихан сессиясы белгіленеді. [1]
+2. Әрбір сессияны өткізуге 3 аптадан аспайтын уақыт. [1]",
+admission_05_en,admission,en,What entrance exams are required for doctoral studies?,answered,high,1.0,1.0,1.0,1.0,62.82,Rules for admission to training in magistracy and doctoral studies at Kazakh National Research Technical University named after Satbayev (Satbayev University) 2021,"In short: The entrance examination for doctoral studies in computer format consists of: 1) an essay. [1]
+
+Exam — Conditions:
+1. When passing the entrance exam, the applicant shall independently choose the sequence of blocks to answer. [1]
+2. Applicants shall be allowed to enter the audience of the entrance exam upon presentation of the original identity document (ID or passport), while applicants are identified through the scanner of a volumetric-spatial form of the person's face. [1]",
+admission_06_ru,admission,ru,Как поступают иностранные граждане?,answered,high,1.0,0.5,0.6667,1.0,69.81,Приглашение иностранных студентов,"Коротко: Прием иностранных граждан на обучение на платной основе осуществляется по результатам собеседования (B оффлайн или онлайн формате), проводимого приемной комиссией Университета в течение календарного года. [2]
+
+Поступление — Как это сделать:
+1. На этой странице вы найдете всю информацию по процедуре поступления в Satbayev University для иностранных абитуриентов. [1]
+2. Обратите внимание, что иностранцы могут поступить в университет в течение года, однако учиться они могут только на платной основе. [1]
+3. Процесс поступления в Satbayev University для иностранных абитуриентов происходит онлайн. [1]
+4. Прием иностранных граждан. [3]",
+admission_06_kk,admission,kk,Шетел азаматтары қалай оқуға түседі?,answered,high,0.0,0.0,0.0,1.0,52.37,ҚазҰТЗУ 718 ҚП. Академиялық ұтқырлық 2024,"Қысқаша жауап: Шетел азаматтарынан академиялық ұтқырлық бойынша университетте оқуға түсетін өтінімдер саны. [1]
+
+Академиялық ұтқырлық — Қалай жасалады:
+1. Академиялық жыл ішінде негізгі білім беру бағдарламалары және басқа да нысандар бойынша білім алатын шетел азаматтарының саны. [1]
+2. Академиялық ұтқырлық бойынша оқуға қабылданған немесе шарт жасасқан шетелдік студенттер саны. [1]",
+admission_06_en,admission,en,How do foreign citizens apply for admission?,answered,high,1.0,1.0,1.0,1.0,54.52,Rules for admission to training in magistracy and doctoral studies at Kazakh National Research Technical University named after Satbayev (Satbayev University) 2021,"In short: The admission of foreign citizens to study at KazNRTU on a fee basis shall be carried out according to the results of an interview conducted by the admissions committees of KazNRTU during the calendar year. [1]
+
+Admission — How to do it:
+1. Admission of foreigners to magistracy and doctoral studies shall be carried out on a fee basis. [1]",
+admission_07_ru,admission,ru,Нужен ли сертификат по английскому языку для магистратуры?,answered,high,1.0,1.0,1.0,1.0,51.27,Открыт прием на курсы подготовки к экзамену по английскому языку в магистратуру и докторантуру,"Коротко: Открыт прием на курсы подготовки к экзамену по английскому языку в магистратуру и докторантуру Кафедра ""Иностранные языки"" приглашает студентов на 3-х месячный интенсивный курс английского языка для поступающих в магистратуру и докторантуру в Satbayev University! [1]",
+admission_07_kk,admission,kk,Магистратураға ағылшын тілі сертификаты қажет пе?,answered,high,1.0,0.3333,0.0,1.0,52.66,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ PhD-Foundation және Masters-Foundation бағдарламалары туралы Ереже 2025,Қысқаша жауап: Қазақ тілі бойынша: ҚАЗТЕСТ сертификатын алу мақсатында меңгеру деңгейін арттыру үшін қазақ тілін оқытуды. [1],
+admission_07_en,admission,en,Is an English language certificate required for the master's program?,answered,high,1.0,1.0,1.0,1.0,54.84,Admission to higher education programmes (bachelor) 2026-2027,"In short: At the discretion of inVision U, certain applicants may be granted a waiver of the requirement to submit an internationally recognized English language proficiency certificate. [1]",
+admission_08_ru,admission,ru,Как зачисляют на платное обучение?,answered,high,0.0,0.0,0.0,1.0,68.14,Правила кредитной технологии обучения в НАО КазНИТУ имени К.И.Сатпаева (бакалавриат) 2023,"Коротко: Без заключения договора, оплаты за обучение и выхода приказа о восстановлении, зачислении студент не допускается к учебным занятиям. [1]
+
+Оплата обучения — Как это сделать:
+1. Стоимость обучения в Университете устанавливается решением. [1]
+2. Ученый совет определяет скидки к стоимости обучения для отдельных категорий студентов. [1]
+3. Оплата за обучение производится в порядке и сроки, установленные заключёнными договорами на оказание образовательных услуг. [1]",
+admission_08_kk,admission,kk,Ақылы оқуға қалай қабылданады?,answered,medium,1.0,1.0,1.0,1.0,46.97,Жоғары білім беру бағдарламаларына оқуға қабылдау (бакалавриат) 2026-2027,"Қысқаша жауап: Қабылдау мемлекеттік білім беру тапсырысы бойынша, республикалық немесе жергілікті бюджет қаражаты есебінен білім беру гранттары бойынша, сондай-ак төлем негізінде келіп түсетін және заннамада тыйым салынбаған өзге де көздердің өз қаражаты есебінен жүзеге асырылады. [1]",
+admission_08_en,admission,en,How are students enrolled on a paid basis?,answered,high,1.0,1.0,0.5,1.0,61.59,Admission to higher education programmes (bachelor) 2026-2027,"In short: For admission to a paid course, the student has the right to present the current year's certificate of the UNT, which is in accordance with the requirements of the legislation. [1]
+
+Admission — How to do it:
+1. Intellectual schools participate in the competition for the award of an educational grant and (or) enroll in paid training on the basis of results translated into the UNT scores in the manner and on the scale established by the Model Admission Rules. [1]
+2. For newly enrolled students at the University, the basis for access to the internal network of the portal is: - an order for admission to KazNRTU; - payment for the semester. [2]",
+admission_09_ru,admission,ru,Что такое приемная комиссия и чем она занимается?,answered,high,1.0,0.25,0.0,1.0,65.58,Путеводитель абитуриента бакалавриата,"Коротко: Обратите внимание, что точные даты проведения ЕНТ и конкурса образовательных грантов вузы узнают непосредственно в период приемной комиссии. [1]
+
+Поступление — Подробнее:
+1. Что нужно, чтобы поступить: Собрать документы Выбрать направление обучения и профильные предметы ЕНТ Сдать ЕНТ и, если вы поступаете на творческую специальность, творческий экзамен Получить государственный грант на обучение Подать документы на зачисление в Satbayev University Детали приемной комиссии 2026 года Абитуриенты, закончившие школу или колледж, и претендующие на государственный грант, сдают ЕНТ и поступают в университет на конкурсной основе. [1]
+2. Выпускники колледжей, подающие документы на платное обучение по своей специальности, не сдают ЕНТ и подают документы непосредственно в приемную комиссию. [1]",
+admission_09_kk,admission,kk,Қабылдау комиссиясы деген не және ол немен айналысады?,not_found,low,1.0,0.3333,,,75.46,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+admission_09_en,admission,en,What does the admission committee do?,answered,high,1.0,1.0,1.0,1.0,53.41,Admission Rules for the 2025 DBA Program,"In short: Enrollment in DBA degree program is carried out by Admissions Committee based on the entrance interview results, based on the interview meeting’s minutes. [1]
+
+Admission — How to do it:
+1. Issues not regulated by the given rules of admission to educational institutions implementing the postgraduate education programs are resolved by Admission Committee of Satbayev University in accordance with the current RK legislation and RK MSHE’s regulatory documents. [1]
+2. Persons applying for a master’s degree from August 25 to 28 of a calendar year shall submit a package of documents specified in paragraph 8 of the Public Service Standard ""Acceptance of documents and enrollment in higher educational institutions for training in postgraduate educational programs"" in accordance with Annex 1 to these Rules to the service provider (through the KazNRTU admission committee) or through the ""e-government"" web portal www.egov.kz. [2]",
+admission_10_ru,admission,ru,Какие правила приема на программы MBA?,answered,high,1.0,1.0,1.0,1.0,65.11,Правила приема на обучение по программам бакалавриата 2026-2027,"Коротко: Прием на группы образовательных программ, требующие творческой подготовки, осуществляется с учетом результатов ЕНТ и творческих экзаменов в соответствии с Типовыми правилами приема. [1]",
+admission_10_kk,admission,kk,MBA бағдарламаларына қабылдау қағидалары қандай?,not_found,low,1.0,0.5,,,79.28,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+admission_10_en,admission,en,What are the admission rules for MBA programs?,not_found,low,1.0,1.0,,,54.68,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+education_01_ru,education,ru,Что такое кредитная технология обучения?,answered,high,1.0,0.5,0.0,1.0,64.32,Положение о дипломе собственного образца 2022,"Коротко: В строке ""Общее число освоенных академических кредитов - ECTS"" - указывается цифрами количество кредитов. [1]
+
+Кредиты — Подробнее:
+1. В строке ""Средневзвешенная оценка (GPA) обучения"" - указывается цифрами средний балл за весь период обучения. [1]
+2. В строке ""Количество кредитов теоретического обучения"" и ""количество кредитов ECTS теоретического обучения"" - указывается цифрами количество кредитов теоретического обучения. [1]",
+education_01_kk,education,kk,Оқытудың кредиттік технологиясы деген не?,answered,high,1.0,1.0,1.0,1.0,48.48,Қ.И.Сәтбаев атындағы ҚазҰТЗУ оқытудың кредиттік технологиясы (PhD докторантура) туралы Қағида 2025,"Қысқаша жауап: Оқытудың кредиттік Білім алушылардың пәндерді және (немесе) технологиясы (ОКТ) модульдерді зерделеу дәйектілігін (Credit technology training) академиялық кредиттер жинақтай отырып, таңдауы және дербес жоспарлауы негізінде оқыту. [1]",
+education_01_en,education,en,What is the credit technology of education?,answered,low,1.0,1.0,1.0,1.0,59.43,Academic Policy 2022,"In short: 
+   • Page 16 out of 36 each academic discipline
+   • Academic mobility
+   • Accreditation of educational programs
+   • European Diploma Supplement
+   • European Credit Transfer and Accumulation System (ECTS)
+   • Involvement in the educational process of advisors who assist students in choosing an educational trajectory [1]
+
+Credits — Amount:
+1. While compiling IC, the student must. - get acquainted with the rules for organizing the educational process on credit technology. - follow the established deadlines for registration for academic disciplines. [2]",
+education_02_ru,education,ru,Как рассчитывается GPA?,answered,low,1.0,0.3333,0.0,1.0,62.72,Положение по организации и проведению  экзаменационной сессии 2023,Коротко: Средний балл Средневзвешенная оценка уровня учебных достижений успеваемости обучающегося по выбранной программе за академический период (отношение суммы произведений кредитных часов по дисциплине к общему количеству кредитов за текущий период обучения. [1],
+education_02_kk,education,kk,GPA қалай есептеледі?,answered,high,1.0,1.0,1.0,1.0,42.91,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),Қысқаша жауап: Интегралдық балды есептеу әдістемесі (GPA). [1],
+education_02_en,education,en,How is GPA calculated?,answered,high,1.0,1.0,1.0,1.0,50.98,Regulations on Credit Technology of Education at the NJSC KazNRTU named after K.I.Satpayev (Undergraduate degree program),"In short: Methodology for calculating the average score (GPA). [1]
+
+GPA and grading — Deadlines:
+1. GPA is calculated based on the credit hour system. [1]
+2. The method of calculating the integral score (GPA). [2]",
+education_03_ru,education,ru,Что такое индивидуальный учебный план студента?,answered,high,0.0,0.0,0.0,1.0,56.5,Положение о разработке образовательных программ 2022,"Коротко: Рабочий учебный план - учебный документ, разрабатываемый ВУЗам самостоятельно на основе образовательной программы и индивидуальных учебных планов студентов. [1]
+
+Подробнее:
+1. Индивидуальный учебный план - учебный план студента, самостоятельно формируемый им на каждый учебный год с помощью эдвайзера на основании образовательной программы и каталога элективных дисциплин. [1]",
+education_03_kk,education,kk,Студенттің жеке оқу жоспары деген не?,answered,low,1.0,1.0,1.0,1.0,87.68,Бірінші курстарға арналған анықтама-кітапша 2026 (Freshman guide),"Қысқаша жауап: Мамандық бойынша толық дәрежелі білімді меңгеру үшін студент оқу жоспары бойынша тиісті кредит алып, өз жеке оқу жоспарын орындауы тиіс. [1]
+
+Пәндерге тіркелу — Толығырақ:
+1. Кредит (Credit Hour) - оқытушы мен студенттің оқу көлемін өлшейтін бірлік. [1]",
+education_03_en,education,en,What is a student's individual study plan?,answered,medium,1.0,0.5,0.0,1.0,51.23,DP KazNRTU 711. Postgraduate education,"In short: Within the framework of research work (experimental research work), the individual study plan of the master’s student for familiarization with innovative technologies and new types of production provides for a mandatory scientific internship in scientific organizations and / or organizations of the relevant industries or fields of activity. [1]",
+education_04_ru,education,ru,Сколько кредитов нужно освоить за учебный год?,not_found,low,1.0,0.3333,,,72.59,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+education_04_kk,education,kk,Бір оқу жылында қанша кредит меңгеру керек?,answered,high,1.0,1.0,1.0,1.0,64.78,Қ.И.Сәтбаев атындағы ҚазҰТЗУ оқытудың кредиттік технологиясы (PhD докторантура) туралы Қағида 2025,"Қысқаша жауап: Бір кредит академиялық кезеңдегі білім алушының бір аптадағы аудиториядағы байланыс жұмысының 1 академиялық сағатына тең. [1]
+
+Кредиттер — Мөлшері / сомасы:
+1. Бір оқу жылының толық оқу жүктемесі 60 кредитке тең және бір оқу жылында 1800 академиялық сағатқа сәйкес келеді. [2]",
+education_04_en,education,en,How many credits must be completed per academic year?,answered,medium,1.0,0.3333,0.0,1.0,60.84,Regulation on the diploma of its own sample 2022,"In short: In the line ""Total number of completed academic credits - ECTS"" - the number of credits is indicated in numbers. [1]",
+education_05_ru,education,ru,Как происходит регистрация на дисциплины?,answered,medium,1.0,0.5,0.5,1.0,64.58,Положение о дополнительной образовательной программе (Minor) 2022,"Коротко: На второй и последующие академические периоды регистрация на дисциплины проводится в установленном порядке. [2]
+
+Регистрация на дисциплины — Как это сделать:
+1. Индивидуальный учебный план - учебный план студента, самостоятельно формируемый им на каждый учебный год с помощью эдвайзера на основании образовательной программы и каталога элективных дисциплин. [1]",
+education_05_kk,education,kk,Пәндерге тіркелу қалай жүргізіледі?,answered,high,1.0,1.0,1.0,1.0,56.49,Қ.И.Сәтбаев атындағы ҚазҰТЗУ оқытудың кредиттік технологиясы (PhD докторантура) туралы Қағида 2025,"Қысқаша жауап: Жазғы семестрге ақы төлеу тиісті модуль пәндеріне тіркелу басталғанға дейін жүргізіледі. [1]
+
+Қалай жасалады:
+1. Оқу ақысы төленбеген жағдайда докторант пәндерге тіркелуге жіберілмеуі мүмкін және/немесе пәндерге тіркеуден шығарылуы (Тіркеу кеңсесі реттейді) мүмкін. [1]",
+education_05_en,education,en,How does registration for courses work?,not_found,low,1.0,0.25,,,65.26,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+education_06_ru,education,ru,Что такое летний семестр?,answered,high,1.0,1.0,1.0,1.0,62.71,Академическая политика 2022,"Коротко: При этом за итоговый экзамен проставляется оценка ""Е"", что является академической - задолженностью и влечёт - повторное - прохождение докторантом дисциплин(ы) на платной основе. [2]
+
+Пересдача — Подробнее:
+1. В случае получения студентом по государственному экзамену по дисциплине ""История Казахстана"" оценки ""неудовлетворительно"", он на платной основе вновь записывается на эту дисциплину, повторно посещает все виды учебных занятий в следующем академическом периоде или летнем семестре, выполняет требования текущего контроля, получает допуск и сдает государственный экзамен. [1]
+2. Пересдача положительной оценки по государственному экзамену с целью ее повышения не разрешается. [1]",
+education_06_kk,education,kk,Жазғы семестр деген не?,answered,medium,1.0,1.0,1.0,1.0,100.06,Академическая политика 2022,"Қысқаша жауап: При этом за итоговый экзамен проставляется оценка ""Е"", что является академической - задолженностью и влечёт - повторное - прохождение докторантом дисциплин(ы) на платной основе. [2]
+
+Қайта тапсыру — Толығырақ:
+1. Пересдача положительной оценки по государственному экзамену с целью ее повышения не разрешается. [1]
+
+(Бұл ереже құжатта басқа тілде жазылған, сондықтан үзінділер құжаттың түпнұсқа тілінде берілді.)",
+education_06_en,education,en,What is the summer semester?,answered,high,1.0,0.5,0.0,1.0,81.95,DP KazNRTU 706. Knowledge assessment and debt management (Bachelor's degree),"In short: Students sign up for summer semester courses online. [1]
+
+Retake — Amount:
+1. Students of other universities who receive a transcript at the end of the summer semester are eligible to study in the summer semester. [1]
+2. There is also a point-rating system in the summer semester. [1]",
+education_07_ru,education,ru,Какая система оценок используется в университете?,answered,high,1.0,0.3333,0.0,1.0,49.9,Положение о выдаче приложения к диплому Европейской системы перевода и накопления баллов (ECTS)  2023,"Коротко: В модели приложения, по которой будет выполняться перевод оценок, используется Европейская система трансфертов или перезачёта кредитов (ECTS). [1]",
+education_07_kk,education,kk,Университетте қандай бағалау жүйесі қолданылады?,not_found,low,1.0,1.0,,,46.3,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+education_07_en,education,en,What grading system is used at the university?,answered,high,1.0,1.0,1.0,1.0,50.03,REGULATIONS on Credit Technology of Education at the NJSC “KazNRTU named after K.I. Satbayev” (Undergraduate degree program) 2023,"In short: Accrual of points for the student's iROS results Letter Number Points Description Traditional grading grade grading system system Standard grades А 4,0 95-100 Participation in research activities at the ""Excellent"" international level abroad (III place). [1]",
+education_08_ru,education,ru,Какие требования к посещаемости занятий?,not_found,low,1.0,0.5,,,92.41,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+education_08_kk,education,kk,Сабаққа қатысуға қандай талаптар қойылады?,not_found,low,0.0,0.0,,,69.59,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+education_08_en,education,en,What are the class attendance requirements?,not_found,low,1.0,1.0,,,82.73,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+education_09_ru,education,ru,Что такое академический календарь?,answered,high,1.0,1.0,1.0,1.0,71.81,Академическая политика 2022,"Коротко: Сроки проведения регистрации указываются в Академическом календаре. [1]
+
+Подробнее:
+1. Организация учебного процесса в рамках одного учебного года осуществляется на основе Академического календаря, который утверждается решением Ученого совета университета. [1]
+2. В Академическом календаре отражается периоды проведения учебных занятий, промежуточных и итоговых аттестаций, профессиональных практик и других видов учебной работы в течение учебного года, дни отдыха (каникулы и праздники). [1]",
+education_09_kk,education,kk,Академиялық күнтізбе деген не?,answered,high,1.0,1.0,1.0,1.0,64.22,Академиялық саясат 2022,"Қысқаша жауап: Тіркеу мерзімі академиялық күнтізбеде көрсетіледі. [1]
+
+Толығырақ:
+1. Ғылыми кеңесінің шешімімен бекітілетін Академиялық күнтізбе негізінде жүзеге асырылады. [1]
+2. Академиялық күнтізбеде оқу жылында, демалыс күндері (каникулдар мен мерекелер) оқу сабақтарын, аралық және қорытынды аттестаттауларды, кәсіптік практикаларды және оқу жұмысының басқа да түрлерін өткізу кезеңдері көрсетіледі. [1]",
+education_09_en,education,en,What is the academic calendar?,answered,high,1.0,0.5,0.5,1.0,61.25,Provision on developing the degree programs 2022,"In short: Academic calendar (Academic Calendar) - a calendar of educational and control events, professional practices during the academic year, indicating the days of rest (vacations and holidays). [1]
+
+Amount:
+1. Academic hour is a unit of measurement of the volume of training sessions or other types of academic work, 1 academic hour is equal to 50 minutes, is used in preparing the academic calendar (schedule of the educational process), schedule of training sessions, when planning and accounting for the completed training material, as well as when planning the teaching load and accounting for the teacher’s work. [1]
+2. The dates of registration are indicated in Academic Calendar. [2]",
+education_10_ru,education,ru,Что такое элективные дисциплины?,answered,high,1.0,0.25,0.0,1.0,57.21,Положение о дополнительной образовательной программе (Minor) 2022,"Коротко: Индивидуальный учебный план - учебный план студента, самостоятельно формируемый им на каждый учебный год с помощью эдвайзера на основании образовательной программы и каталога элективных дисциплин. [1]
+
+Регистрация на дисциплины — Подробнее:
+1. Вузовский компонент - перечень учебных дисциплин и. [1]
+2. АИС - Автоматизированная информационная система ОР - Офис регистратора ДИС - Департамент информационных систем ИДО - Институт дистанционного образования ОЮО - Отдел юридического обеспечения УМС - Учебно-методический совет УМК - учебно-методический комплекс ИУП - индивидуальный учебный план КЭД - каталог элективных дисциплин СРО - самостоятельная работа обучающегося СРОП - самостоятельная работа обучающегося под руководством преподавателя. [2]",
+education_10_kk,education,kk,Элективті пәндер деген не?,answered,low,1.0,1.0,0.0,1.0,59.12,Білім беру бағдарламаларын әзірлеу туралы Ереже 2022,Қысқаша жауап: Жеке оқу жоспары - білім беру бағдарламасы және элективті пәндер каталогы негізінде эдвайзердің көмегімен студенттің әрбір оқу жылына өзі дербес қалыптастыратын оқу жоспары. [1],
+education_10_en,education,en,What are elective courses?,answered,medium,1.0,0.5,0.0,1.0,75.92,Положение о дополнительной образовательной программе (Minor) 2022,"In short: Индивидуальный учебный план - учебный план студента, самостоятельно формируемый им на каждый учебный год с помощью эдвайзера на основании образовательной программы и каталога элективных дисциплин. [1]
+
+(This rule is written in another language in the document, so the fragments are quoted in the original.)",
+exams_01_ru,exams,ru,Как проходит экзаменационная сессия?,answered,high,1.0,1.0,1.0,1.0,49.52,ДП КазНИТУ 706 Оценка знаний и ликвидация задолженности (бакалавриат),"Коротко: Итоговая аттестация (Qualification Examination) - процедура, проводимая с целью определения степени усвоения обучающимся программы соответствующего уровня образования, по результатам которой выдается документ об образовании государственного образца (диплом). [1]
+
+Экзамен — Как это сделать:
+1. Экзаменационная сессия - период промежуточной аттестации обучающихся в высших учебных заведениях. [1]",
+exams_01_kk,exams,kk,Емтихан сессиясы қалай өтеді?,answered,medium,1.0,1.0,1.0,1.0,77.14,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: 
+   • Білім алушыларды пән бойынша емтиханға жіберу автоматты түрде жүзеге асырылады: - үлгерімді ағымдағы және межелік бақылау нәтижелері бойынша айқындалатын рұқсат беру рейтингінің бағасы негізінде (екі аттестаттау үшін қажетті семестрлік балдардың жалпы саны кемінде 25)
+   • Оқу ақысы бойынша берешегі жоқ
+   • Пән бойынша оқу сабақтарының 20%-дан астамы өткізілмесе
+   • Академиялық демалыста болмағандар [1]
+
+Емтихан — Қалай жасалады:
+1. Емтихан тізімдемелері Тіркеу кеңсесінде сақталады. [1]
+2. Студент белгіленген мерзімде, кешіктірмей бекітілген кестеге сәйкес емтиханға/сынаққа келуге міндетті. [1]
+3. Емтихандарды онлайн форматта тапсырған кезде студент камераны қосуға және өзін ID картамен сәйкестендіруге міндетті. [1]
+4. Студент емтихан сессиясын ұйымдастыру және өткiзу жөнiндегi ереженi қатаң сақтауға мiндеттi. [1]",
+exams_01_en,exams,en,How is the examination session organized?,answered,high,1.0,1.0,1.0,1.0,54.09,Regulations on Credit Technology of Education at the NJSC KazNRTU named after K.I.Satpayev (Undergraduate degree program),"In short: The examination session is organized by an Office Registrar moderator. [1]
+
+Exam — Amount:
+1. An examination schedule is drawn up and approved by the supervising vice-rector no later than 4 weeks before the start of the examination session. [1]
+2. In addition, the OR monitors examinations for compliance with the rules of the Regulation on the organization and conduct of the examination session. [1]",
+exams_02_ru,exams,ru,Что такое рейтинг допуска к экзамену?,answered,high,1.0,1.0,1.0,1.0,67.13,Положение по организации и проведению  экзаменационной сессии 2023,"Коротко: Смена или сессия Экзамены, проходящие в одно и тоже время экзамена экзаменационной сессии. [1]
+
+Экзамен — Подробнее:
+1. ""Слепая"" проверка Проверка ответов обучающихся на экзаменационные экзаменационного билета билеты, когда экзаменатор (преподаватель) не может идентифицировать персональные данные автора ответа. [1]
+2. Средний балл Средневзвешенная оценка уровня учебных достижений успеваемости обучающегося по выбранной программе за академический период (отношение суммы произведений кредитных часов по дисциплине к общему количеству кредитов за текущий период обучения. [1]",
+exams_02_kk,exams,kk,Емтиханға жіберу рейтингі деген не?,answered,medium,1.0,1.0,1.0,1.0,74.29,Положение по организации и проведению  экзаменационной сессии 2023,"Қысқаша жауап: Смена или сессия Экзамены, проходящие в одно и тоже время экзамена экзаменационной сессии. [1]
+
+Емтихан — Толығырақ:
+1. ""Слепая"" проверка Проверка ответов обучающихся на экзаменационные экзаменационного билета билеты, когда экзаменатор (преподаватель) не может идентифицировать персональные данные автора ответа. [1]
+2. Средний балл Средневзвешенная оценка уровня учебных достижений успеваемости обучающегося по выбранной программе за академический период (отношение суммы произведений кредитных часов по дисциплине к общему количеству кредитов за текущий период обучения. [1]
+
+(Бұл ереже құжатта басқа тілде жазылған, сондықтан үзінділер құжаттың түпнұсқа тілінде берілді.)",
+exams_02_en,exams,en,What is the admission rating for the exam?,answered,low,1.0,1.0,1.0,1.0,55.13,REGULATIONS on Credit Technology of Education at the NJSC “KazNRTU named after K.I. Satbayev” (Undergraduate degree program) 2023,"In short: Admission of students to the exam in the discipline is carried out automatically: - based on the assessment of the admission rating, determined by the results of the current and midterm control of academic performance (the total number of required semester points is at least 25 for two attestations); - not having depts in tuition fees. - not having more than 20% absence of training sessions in the discipline. - not be on academic leave. [1]",
+exams_03_ru,exams,ru,Как подать апелляцию на оценку экзамена?,not_found,low,1.0,1.0,,,83.24,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+exams_03_kk,exams,kk,Емтихан бағасына апелляцияны қалай беруге болады?,not_found,low,1.0,1.0,,,100.68,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+exams_03_en,exams,en,How can I appeal an exam grade?,not_found,low,1.0,1.0,,,106.35,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+exams_04_ru,exams,ru,Можно ли пересдать экзамен с положительной оценкой?,answered,high,1.0,1.0,1.0,1.0,62.73,Положение по организации и проведению  экзаменационной сессии 2023,"Коротко: Смена или сессия Экзамены, проходящие в одно и тоже время экзамена экзаменационной сессии. [1]
+
+Экзамен — Условия:
+1. ""Слепая"" проверка Проверка ответов обучающихся на экзаменационные экзаменационного билета билеты, когда экзаменатор (преподаватель) не может идентифицировать персональные данные автора ответа. [1]
+2. Средний балл Средневзвешенная оценка уровня учебных достижений успеваемости обучающегося по выбранной программе за академический период (отношение суммы произведений кредитных часов по дисциплине к общему количеству кредитов за текущий период обучения. [1]
+3. Пересдача положительной оценки по государственному экзамену с целью ее повышения не разрешается. [2]",
+exams_04_kk,exams,kk,Оң бағамен тапсырылған емтиханды қайта тапсыруға бола ма?,not_found,low,1.0,1.0,,,116.93,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+exams_04_en,exams,en,Can I retake an exam that I passed with a positive grade?,answered,low,1.0,1.0,1.0,1.0,92.03,Regulation on the organization and conduct of the examination session 2023,"In short: Retake Course (Retake) Repeated completion of the discipline in case of receiving the final grade ""unsatisfactory"" (""F"") Proctor (Proctor) Independent observer from the University staff responsible for compliance with the rules of the exam. [1]",
+exams_05_ru,exams,ru,Что означает оценка FX?,not_found,low,1.0,1.0,,,61.32,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+exams_05_kk,exams,kk,FX бағасы нені білдіреді?,answered,low,1.0,1.0,1.0,0.5,76.56,Бірінші курстарға арналған анықтама-кітапша 2026 (Freshman guide),"Университеттің ресми құжаттарында нақты сомасы (теңгемен) табылмады - сомасын Студенттерге қызмет көрсету орталығынан немесе бухгалтериядан нақтылаңыз. Осы тақырып бойынша құжаттарда мынадай мәлімет бар:
+
+Қысқаша жауап: FX ""FX"" бағасы студент семестр қорытындысы бойынша кемінде 25 балл жинаған жағдайда қойылады, бірақ емтихан кезінде а) 25-49 балл жинаса немесе б) пән бойынша жиынтық шекті деңгейін 50 балл немесе одан көп балл жинай алмаған жағдайда қойылады. [1]",
+exams_05_en,exams,en,What does the FX grade mean?,not_found,low,1.0,1.0,,,102.03,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+exams_06_ru,exams,ru,"Что делать, если я пропустил экзамен по уважительной причине?",answered,high,0.0,0.0,0.0,1.0,77.84,Методическая рекомендация по формированию учебно-методического комплекса дисциплин 2022,"Коротко: При пропуске экзамена по уважительной причине оформляется специальное разрешение и назначается дата, время и место сдачи экзамена. [1]
+
+Посещаемость — Подробнее:
+1. Если Вы вынуждены пропустить промежуточную аттестацию по уважительным причинам, Вы должны предупредить преподавателя заранее до нее, чтобы была возможность сдать пройти рубежный контроль заранее. [1]
+2. Пропуск экзамена по неуважительной причине лишает Вас права на его сдачу. [1]",
+exams_06_kk,exams,kk,Емтиханды дәлелді себеппен өткізіп алсам не істеу керек?,answered,low,1.0,1.0,0.0,1.0,102.39,Онлайн курсты әзірлеу бойынша Әдістемелік ұсынымдар 2023,"Қысқаша жауап: Емтиханды дәлелді себептермен өткізіп алған кезде арнайы рұқсат ресімделеді және емтиханды тапсыру күні, уақыты мен орны белгіленеді. [1]",
+exams_06_en,exams,en,What should I do if I missed an exam for a valid reason?,answered,medium,1.0,1.0,1.0,1.0,87.77,Regulation on the organization and conduct of the examination session 2023,"In short: If a student is absent from the exam session without a valid reason for not showing up for the exam, an ""F"" grade is given. [1]",
+exams_07_ru,exams,ru,Как проводится онлайн-экзамен?,answered,high,1.0,1.0,1.0,1.0,51.62,ДП КазНИТУ 706 Оценка знаний и ликвидация задолженности (бакалавриат),"Коротко: Итоговая аттестация (Qualification Examination) - процедура, проводимая с целью определения степени усвоения обучающимся программы соответствующего уровня образования, по результатам которой выдается документ об образовании государственного образца (диплом). [1]",
+exams_07_kk,exams,kk,Онлайн емтихан қалай өткізіледі?,answered,low,1.0,1.0,1.0,1.0,87.52,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: 
+   • Білім алушыларды пән бойынша емтиханға жіберу автоматты түрде жүзеге асырылады: - үлгерімді ағымдағы және межелік бақылау нәтижелері бойынша айқындалатын рұқсат беру рейтингінің бағасы негізінде (екі аттестаттау үшін қажетті семестрлік балдардың жалпы саны кемінде 25)
+   • Оқу ақысы бойынша берешегі жоқ
+   • Пән бойынша оқу сабақтарының 20%-дан астамы өткізілмесе
+   • Академиялық демалыста болмағандар [1]
+
+Емтихан — Қалай жасалады:
+1. Емтихандарды онлайн форматта тапсырған кезде студент камераны қосуға және өзін ID картамен сәйкестендіруге міндетті. [1]",
+exams_07_en,exams,en,How is an online exam conducted?,answered,low,1.0,1.0,1.0,1.0,75.84,Regulation on the organization and conduct of the examination session 2023,In short: The exam in the form of an oral exam is usually conducted during entrance processes or when passing complex and state exams. [1],
+exams_08_ru,exams,ru,Как ликвидировать академическую задолженность?,answered,high,1.0,1.0,1.0,1.0,61.53,ДП КазНИТУ 706 Оценка знаний и ликвидация задолженности (бакалавриат),"Коротко: Организация системы регистрации и учета учебных достижений обучающихся, организация процесса ликвидации задолженностей обучающихся осуществляется службой ""Офис регистратор"", которая подчиняется проректору по академическим вопросам. [1]
+
+Как это сделать:
+1. Требования настоящей процедуры применяются к текущему, рубежному и итоговому контролю, процессам работы с обучающимися, имеющими академическую задолженность. [1]
+2. В случае, если обучающийся при восстановлении или переводе не ликвидировал разницу в учебных планах в установленный срок, в дальнейшем она может учитываться как академическая задолженность и, соответственно, влиять на его GPA при переводе с курса на курс. [2]",
+exams_08_kk,exams,kk,Академиялық берешекті қалай жоюға болады?,answered,high,1.0,0.5,0.0,1.0,71.04,Эдвайзер туралы ереже 2024,"Қысқаша жауап: Тәртіп пен сабаққа қатысуды бақылау білім алушыны электрондық мекенжай бойынша, ал ол болмаған жағдайда сабақты өткізіп жіберу туралы шартта көрсетілген тұрғылықты мекен-жайы бойынша және оларға сабақты өткізіп алудың дәлелді себебін растайтын құжаттарды ұсыну қажеттілігі, сондай-ақ академиялық берешектің дәлелді себептері мен салдарынсыз сабақты өткізіп алғаны үшін жауапкершілік туралы жазбаша нысанда хабардар етуді қамтиды. [1]
+
+Қалай жасалады:
+1. ""Кафедра меңгерушісін, институт басшылығын, студенттердің атааналарын (туыстарын) академиялық үлгерім және қаржылық берешек мәселелері бойынша уақтылы хабардар ету. [1]",
+exams_08_en,exams,en,How can I eliminate academic debt?,answered,medium,1.0,1.0,1.0,1.0,49.1,DP KazNRTU 706. Knowledge assessment and debt management (Bachelor's degree),"In short: If the student did not eliminate the difference in the curriculum during rehabilitation or transfer within the established period, it may be considered as academic debt in the future and, accordingly, affect their GPA when transferring from one course to another. [1]",
+exams_09_ru,exams,ru,Сколько длится экзамен?,not_found,low,1.0,1.0,,,43.41,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+exams_09_kk,exams,kk,Емтихан қанша уақытқа созылады?,not_found,low,1.0,1.0,,,62.14,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+exams_09_en,exams,en,How long does an exam last?,answered,low,1.0,1.0,1.0,1.0,74.79,Regulation on the organization and conduct of the examination session 2023,"In short: The proctor is required to notify students by voice of the remaining time until the end of the exam, with the last 15 minutes-every 5 minutes, and the last 5 minutes - every minute. [1]",
+exams_10_ru,exams,ru,"Что будет, если меня поймают на списывании на экзамене?",not_found,low,1.0,1.0,,,47.59,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+exams_10_kk,exams,kk,Емтиханда көшіріп жазып ұсталсам не болады?,answered,high,1.0,1.0,1.0,1.0,65.67,ДП КазНИТУ 706 Оценка знаний и ликвидация задолженности (бакалавриат),"Қысқаша жауап: Экзаменационная сессия - период промежуточной аттестации обучающихся в высших учебных заведениях. [1]
+
+Емтихан — Қалай жасалады:
+1. Итоговая аттестация (Qualification Examination) - процедура, проводимая с целью определения степени усвоения обучающимся программы соответствующего уровня образования, по результатам которой выдается документ об образовании государственного образца (диплом). [1]
+
+(Бұл ереже құжатта басқа тілде жазылған, сондықтан үзінділер құжаттың түпнұсқа тілінде берілді.)",
+exams_10_en,exams,en,What happens if I am caught cheating during an exam?,not_found,low,1.0,1.0,,,69.13,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+scholarship_01_ru,scholarship,ru,Кто имеет право на получение стипендии?,answered,high,1.0,0.5,0.0,1.0,63.96,Академическая политика 2022,"Коротко: 14.11Обучающиеся, получившие по результатам экзаменационной сессии только оценки ""отлично"", имеют право на получение повышенной государственной стипендии. [1]",
+scholarship_01_kk,scholarship,kk,Шәкіртақы алуға кімнің құқығы бар?,answered,low,1.0,0.25,0.0,1.0,78.49,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Мемлекеттік шәкіртақыны төлеу оқу аяқталғаннан кейін, сондай-ақ ҚР заңнамасында көзделген өзге де жағдайларда тоқтатылады. [1]
+
+Шәкіртақы — Шарттары:
+1. Үстемеақылардың мөлшері Шәкіртақы төлеу қағидаларында айқындалады. [1]
+2. Шәкіртақыны тағайындау емтихан сессиясының қорытындысы негiзiнде Ректордың немесе оның орнындағы адамның бұйрығымен жүргiзiледi. [1]
+3. Шәкіртақыны төлеу студент банкте ашқан ағымдағы шотқа стипендия сомасын аудару жолымен жүзеге асырылады. [1]",
+scholarship_01_en,scholarship,en,Who is eligible for a scholarship?,answered,medium,0.0,0.0,0.0,1.0,43.83,Academic Policy 2022,"In short: Students who have received only ""excellent"" grades based on examination session results are eligible for an increased state scholarship. [1]",
+scholarship_02_ru,scholarship,ru,Какой средний балл нужен для стипендии?,not_found,low,0.0,0.0,,,76.09,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+scholarship_02_kk,scholarship,kk,Шәкіртақы алу үшін қандай орташа балл қажет?,not_found,low,1.0,1.0,,,74.21,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+scholarship_02_en,scholarship,en,What average grade is required to receive a scholarship?,not_found,low,1.0,0.2,,,74.83,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+scholarship_03_ru,scholarship,ru,Как назначается государственная стипендия?,answered,high,0.0,0.0,0.0,1.0,73.35,Правила кредитной технологии обучения в КазНИТУ имени К.И.Сатпаева (докторантура PhD) 2025,"Коротко: В период нахождения докторантов в отпуске по уходу за ребёнком до достижения им возраста трёх лет государственная стипендия не назначается. [1]
+
+Стипендия — Как это сделать:
+1. Порядок назначения и выплаты государственной стипендии докторанту на основе государственного образовательного гранта, размеры государственной стипендии и надбавок к ней определяются Правилами назначения, выплаты и размеров государственных стипендий обучающимся в организациях образования.02.2008г. (в редакции постановления Правительства РК от 28.06.2024) далее. [1]
+2. Докторантам государственная стипендия назначается на весь срок обучения и выплачивается независимо от результатов промежуточной аттестации (экзаменационной сессии) в течение всего периода обучения. [1]
+3. Докторантам, возвратившимся U3 академического отпуска, назначение и выплата государственной стипендии осуществляется в установленном УТВЕРЖДЕНО Решением Правления "" 77 "" 222025 г. [1]
+4. Всем студентам, зачисленным на первый год обучения на основе государственного образовательного гранта, в первом академическом периоде назначается государственная стипендия. [2]",
+scholarship_03_kk,scholarship,kk,Мемлекеттік шәкіртақы қалай тағайындалады?,answered,high,1.0,0.25,0.0,1.0,71.86,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Академиялық демалыстан оралған студенттерге мемлекеттік шәкіртақыны тағайындау және төлеу алдағы (кезекті) емтихан сессиясының қорытындысы бойынша белгіленген тәртіпте жүзеге асырылады. [1]
+
+Шәкіртақы — Қалай жасалады:
+1. Студенттер үш жасқа толғанға дейін бала күтімі бойынша демалыста болған кезеңде мемлекеттік шәкіртақы тағайындалмайды. [1]
+2. Емтихан сессиясының нәтижелері бойынша тек ""өте жақсы"" деген баға алған студенттер жоғары мемлекеттік шәкіртақы алуға құқылы. [1]
+3. Шәкіртақыны тағайындау емтихан сессиясының қорытындысы негiзiнде Ректордың немесе оның орнындағы адамның бұйрығымен жүргiзiледi. [1]
+4. Мемлекеттiк бiлiм гранты негiзiнде оқудың бiрiншi жылына қабылданған барлық студенттерге бiрiншi академиялық кезеңде мемлекеттiк шәкіртақы тағайындалады. [2]",
+scholarship_03_en,scholarship,en,How is the state scholarship awarded?,answered,high,0.0,0.0,0.0,1.0,57.65,Academic Policy 2022,"In short: All students enrolled in the first year of study on the basis of a state educational grant are awarded a state scholarship in the first academic period. [1]
+
+Scholarship — Deadlines:
+1. State scholarship is paid to the visually and hearing disabled, orphaned children and children left without parental care and under the tutelage (guardianship), studying under the state educational order, in the absence of academic debt according to examination session results. [1]
+2. Scholarship is paid monthly from the first day of the month following the. [1]",
+scholarship_04_ru,scholarship,ru,Какие формы материальной поддержки есть для студентов?,not_found,low,1.0,1.0,,,86.69,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+scholarship_04_kk,scholarship,kk,Студенттерге материалдық қолдаудың қандай түрлері бар?,not_found,low,1.0,1.0,,,74.92,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+scholarship_04_en,scholarship,en,What forms of financial support are available to students?,answered,high,1.0,0.5,0.0,1.0,54.12,Student life,"In short: Types of assistance available to students: financial aid and material support; tuition fee discounts and university grants; social, named, and incentive payments; discounted meals; free or subsidized dormitory accommodation for certain categories; medical assistance (primary and emergency care); social and psychological support; social, legal, and juridical consultations; assistance with employment and summer jobs; incentives for academic, scientific, sports, and social achievements. [1]
+
+How to do it:
+1. The amount of discounts and the conditions for their provision depend on the student’s category, academic performance, and supporting documents, and are reviewed at the end of each academic period. [1]",
+scholarship_05_ru,scholarship,ru,Как получить скидку на обучение?,answered,medium,0.0,0.0,0.0,1.0,64.05,Правила кредитной технологии обучения в НАО КазНИТУ имени К.И.Сатпаева (бакалавриат) 2023,"Коротко: Стоимость обучения в Университете устанавливается решением. [1]
+
+Оплата обучения — Как это сделать:
+1. Ученый совет определяет скидки к стоимости обучения для отдельных категорий студентов. [1]
+2. Без заключения договора, оплаты за обучение и выхода приказа о восстановлении, зачислении студент не допускается к учебным занятиям. [1]
+3. Оплата за обучение производится в порядке и сроки, установленные заключёнными договорами на оказание образовательных услуг. [1]
+4. Установленная стоимость обучения включает стоимость минимального количества кредитов, предусмотренного рабочим учебным планом специальности. [2]",
+scholarship_05_kk,scholarship,kk,Оқу ақысына жеңілдікті қалай алуға болады?,answered,high,0.0,0.0,0.0,1.0,58.38,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Ғылыми кеңес студенттердің жекелеген санаттары үшін оқу құнына жеңілдіктер белгілейді. [1]
+
+Оқу ақысы — Қалай жасалады:
+1. Шарт жасаспай, оқу ақысы төленбейінше және оқуға қайта қабылдау, қабылдау туралы бұйрық шықпай, студент оқу сабақтарына жіберілмейді. [1]
+2. Оқу ақысы білім беру қызметтерін көрсетуге жасалған шарттарда белгіленген тәртіпте және мерзімде төленеді. [1]",
+scholarship_05_en,scholarship,en,How can I get a tuition discount?,answered,high,0.0,0.0,0.0,1.0,48.94,Inviting foreign students,"In short: The tuition fee starts from $4,000. [1]
+
+Tuition — How to do it:
+1. Tuition fees at Satbayev University are calculated per year of study (36 credits for Bachelor's degree program). [1]
+2. The program provides students with free tuition and a monthly scholarship depending on the student’s academic success. [1]",
+scholarship_06_ru,scholarship,ru,Что такое именная стипендия?,answered,low,1.0,0.5,0.5,1.0,76.76,Правила кредитной технологии обучения в НАО КазНИТУ имени К.И.Сатпаева (бакалавриат) 2023,"Коротко: Именная (производственная) стипендия направлена на стимулирование учебной, научной и практической деятельности талантливых и перспективных обучающихся. [2]
+
+Стипендия — Подробнее:
+1. Всем студентам, зачисленным на первый год обучения на основе государственного образовательного гранта, в первом академическом периоде назначается государственная стипендия. [1]
+2. Инвалидам по зрению и инвалидам по слуху, детям-сиротам и детям, оставшимся без попечения родителей и находящимся под опекой (попечительством), обучающимся по государственному образовательному заказу, государственная стипендия выплачивается при отсутствии академической задолженности по результатам экзаменационной сессии. [1]",
+scholarship_06_kk,scholarship,kk,Атаулы шәкіртақы деген не?,answered,high,1.0,1.0,1.0,1.0,48.34,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ білім алушыларын стипендиямен қамтамасыз ету және материалдық қолдаудың басқа да нысандары туралы ереже 2022,"Қысқаша жауап: Атаулы стипендияларды тағайындау және төлеу тәртібі. [1]
+
+Шәкіртақы — Толығырақ:
+1. Атаулы (өндірістік) стипендия дарынды және перспективалы білім алушылардың оқу, ғылыми және практикалық қызметін ынталандыруға бағытталған. [1]
+2. Кәсіпорын конкурс жариялайды және жеңімпаздарға атаулы стипендия тағайындайды. [1]",
+scholarship_06_en,scholarship,en,What is a named scholarship?,answered,medium,0.0,0.0,0.0,1.0,49.68,REGULATIONS on Credit Technology of Education at the NJSC “KazNRTU named after K.I. Satbayev” (Undergraduate degree program) 2023,"In short: All students enrolled in the first year of study based on a state educational grant are assigned a state scholarship in the first academic period. [1]
+
+Scholarship — More details:
+1. In subsequent semesters of study, the appointment and payment of a state scholarship is made if, following the results of the examination session (including. [1]",
+scholarship_07_ru,scholarship,ru,Сохраняется ли стипендия во время академического отпуска?,not_found,low,1.0,0.2,,,112.35,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+scholarship_07_kk,scholarship,kk,Академиялық демалыс кезінде шәкіртақы сақтала ма?,answered,high,0.0,0.0,0.0,1.0,82.99,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Медициналық қорытынды негізінде академиялық демалыста жүрген студенттерге академиялық демалыс уақытында мемлекеттік шәкіртақы тиісінше мемлекеттік стипендия мөлшерінің 50%-ы (елу), мүгедектерге - 75% (жетпіс бес) пайызы мөлшерінде белгіленеді. [1]
+
+Академиялық демалыс — Шарттары:
+1. Жүктiлiгi мен босануы бойынша демалыс кезеңiнде студенттерге мемлекеттiк шәкіртақы жүктiлiгi мен босануы бойынша демалысқа кеткенге дейiн белгiленген мөлшерде, Қазақстан Республикасының қолданылып жүрген заңдарында белгiленген бүкiл мерзiм iшiнде төленедi. [1]
+2. Студенттер үш жасқа толғанға дейін бала күтімі бойынша демалыста болған кезеңде мемлекеттік шәкіртақы тағайындалмайды. [1]
+3. Академиялық демалыстан оралған студенттерге мемлекеттік шәкіртақыны тағайындау және төлеу алдағы (кезекті) емтихан сессиясының қорытындысы бойынша белгіленген тәртіпте жүзеге асырылады. [1]",
+scholarship_07_en,scholarship,en,Is the scholarship kept during academic leave?,answered,medium,0.0,0.0,0.0,1.0,92.67,Academic Policy 2022,"In short: During the period when students are on parental leave until they reach the age of three, a state scholarship is not awarded. [1]
+
+Academic leave — Deadlines:
+1. When submitting a sheet on temporary disability due to pregnancy and childbirth during the academic leave period, the academic leave is interrupted and maternity leave is issued. [1]
+2. For students who have returned from academic leave, the appointment and payment of a state scholarship is carried out in accordance with the established procedure following the results of the upcoming (regular) examination session. [1]",
+scholarship_08_ru,scholarship,ru,Как получить грант университета?,answered,low,0.0,0.0,0.0,1.0,66.25,Правила кредитной технологии обучения в НАО КазНИТУ имени К.И.Сатпаева (бакалавриат) 2023,"Коротко: Всем студентам, зачисленным на первый год обучения на основе государственного образовательного гранта, в первом академическом периоде назначается государственная стипендия. [1]
+
+Стипендия — Как это сделать:
+1. Порядок назначения и выплаты государственной стипендии обучающимся на основе государственного образовательного гранта, размеры государственной стипендии и надбавок к ней определяются Правилами назначения, выплаты и размеров государственных стипендий обучающимся в организациях образования, утвержденные соответствующим Постановлением Правительства РК (далее. [1]
+2. Инвалидам по зрению и инвалидам по слуху, детям-сиротам и детям, оставшимся без попечения родителей и находящимся под опекой (попечительством), обучающимся по государственному образовательному заказу, государственная стипендия выплачивается при отсутствии академической задолженности по результатам экзаменационной сессии. [1]",
+scholarship_08_kk,scholarship,kk,Университет грантын қалай алуға болады?,answered,medium,0.0,0.0,0.0,1.0,48.02,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Мемлекеттік білім беру тапсырысы бойынша оқитын көзі көрмейтін мүгедектер мен есту қабілеті нашар мүгедектерге, жетім балаларға және ата-анасының қамқорлығынсыз қалған және қорғаншылықтағы (қамқоршылықтағы) балаларға мемлекеттік шәкіртақы емтихан сессиясының нәтижелері бойынша академиялық берешегі болмаған кезде төленеді. [1]
+
+Шәкіртақы — Қалай жасалады:
+1. Мемлекеттiк бiлiм гранты негiзiнде оқудың бiрiншi жылына қабылданған барлық студенттерге бiрiншi академиялық кезеңде мемлекеттiк шәкіртақы тағайындалады. [1]",
+scholarship_08_en,scholarship,en,How can I get a university grant?,answered,low,0.0,0.0,0.0,1.0,84.81,Academic Policy 2022,"In short: Scholarship is paid monthly from the first day of the month following the. [1]
+
+Scholarship — How to do it:
+1. All students enrolled in the first year of study on the basis of a state educational grant are awarded a state scholarship in the first academic period. [1]
+2. State scholarship is paid to the visually and hearing disabled, orphaned children and children left without parental care and under the tutelage (guardianship), studying under the state educational order, in the absence of academic debt according to examination session results. [1]",
+scholarship_09_ru,scholarship,ru,Какая социальная поддержка есть для студентов-сирот?,answered,high,1.0,1.0,1.0,1.0,45.99,ДП КазНИТУ 715. Социальная поддержка обучающихся 2025,"Коротко: Для получения этой формы социальной поддержки обучающиеся представляют следующие документы: [1]
+
+Какие документы и требования:
+1. Студентам из числа детей-сирот и детей, оставшихся без попечения родителей разрешается бесплатное погашение не более 2 кредитов для повторного изучения дисциплин в течение 1 учебного года. [1]
+2. Студенты из числа детей-сирот и детей, оставшихся, без попечения родителей и находящихся под опекой освобождаются от оплаты за проживание в общежитиях. [1]",
+scholarship_09_kk,scholarship,kk,Жетім студенттерге қандай әлеуметтік қолдау бар?,answered,high,1.0,1.0,1.0,1.0,55.97,ҚазҰТЗУ 715 ҚП. Білім алушыларды әлеуметтік қолдау 2025,"Қысқаша жауап: Материалдық жағдайы ауыр отбасылардан шыққан студенттер үшін Университетте Қазақстан Республикасы Үкіметінің 2012 жылғы 12 наурыздағы ""Әлеуметтік көмек көрсетілетін азаматтарға әлеуметтік көмектің мөлшерін, көздерін, түрлерін және оны беру қағидаларын бекіту туралы"" қаулысына сәйкес 2015 жылғы 25 сәуірдегі жағдай бойынша езгерстер мен толықтырулармен жетім балалар мен ата-анасының қамқорлығынсыз қалған және қамқорлыққа алынған балалар қатарындағы студенттерді мемлекеттік қамтамасыз етуге сәйкес жеңілдікпен тамақтану ұсынылады. [1]
+
+Қажетті құжаттар мен талаптар:
+1. Университеттің жер қойнауын пайдаланушылармен ынтымақтастық орталығы серіктес компаниялармен тығыз жұмыс істейді және халықтың әлеуметтік осал топтарының студенттеріне едәуір көмек көрсетеді. [1]
+2. Жетім балалар мен ата- анасының қамқорлығынсыз қалған балалар қатарындағы студенттерге 1 оқу жылы ішінде пәндерді қайта оқу үшін 2 кредиттен артық емес тегін өтеуге рұқсат етіледі. [1]",
+scholarship_09_en,scholarship,en,What social support is available for orphan students?,answered,high,1.0,1.0,1.0,1.0,53.61,DP KazNRTU 715. Social support for Students 2025,"In short: DP KazNRTU 715 Social Support for Students Page 7 from 12 students from among orphans and children left without parental care and under guardianship, 2012 Ne 320 with amendments and additions as of April 25,2015 ""On approval of the amounts, sources, types and Rules for the provision of social assistance to citizens who are provided with social assistance"". [1]",
+scholarship_10_ru,scholarship,ru,Когда выплачивается стипендия?,answered,high,0.0,0.0,0.0,1.0,68.57,Правила кредитной технологии обучения (магистратура) 2022,"Коротко: Государственная стипендия выплачивается ежемесячно с первого числа месяца, следующего за промежуточной аттестацией (экзаменационной сессией) и каникулами, включительно до конца месяца, в котором заканчиваются академический период, промежуточная аттестация и каникулы. [1]
+
+Стипендия — Сроки:
+1. Государственная стипендия назначается и выплачивается магистрантам, обучающимся по государственному образовательному заказу по очной форме обучения. [1]
+2. Обучающимся выпускных курсов государственная стипендия выплачивается до даты отчисления в связи с окончанием организаций образования. [1]",
+scholarship_10_kk,scholarship,kk,Шәкіртақы қашан төленеді?,answered,medium,1.0,1.0,1.0,1.0,78.75,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ білім алушыларын стипендиямен қамтамасыз ету және материалдық қолдаудың басқа да нысандары туралы ереже 2022,"Қысқаша жауап: Мемлекеттік стипендияға ұсынылған студенттерге, магистранттарға жазғы каникул кезеңінде мемлекеттік стипендия екі айға (шілде, тамыз) жиынтық түрде төленеді. [1]
+
+Шәкіртақы — Мерзімдері:
+1. Кәсіптік практика, жазғы каникул кезеңінде, сондай-ақ жұмыс орындарында және лауазымдарда жұмыс істеген кезеңде студенттерге, магистранттарға жалақы төлене отырып, мемлекеттік стипендия осы Ережеде белгіленген тәртіпте төленеді. [1]
+2. Бір оқу орнынан екіншісіне ауыстырылған студенттерге, магистранттарға мемлекеттік стипендия оқу жоспарларындағы айырма жойылғаннан кейін алдыңғы семестрдің қорытындылары бойынша осы Ережеде белгіленген тәртіппен тағайындалады және төленеді. [1]",
+scholarship_10_en,scholarship,en,When is the scholarship paid?,answered,high,0.0,0.0,0.0,1.0,60.52,Academic Policy 2022,"In short: Scholarship is paid monthly from the first day of the month following the. [1]
+
+Scholarship — Deadlines:
+1. State scholarship is paid to the visually and hearing disabled, orphaned children and children left without parental care and under the tutelage (guardianship), studying under the state educational order, in the absence of academic debt according to examination session results. [1]
+2. Presidential scholarship is awarded to full-time students from 3rd study year and to undergraduates from 2nd study year, subject exclusively to ""excellent"" grades at the end of semesters, both on the basis of a state order and on a paid basis for the entire study period. [2]",
+dormitory_01_ru,dormitory,ru,Как получить место в общежитии?,answered,high,1.0,1.0,1.0,1.0,62.05,Правила распределения мест в общежитиях НАО КазНИТУ имени К.И.Сатпаева 2023,"Коротко: Обучающийся 1 курса, включенный в список на место в общежитие, обязан заселиться в течение 5-ти дней либо уведомить Коменданта общежития об уважительных причинах продления срока заселения. [1]
+
+Общежитие — Как это сделать:
+1. Далее в программе Dormitory заполняется приоритет. [1]
+2. По итогам Приказа на зачисление (кроме г. Алматы) секретарь комиссии по распределению мест в общежитии формирует список, далее направляет комендантам общежитий. [1]
+3. В ином случае ордер на заселение аннулируется. [1]
+4. Приказ на заселение/выселение студентов бакалавриата 1 курса формирует главный менеджер-секретарь Комиссии по заселению отдела по молодежной политике Департамента по делам молодежи и спорта. [1]",
+dormitory_01_kk,dormitory,kk,Жатақханадан орынды қалай алуға болады?,answered,low,1.0,1.0,1.0,1.0,89.65,Қ.И.Сәтбаев атындағы ҚазҰТЗУ жатақханаларында тұру Қағидалары 2023,"Қысқаша жауап: Dormitory платформасында Жатақханаларда тұру қағидаларын бұзғаны үшін жаза жүйесі: сөгіс, шығару (үш рет бұзылған жағдайда) қарастырылған. [1]
+
+Жатақхана — Қалай жасалады:
+1. Университетте орналастыру/шығару процесін автоматтандыру, сондай-ақ сыбайлас жемқорлық тәуекелдерін азайту мақсатында Dormitory электрондық платформасы әзірленді. [1]
+2. Орындар бекітілгеннен кейін Бөлу жөніндегі комиссия жатақханада тұру үшін орын бөлу туралы хабарламаны білім алушының жеке электрондық адресіне жеке электрондық поштасына жібереді. [1]",
+dormitory_01_en,dormitory,en,How can I get a place in the dormitory?,answered,low,1.0,1.0,1.0,1.0,90.46,Regulation for the allocation of the places in the dormitories KazNRTU named after K.Satbayev 2023,In short: 1st year student included in the list for a place in a dormitory must check in within 5 days or notify the dormitory commandant about valid reasons for extending the check-in period. [1],
+dormitory_02_ru,dormitory,ru,Какие документы нужны для заселения в общежитие?,answered,medium,1.0,1.0,1.0,1.0,74.39,Правила распределения мест в общежитиях НАО КазНИТУ имени К.И.Сатпаева 2023,"Коротко: Справка о чистом эпид.окружении (прохождении флюрографии) необходимо на момент заселения 10. [1]
+
+Общежитие — Какие документы и требования:
+1. Удостоверение супруга (копия, при наличии). [1]",
+dormitory_02_kk,dormitory,kk,Жатақханаға қоныстану үшін қандай құжаттар қажет?,answered,low,1.0,1.0,1.0,1.0,95.44,Бірінші курстарға арналған анықтама-кітапша 2026 (Freshman guide),"Қысқаша жауап: Жатақханаға орналасу үшін қажетті құжаттар тізімі: 1. [1]
+
+Жатақхана — Қажетті құжаттар мен талаптар:
+1. 2.Студенттің жатақханаға жеңілдікпен орналасу құқығын растайтын құжаттар. [1]
+2. Жатақханадан орын бөлінгеннен кейін қажетті құжаттарды сол орын бөлінген жатақхана қызметкерлеріне тапсыру керек. [1]
+3. (Бұл анықтама университеттің студенттер қалашығындағы Медициналық орталықтан беріледі, жатақхана, 1-қабат. [1]
+4. Студенттер жатақханаға орналасу үшін медициналық тексерістен өтіп, университеттің Медициналық орталығынан эпидемиологиялық жағдай туралы анықтама алуы тиіс. [1]",
+dormitory_02_en,dormitory,en,What documents are required to move into the dormitory?,answered,medium,1.0,1.0,1.0,1.0,79.87,Правила распределения мест в общежитиях НАО КазНИТУ имени К.И.Сатпаева 2023,"In short: Справка о чистом эпид.окружении (прохождении флюрографии) необходимо на момент заселения 10. [1]
+
+Dormitory — Documents and requirements:
+1. Свидетельство о браке (копия при наличии). [1]
+2. Удостоверение супруга (копия, при наличии). [1]
+
+(This rule is written in another language in the document, so the fragments are quoted in the original.)",
+dormitory_03_ru,dormitory,ru,Кто имеет приоритет при распределении мест в общежитии?,answered,high,1.0,1.0,1.0,1.0,67.76,Правила распределения мест в общежитиях НАО КазНИТУ имени К.И.Сатпаева 2023,"Коротко: По итогам Приказа на зачисление (кроме г. Алматы) секретарь комиссии по распределению мест в общежитии формирует список, далее направляет комендантам общежитий. [1]
+
+Общежитие — Условия:
+1. Далее в программе Dormitory заполняется приоритет. [1]
+2. Места общежитиях предоставляются по мере имеющейся мощности университета, согласно Приоритетов. [1]
+3. В ином случае ордер на заселение аннулируется. [1]",
+dormitory_03_kk,dormitory,kk,Жатақханада орын бөлуде кімнің басымдығы бар?,answered,high,1.0,1.0,1.0,1.0,55.05,Қ.И.Сәтбаев атындағы ҚазҰТЗУ жатақханаларында орындарды бөлу Қағидалары 2023,"Қысқаша жауап: Бұдан әрі, Dormitory бағдарламасында басымдығы толтырылады. [1]
+
+Жатақхана — Қайда жүгіну керек:
+1. Жатақханалардағы орындар басымдықтарға сәйкес Университетте бар күшке қарай беріледі. [1]
+2. (бес) жұмыс күні ішінде жатақханада орын беру туралы шешімді қабылдайды. [1]",
+dormitory_03_en,dormitory,en,Who has priority in the allocation of dormitory places?,answered,medium,1.0,1.0,1.0,1.0,64.61,Regulation for the allocation of the places in the dormitories KazNRTU named after K.Satbayev 2023,"In short: The regulations for the allocation of places in the dormitories of NJSC. [1]
+
+Dormitory — Conditions:
+1. ""KazNRTU named after K.I.Satbayev"" determine the procedure for allocating places in the dormitories of NJSC ""KazNRTU named after K.I.Satbayev"", taking into account the grounds and order of allocation of places accommodation in the dormitories for students, undergraduates, postgraduates, employees) of KazNRTU. [1]
+2. Places in the dormitory, with the exception of basements, are allocated for accommodation during the entire academic period, excluding the holiday period. [1]",
+dormitory_04_ru,dormitory,ru,Какие правила проживания в общежитии?,answered,high,1.0,1.0,1.0,1.0,76.98,Правила проживания в общежитиях НАО КазНИТУ имени К.И.Сатпаева 2023,"Коротко: На платформе Dormitory предусмотрена система наказаний за нарушение Правил проживания в общежитиях: выговор, выселение (в случае трехкратного нарушения). [1]
+
+Общежитие — Подробнее:
+1. После утверждения мест Комиссией по распределению направляется на личную электронную почту уведомление о выделении места для проживания в общежитии на личный электронный адрес обучающегося. [1]
+2. Соблюдать требования законодательства РК, Правил проживания в общежитии, распоряжения и указания администрации общежития (кампуса). [2]",
+dormitory_04_kk,dormitory,kk,Жатақханада тұру қағидалары қандай?,answered,high,1.0,1.0,1.0,1.0,63.95,Қ.И.Сәтбаев атындағы ҚазҰТЗУ жатақханаларында тұру Қағидалары 2023,"Қысқаша жауап: Dormitory платформасында Жатақханаларда тұру қағидаларын бұзғаны үшін жаза жүйесі: сөгіс, шығару (үш рет бұзылған жағдайда) қарастырылған. [1]
+
+Жатақхана — Шарттары:
+1. Орындар бекітілгеннен кейін Бөлу жөніндегі комиссия жатақханада тұру үшін орын бөлу туралы хабарламаны білім алушының жеке электрондық адресіне жеке электрондық поштасына жібереді. [1]
+2. Университет білім алушылар мен қызметкерлерге жатақханада тұру құқығын беруден, егер оларға қатысты бұрын жатақханадан шығару түріндегі тәртіптік жаза қолданылса немесе жатақханада тұру қағидаларын, ішкі тәртіп ережелерін бұзғаны үшін тәртіптік жаза қолданылған жағдайда бас тартады. [2]
+3. Dormitory платформасында жатақханада тұру қағидаларын бұзған жағдайда білім алушыға сөгіс жазылады. [3]
+4. Тұру қағидалары бірнеше рет бұзылған жағдайда білім алушы Университетте оқу аяқталғанға дейін жатақханадан тұру құқығынсыз шығарылады. [3]",
+dormitory_04_en,dormitory,en,What are the rules of living in the dormitory?,answered,medium,1.0,0.5,0.0,1.0,86.95,Аnti-corruption standard for Employees 2026,"In short: Regulations, including the Rules for Living in a Student Dormitory, are entered into each student’s electronic personal file. [1]",
+dormitory_05_ru,dormitory,ru,Можно ли приводить гостей в общежитие?,not_found,low,1.0,1.0,,,48.15,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+dormitory_05_kk,dormitory,kk,Жатақханаға қонақ әкелуге бола ма?,not_found,low,1.0,1.0,,,64.35,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+dormitory_05_en,dormitory,en,Can I bring guests to the dormitory?,not_found,low,1.0,1.0,,,68.97,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+dormitory_06_ru,dormitory,ru,За что могут выселить из общежития?,answered,low,1.0,1.0,1.0,1.0,89.38,Правила проживания в общежитиях НАО КазНИТУ имени К.И.Сатпаева 2023,"Коротко: Проживающим в общежитии (кампусах) запрещается. [1]
+
+Общежитие — Подробнее:
+1. При заселении предоставить необходимые документы работнику ДДМиС для временной регистрации в общежитии; - соблюдать установленный порядок заселения и выселения из общежития. [1]
+2. За нарушение Правил проживания в общежитии к проживающим могут быть применены следующие меры дисциплинарного взыскания: замечание, выговор, строгий выговор, выселение из общежития. [2]",
+dormitory_06_kk,dormitory,kk,Жатақханадан не үшін шығарып жіберуі мүмкін?,not_found,low,1.0,1.0,,,99.51,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+dormitory_06_en,dormitory,en,For what reasons can a student be evicted from the dormitory?,answered,high,1.0,0.3333,0.0,1.0,76.26,Аnti-corruption standard for Employees 2026,"In short: Based on their results, the student may be evicted. [1]
+
+Dormitory — How to do it:
+1. After the system has allocated places in the dormitory, specialists from the structure responsible for serving students check the list for errors when filling out the data. [1]
+2. Regulations, including the Rules for Living in a Student Dormitory, are entered into each student’s electronic personal file. [1]",
+dormitory_07_ru,dormitory,ru,Какие обязанности у проживающих в общежитии?,answered,high,1.0,1.0,1.0,1.0,69.07,Правила проживания в общежитиях НАО КазНИТУ имени К.И.Сатпаева 2023,"Коротко: Проживающие в общежитии (кампусе) обязаны. [1]
+
+Общежитие — Сроки:
+1. Своевременно вносить плату за проживание в общежитие на расчетный счет Университета. [1]
+2. Проживающим в общежитии (кампусах) запрещается. [1]",
+dormitory_07_kk,dormitory,kk,Жатақханада тұратындардың міндеттері қандай?,answered,high,1.0,1.0,1.0,1.0,71.82,Қ.И.Сәтбаев атындағы ҚазҰТЗУ жатақханаларында тұру Қағидалары 2023,"Қысқаша жауап: Dormitory платформасында Жатақханаларда тұру қағидаларын бұзғаны үшін жаза жүйесі: сөгіс, шығару (үш рет бұзылған жағдайда) қарастырылған. [1]
+
+Жатақхана — Шарттары:
+1. Университетте орналастыру/шығару процесін автоматтандыру, сондай-ақ сыбайлас жемқорлық тәуекелдерін азайту мақсатында Dormitory электрондық платформасы әзірленді. [1]
+2. Орындар бекітілгеннен кейін Бөлу жөніндегі комиссия жатақханада тұру үшін орын бөлу туралы хабарламаны білім алушының жеке электрондық адресіне жеке электрондық поштасына жібереді. [1]
+3. Ғимаратқа, сондай-ақ жатақхана аумағына кіре берісте тұратындар вахтерге рұқсаттаманы ашық түрде көрсетуге міндетті. [2]",
+dormitory_07_en,dormitory,en,What are the duties of dormitory residents?,not_found,low,1.0,1.0,,,66.86,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+dormitory_08_ru,dormitory,ru,Какие меры пожарной безопасности действуют в общежитии?,answered,high,1.0,1.0,1.0,1.0,76.21,Инструкция о мерах пожарной безопасности в общежитиях (ИПБ 02) 2023,"Коротко: Обязанности, проживающих в общежитии. [1]
+
+Общежитие — Сроки:
+1. Действия персонала при пожаре. [1]
+2. Оповестить работающих в помещении, сообщить службе безопасности, руководителю или другим должностным лицам. [1]",
+dormitory_08_kk,dormitory,kk,Жатақханада қандай өрт қауіпсіздігі шаралары қолданылады?,answered,high,1.0,1.0,1.0,1.0,53.06,Жатақханалардағы өрт қауіпсіздігі шаралары туралы нұсқаулық (ӨҚН 02) 2023,"Қысқаша жауап: Жатақханаға орналастырылатын барлық тұлғалар нұсқаманы тіркеу журналына қол қоя отырып, өрт қауіпсіздігі бойынша алғашқы, қайталама нұсқамалардан өтулері тиіс. [1]
+
+Жатақхана — Шарттары:
+1. Өрт қауіпсіздігінің талаптарын бұзғаны үшін жауапкершілік ректордың бұйрығымен бекітілген тұлғаға артылады. [1]
+2. Электр жабдықтарына, алғашқы өрт сөндіру құралдарына бару жолдары, жатақханадағы эвакуациялық шығу есіктері бос болуы тиіс. [1]",
+dormitory_08_en,dormitory,en,What fire safety measures apply in the dormitory?,answered,medium,1.0,1.0,1.0,1.0,80.68,Instructions on fire safety measures in dormitories (FSI 02),"In short: All persons moving into the dormitory must undergo initial and repeated fire safety briefings against signature in the briefing registration log. [1]
+
+Admission — How to do it:
+1. This instruction establishes the basic fire safety requirements for living in dormitories joint-stock company ""K.I. Satbaev Kazakh National Research Technical University "" and is mandatory for all employees and students. [1]
+2. Responsibility for violation of fire safety requirements lies with a person. [1]",
+dormitory_09_ru,dormitory,ru,Как оплачивается проживание в общежитии?,answered,high,1.0,1.0,1.0,1.0,67.06,Правила проживания в общежитиях НАО КазНИТУ имени К.И.Сатпаева 2023,"Коротко: На платформе Dormitory предусмотрена система наказаний за нарушение Правил проживания в общежитиях: выговор, выселение (в случае трехкратного нарушения). [1]
+
+Общежитие — Как это сделать:
+1. После утверждения мест Комиссией по распределению направляется на личную электронную почту уведомление о выделении места для проживания в общежитии на личный электронный адрес обучающегося. [1]",
+dormitory_09_kk,dormitory,kk,Жатақханада тұру ақысы қалай төленеді?,answered,medium,1.0,1.0,1.0,1.0,87.34,Бірінші курстарға арналған анықтама-кітапша 2026 (Freshman guide),"Қысқаша жауап: Тұру ақысы туралы төлем квитанциясының көшірмесі. [1]
+
+Жатақхана — Қалай жасалады:
+1. Жатақханадан орын бөлінгеннен кейін қажетті құжаттарды сол орын бөлінген жатақхана қызметкерлеріне тапсыру керек. [1]",
+dormitory_09_en,dormitory,en,How is dormitory accommodation paid for?,not_found,low,1.0,1.0,,,63.5,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+dormitory_10_ru,dormitory,ru,Кто распределяет места в общежитиях?,answered,high,1.0,1.0,1.0,1.0,53.54,Правила распределения мест в общежитиях НАО КазНИТУ имени К.И.Сатпаева 2023,"Коротко: По итогам Приказа на зачисление (кроме г. Алматы) секретарь комиссии по распределению мест в общежитии формирует список, далее направляет комендантам общежитий. [1]
+
+Общежитие — Куда обращаться:
+1. Места общежитиях предоставляются по мере имеющейся мощности университета, согласно Приоритетов. [1]
+2. Приказ на заселение/выселение студентов бакалавриата 1 курса формирует главный менеджер-секретарь Комиссии по заселению отдела по молодежной политике Департамента по делам молодежи и спорта. [1]",
+dormitory_10_kk,dormitory,kk,Жатақханалардағы орындарды кім бөледі?,answered,medium,1.0,1.0,1.0,1.0,86.88,Қ.И.Сәтбаев атындағы ҚазҰТЗУ жатақханаларында орындарды бөлу Қағидалары 2023,"Қысқаша жауап: Жатақханалардағы орындар басымдықтарға сәйкес Университетте бар күшке қарай беріледі. [1]
+
+Жатақхана — Қайда жүгіну керек:
+1. Оқуға қабылдау туралы бұйрықтың қорытындысы бойынша (Алматы қаласынан басқа) жатақханадағы орындарды бөлу жөніндегі комиссияның хатшысы тізім жасайды, одан әрі жатақхана коменданттарына жібереді. [1]",
+dormitory_10_en,dormitory,en,Who allocates places in the dormitories?,answered,high,1.0,1.0,1.0,1.0,61.18,Regulation for the allocation of the places in the dormitories KazNRTU named after K.Satbayev 2023,"In short: The regulations for the allocation of places in the dormitories of NJSC. [1]
+
+Dormitory — Conditions:
+1. ""KazNRTU named after K.I.Satbayev"" determine the procedure for allocating places in the dormitories of NJSC ""KazNRTU named after K.I.Satbayev"", taking into account the grounds and order of allocation of places accommodation in the dormitories for students, undergraduates, postgraduates, employees) of KazNRTU. [1]
+2. Places in the dormitory, with the exception of basements, are allocated for accommodation during the entire academic period, excluding the holiday period. [1]
+3. Places in the dormitory are allocated on a competitive basis by the. [2]
+4. Decision-Making Commission for the allocation of places in the dormitories, created at each profile institute of KazNRTU. [2]",
+academic_leave_01_ru,academic_leave,ru,Как оформить академический отпуск?,answered,high,1.0,1.0,1.0,1.0,74.29,ДП КазНИТУ 702. Формирование контингента,"Коротко: Порядок предоставления и оформления академических отпусков регулируется Правилами предоставления академических отпусков обучающимся в организациях образования. 8.3 При предоставлении академического отпуска студенту, обучающемуся на основе государственного образовательного заказа, право на дальнейшее обучение на основе государственного образовательного заказа сохраняется за ним, при этом финансирование его обучения прерывается на период предоставленного академического отпуска и возобновляется после его окончания. [1]
+
+Академический отпуск — Как это сделать:
+1. Академический отпуск - это период, на который обучающиеся временно прерывают свое обучение по медицинским показаниям и в иных исключительных случаях. [1]
+2. При предоставлении академического отпуска обучающемуся на платной основе оплата за обучение приостанавливается на период академического отпуска. [1]
+3. Обучающийся подает заявление на оформление академического отпуска заблаговременно, до начала экзаменационной сессии. [2]",
+academic_leave_01_kk,academic_leave,kk,Академиялық демалысты қалай рәсімдеуге болады?,answered,high,1.0,1.0,1.0,1.0,82.53,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Білім алушы академиялық демалысты ресімдеуге емтихан сессиясы басталғанға дейін алдын ала өтініш береді. [1]
+
+Академиялық демалыс — Қалай жасалады:
+1. Академиялық демалыс - бұл білім алушылар медициналық көрсеткіштер бойынша және өзге де ерекше жағдайларда оқуын уақытша тоқтататын кезең. [1]
+2. Мемлекеттік білім беру тапсырысы негізінде оқитын білім алушыға академиялық демалыс берілген кезде оның мемлекеттік білім беру тапсырысы негізінде одан әрі оқуға құқығы сақталады, бұл ретте оның оқуын қаржыландыру берілген академиялық демалыс кезеңіне тоқтатылады және ол аяқталғаннан кейін жаңартылады. [1]
+3. Ақылы негізде оқитын білім алушыға академиялық демалыс берілген кезде оқу ақысын төлеу академиялық демалыс кезеңінде тоқтатыла тұрады. [1]",
+academic_leave_01_en,academic_leave,en,How do I apply for academic leave?,answered,medium,1.0,1.0,1.0,1.0,52.29,Regulations on Credit Technology of Education at the NJSC KazNRTU named after K.I.Satpayev (Undergraduate degree program),"In short: Based on the submitted documents, within three working days, an order is issued to withdraw the student from academic leave, indicating the educational program and the year of admission. [1]",
+academic_leave_02_ru,academic_leave,ru,Какие документы нужны для академического отпуска?,answered,high,1.0,1.0,1.0,1.0,83.43,Правила кредитной технологии обучения (магистратура) 2022,"Коротко: Для оформления академического отпуска обучающийся подает заявление на имя Проректора по науке и международному сотрудничеству и представляет справку ВКК, листок нетрудоспособности по беременности или родам, либо документ по призыву в ряды ВС РК. 15.6 Обучающийся, вернувшийся из академического отпуска до начала очередного академического периода, не менее чем за 10 рабочих дней подает заявление на имя Проректора по науке и международному сотрудничеству о выходе с академического отпуска и представляет справку ВКК о состоянии здоровья из лечебной организации, наблюдавшей больного. [1]
+
+Академический отпуск — Какие документы и требования:
+1. На основании этого в течение трех рабочих дней издается приказ о выходе обучающегося из академического отпуска. [1]
+2. Обучающийся, вернувшийся из академического отпуска, должен ликвидировать разницу в дисциплинах рабочих учебных планов, если такая имеет место. [1]
+3. На основании представленных документов в течение трёх рабочих дней издаётся приказ Ректора о предоставлении обучающемуся академического отпуска с указанием сроков его начала и окончания. [2]
+4. На основании представленных документов в течение трёх рабочих дней издаётся приказ о выходе обучающегося из академического отпуска с указанием образовательной программы и года поступления. [2]",
+academic_leave_02_kk,academic_leave,kk,Академиялық демалыс үшін қандай құжаттар қажет?,answered,high,1.0,1.0,1.0,1.0,102.85,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Ұсынылған құжаттардың негізінде үш жұмыс күні ішінде Ректордың білім алушыға академиялық демалыстың басталу және аяқталу мерзімдері көрсетілген бұйрығы шығарылады. [1]
+
+Академиялық демалыс — Қажетті құжаттар мен талаптар:
+1. Республикасы Қарулы Күштерінің қатарына шақыру туралы құжатты ұсынады. [1]
+2. Институт директоры ұсынылған құжаттар негізінде оқу жұмыс жоспарларындағы (ағымдағы қайта қабылдау жылына) пәндердің айырмашылығын анықтайды және Тіркеу кеңсесінің келісімі бойынша білім алушының жеке оқу жоспарын бекітеді. [1]
+3. Ұсынылған құжаттар негізінде үш жұмыс күні ішінде білім алушының білім беру бағдарламасымен оқуға түсу жылы көрсетіле отырып, академиялық демалыстан шығуы туралы бұйрық шығарылады. [1]
+4. Академиялық демалыстан шығу каникул кезеңінде, бірақ алдағы академиялық кезеңнің бір аптасынан кешіктірілмей жүзеге асырылады. [1]",
+academic_leave_02_en,academic_leave,en,What documents are required for academic leave?,answered,medium,1.0,1.0,1.0,1.0,113.77,REGULATIONS on Credit Technology of Education at the NJSC “KazNRTU named after K.I. Satbayev” (Undergraduate degree program) 2023,"In short: For registration of academic leave, the student submits an application addressed to the Rector of KazNRTU and submits documents confirming the validity of the temporary interruption of education. [1]",
+academic_leave_03_ru,academic_leave,ru,По каким причинам предоставляется академический отпуск?,answered,high,1.0,1.0,1.0,1.0,75.68,ДП КазНИТУ 702. Формирование контингента,"Коротко: При предоставлении академического отпуска обучающемуся на платной основе оплата за обучение приостанавливается на период академического отпуска. [1]
+
+Академический отпуск — Куда обращаться:
+1. Академический отпуск - это период, на который обучающиеся временно прерывают свое обучение по медицинским показаниям и в иных исключительных случаях. [1]
+2. Порядок предоставления и оформления академических отпусков регулируется Правилами предоставления академических отпусков обучающимся в организациях образования. 8.3 При предоставлении академического отпуска студенту, обучающемуся на основе государственного образовательного заказа, право на дальнейшее обучение на основе государственного образовательного заказа сохраняется за ним, при этом финансирование его обучения прерывается на период предоставленного академического отпуска и возобновляется после его окончания. [1]",
+academic_leave_03_kk,academic_leave,kk,Академиялық демалыс қандай себептермен беріледі?,answered,high,1.0,1.0,1.0,1.0,74.9,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Медициналық көрсеткіштер бойынша академиялық демалыс білім алушыға келесі негізде беріледі: 1) амбулаториялық-емханалық ұйымның (студенттік емхананың) жанындағы дәрігерлік-консультативтік комиссияның (ДКК) қорытындылары - ауруы бойынша ұзақтығы 6 айдан 12 айға дейін. [2]
+
+Академиялық демалыс — Шарттары:
+1. Академиялық сағат лекциялық, (Academic hour) практикалық (семинарлық) сабақтардың 1 байланыс сағатына (50 минут) немесе зертханалық сабақтардың 2 байланыс сағатына (100 минут) тең. [1]",
+academic_leave_03_en,academic_leave,en,For what reasons is academic leave granted?,answered,high,1.0,1.0,1.0,1.0,56.19,REGULATIONS on Credit Technology of Education at the NJSC “KazNRTU named after K.I. Satbayev” (Undergraduate degree program) 2023,"In short: Academic leave for medical reasons is granted to the student based on. [1]
+
+Academic leave — Deadlines:
+1. -54 educational grant remains, while the financing of his studies is interrupted for the period of the granted academic leave and is resumed after its endings. [1]
+2. While an academic leave is granted to a student on a paid basis, tuition fees are suspended for the period of academic leave. [1]",
+academic_leave_04_ru,academic_leave,ru,На какой срок дается академический отпуск?,answered,high,1.0,1.0,1.0,1.0,69.96,Правила кредитной технологии обучения в КазНИТУ имени К.И.Сатпаева (докторантура PhD) 2025,"Коротко: В случае, если докторант не вышел из академического отпуска в срок, указанного в приказе ""О предоставлении академического отпуска"", Университет вправе отчислить докторанта, как не вышедшего U3 академического отпуска. _ 16.7 Обучающийся, вернувшийся из академического отпуска, должен ликвидировать разницу в дисциплинах рабочих учебных планов, если такая имеет место. [1]
+
+Академический отпуск — Сроки:
+1. Обучающийся, вернувшийся U3 академического отпуска до начала очередного академического периода, не менее чем за 10 рабочих дней подает заявление на имя курирующего Проректора о выходе с академического отпуска и представляет справку ВКК о состоянии здоровья из лечебной организации, наблюдавшей больного. [1]
+2. На основании этого в течение трех рабочих дней издается приказ о выходе обучающегося из академического отпуска. [1]",
+academic_leave_04_kk,academic_leave,kk,Академиялық демалыс қанша мерзімге беріледі?,answered,high,1.0,1.0,1.0,1.0,71.89,Бірінші курстарға арналған анықтама-кітапша 2026 (Freshman guide),"Қысқаша жауап: Академиялық демалыс қалалық студенттік емхананың Дәрігерлік кеңес комиссиясының (ВКК) шешімі негізінде 6 айдан 12 айға дейін беріледі, өте сирек ерекше жағдайда - 2 жылға дейін беріледі. [1]
+
+Академиялық демалыс — Мерзімдері:
+1. Сонымен қатар академиялық демалыс студенттерге мына жағдайларда беріледі: 1) Қазақстан Республикасының Қарулы Күштері қатарына шақырылып, заңмен белгіленген жағдай бойынша әскери қызметке бару кезеңіне. [1]
+2. Бала туылуы, ұл немесе қыз баланы асырап алуы кезінде заңмен белгіленген жағдай бойынша 3 жылдық мерзімге. [1]",
+academic_leave_04_en,academic_leave,en,For how long is academic leave granted?,answered,high,1.0,1.0,1.0,1.0,61.09,Regulations on Credit Technology of Education at the NJSC KazNRTU named after K.I.Satpayev (Undergraduate degree program),"In short: While granting an academic leave to a student studying on the basis of a state educational grant, the right to further education on the basis of a state educational grant remains, while the financing of his studies is interrupted for the period of the granted academic leave and is resumed after its endings. [1]
+
+Academic leave — Deadlines:
+1. While an academic leave is granted to a student on a paid basis, tuition fees are suspended for the period of academic leave. [2]
+2. Academic leave for medical reasons is granted to the student based on. [2]",
+academic_leave_05_ru,academic_leave,ru,Как выйти из академического отпуска?,answered,high,1.0,1.0,1.0,1.0,86.03,ДП КазНИТУ 702. Формирование контингента,"Коротко: Порядок предоставления и оформления академических отпусков регулируется Правилами предоставления академических отпусков обучающимся в организациях образования. 8.3 При предоставлении академического отпуска студенту, обучающемуся на основе государственного образовательного заказа, право на дальнейшее обучение на основе государственного образовательного заказа сохраняется за ним, при этом финансирование его обучения прерывается на период предоставленного академического отпуска и возобновляется после его окончания. [1]
+
+Академический отпуск — Как это сделать:
+1. Академический отпуск - это период, на который обучающиеся временно прерывают свое обучение по медицинским показаниям и в иных исключительных случаях. [1]
+2. При предоставлении академического отпуска обучающемуся на платной основе оплата за обучение приостанавливается на период академического отпуска. [1]
+3. Обучающийся подает заявление на оформление академического отпуска заблаговременно, до начала экзаменационной сессии. [2]",
+academic_leave_05_kk,academic_leave,kk,Академиялық демалыстан қалай шығуға болады?,answered,high,1.0,1.0,1.0,1.0,78.04,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Білім алушы академиялық демалысты ресімдеуге емтихан сессиясы басталғанға дейін алдын ала өтініш береді. [1]
+
+Академиялық демалыс — Қалай жасалады:
+1. Академиялық демалыс - бұл білім алушылар медициналық көрсеткіштер бойынша және өзге де ерекше жағдайларда оқуын уақытша тоқтататын кезең. [1]
+2. Мемлекеттік білім беру тапсырысы негізінде оқитын білім алушыға академиялық демалыс берілген кезде оның мемлекеттік білім беру тапсырысы негізінде одан әрі оқуға құқығы сақталады, бұл ретте оның оқуын қаржыландыру берілген академиялық демалыс кезеңіне тоқтатылады және ол аяқталғаннан кейін жаңартылады. [1]
+3. Ақылы негізде оқитын білім алушыға академиялық демалыс берілген кезде оқу ақысын төлеу академиялық демалыс кезеңінде тоқтатыла тұрады. [1]",
+academic_leave_05_en,academic_leave,en,How do I return from academic leave?,answered,high,1.0,1.0,1.0,1.0,65.15,Regulations on Credit Technology of Education at the NJSC KazNRTU named after K.I.Satpayev (Undergraduate degree program),"In short: Return from academic leave is carried out during the vacation period, but no later than one week of the upcoming academic period. [1]
+
+Academic leave — How to do it:
+1. Based on the submitted documents, within three working days, an order is issued to withdraw the student from academic leave, indicating the educational program and the year of admission. [1]",
+academic_leave_06_ru,academic_leave,ru,Можно ли взять академический отпуск по болезни?,answered,high,1.0,1.0,1.0,1.0,75.82,Правила кредитной технологии обучения в НАО КазНИТУ имени К.И.Сатпаева (бакалавриат) 2023,"Коротко: Академический отпуск по медицинским показаниям предоставляется обучающемуся на основании: 1) заключения врачебно-консультативной комиссии (ВКК) амбулаторно-поликлинической организаций - продолжительностью 6-12 месяцев по болезни. [1]
+
+Академический отпуск — Условия:
+1. Обучающийся подает заявление на оформление академического отпуска заблаговременно, до начала экзаменационной сессии. [1]
+2. В случае, если у обучающегося на момент ухода в академический отпуск имеется положительная аттестация по дисциплинам текущего академического периода, то по таким дисциплинам может быть выставлена оценка ""I"". [1]
+3. Академический отпуск может быть предоставлен обучающемуся также на основании: 1) повестки о призыве в ряды Вооружённых Сил Республики Казахстан на период призыва на военную службу, в установленных законодательством случаях. [1]
+4. Для оформления академического отпуска обучающийся подает. [1]",
+academic_leave_06_kk,academic_leave,kk,Ауруға байланысты академиялық демалыс алуға бола ма?,not_found,low,1.0,1.0,,,114.26,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+academic_leave_06_en,academic_leave,en,Can I take academic leave due to illness?,answered,high,1.0,1.0,1.0,1.0,60.86,Regulations on Credit Technology of Education at the NJSC KazNRTU named after K.I.Satpayev (Undergraduate degree program),"In short: Academic leave for medical reasons is granted to the student based on. [1]
+
+Academic leave — Conditions:
+1. For registration of academic leave, the student submits an application addressed to the Rector of KazNRTU and submits documents confirming the validity of the temporary interruption of education. [1]
+2. The student applies for an academic leave in advance before the start of the examination session. [1]
+3. The conclusions of the medical advisory commission (MAC) of outpatient organizations - lasting 6-12 months due to illness. [1]
+4. After leaving the academic leave, the student submits an application addressed to the Rector of KazNRTU and submits a certificate of the MAC on the state of health from the medical organization that observed the patient, with a conclusion on the possibility of continuing education in this specialty - while the student is on academic leave due to illness. [2]",
+academic_leave_07_ru,academic_leave,ru,Дается ли академический отпуск в связи с призывом в армию?,answered,high,1.0,1.0,1.0,1.0,81.94,ДП КазНИТУ 702. Формирование контингента,"Коротко: Академический отпуск может быть предоставлен обучающемуся также на основании: 1) повестки о призыве в ряды Вооружённых Сил Республики Казахстан на период призыва на воинскую службу, в установленных законодательством случаях. [1]
+
+Академический отпуск — Сроки:
+1. На основании представленных документов в течение трёх рабочих дней издаётся приказ Председателя Правления - ректора о предоставлении обучающемуся академического отпуска с указанием его сроков начала и окончания. [1]",
+academic_leave_07_kk,academic_leave,kk,Әскерге шақырылуына байланысты академиялық демалыс беріле ме?,not_found,low,1.0,1.0,,,113.02,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+academic_leave_07_en,academic_leave,en,Is academic leave granted for military service?,answered,high,1.0,1.0,1.0,1.0,62.36,Regulations on Credit Technology of Education at the NJSC KazNRTU named after K.I.Satpayev (Undergraduate degree program),"In short: Academic leave may also be granted to a student based on: 1) summons for conscription into the ranks of the Armed Forces of the Republic of Kazakhstan for the period of conscription for military service, in cases established by law. [2]
+
+Academic leave — Deadlines:
+1. While granting an academic leave to a student studying on the basis of a state educational grant, the right to further education on the basis of a state educational grant remains, while the financing of his studies is interrupted for the period of the granted academic leave and is resumed after its endings. [1]",
+academic_leave_08_ru,academic_leave,ru,Как восстановиться в университете после отчисления?,answered,low,1.0,1.0,1.0,1.0,81.61,Правила кредитной технологии обучения в НАО КазНИТУ имени К.И.Сатпаева (бакалавриат) 2023,"Коротко: Ответственность за своевременное уведомление Заказчика о переводе/отчислении несет обучающийся. [1]
+
+Отчисление — Как это сделать:
+1. Обучающийся имеет право на восстановление независимо от давности сроков отчисления, при соблюдении условий п.11.1.3. [2]
+2. Количество кредитов, освоенных обучающимся до момента отчисления, засчитывается Университетом в полном объёме. [2]",
+academic_leave_08_kk,academic_leave,kk,Оқудан шығарылғаннан кейін университетке қалай қайта қабылдануға болады?,answered,high,1.0,1.0,1.0,1.0,74.09,ҚазҰТЗУ 702 ҚП. Білім алушылар контингентін қалыптастыру,"Қысқаша жауап: Білім алушының оқудан шығару мерзімінің ескіруіне қарамастан, 6.1.3-тармақтың талаптарын сақтай отырып, оқуға қайта қабылдануға құқығы бар. [1]
+
+Оқудан шығару — Қалай жасалады:
+1. Бұл ретте білім алушы оқудың кез келген нысанына, кез келген мамандыққа және кез келген ЖОО-ға оқуға қабылдау кезінде оқудан шығару мерзімдеріне қарамастан ауысуға немесе қайта қабылдануға құқылы. [1]
+2. Оқудан шығарылғанға дейін білім алушылардың игерген кредиттерінің санын Университет толық көлемде есептейді. [1]",
+academic_leave_08_en,academic_leave,en,How can I be reinstated at the university after expulsion?,not_found,low,1.0,1.0,,,86.3,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+academic_leave_09_ru,academic_leave,ru,За что студента могут отчислить?,not_found,low,1.0,1.0,,,104.3,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+academic_leave_09_kk,academic_leave,kk,Студентті не үшін оқудан шығаруы мүмкін?,answered,high,1.0,1.0,1.0,1.0,59.45,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Егер студенттің оқу мерзімі ҚР заңнамасында белгіленген ең ұзақ мерзімнен асып кетсе (7 жыл). [1]
+
+Оқудан шығару — Толығырақ:
+1. Бұл жағдайда оқуға төленген ақша қаражаты қайтарылмайды. [1]",
+academic_leave_09_en,academic_leave,en,For what reasons can a student be expelled?,answered,high,1.0,1.0,0.5,1.0,59.04,REGULATIONS on Credit Technology of Education at the NJSC “KazNRTU named after K.I. Satbayev” (Undergraduate degree program) 2023,"In short: An application for expulsion is submitted by the student immediately. [1]
+
+Expulsion — Conditions:
+1. A student who plans to be expelled from KazNRTU must fill in an application addressed to the Rector of KazNRTU with a request for expulsion and submit it to the Directorate of the Institute. [1]
+2. In case of late submission of an application for expulsion of one's own free will when the student stops attending classes at KazNRTU, the student may also be expelled due the results of the examination session (academic year) for academic failure and / or violation of academic discipline. [1]
+3. If within 2 months from the date of the beginning of non-attendance of classes, the student, despite the specified measures, does not start classes, does not provide any information and documents confirming the reasons for missing classes, the director of the Institute submits a submission for issuing an order on the student's expulsion. [2]",
+academic_leave_10_ru,academic_leave,ru,Что такое повторное обучение?,not_found,low,1.0,1.0,,,65.24,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+academic_leave_10_kk,academic_leave,kk,Қайта оқу деген не?,answered,medium,1.0,1.0,1.0,1.0,69.86,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Емтиханда FX балына сәйкес ""қанағаттанарлықсыз"" деген баға алған жағдайда білім алушының бір кредит көлемінде ақылы негізде оқу пәнінен қайта өтпей, Incomplete емтихандарын тапсыру кезеңінде бір рет емтиханды қайта тапсыруға мүмкіндігі болады. [1]
+
+Толығырақ:
+1. Қандай да бір пән бойынша ""F"" (""қанағаттанарлықсыз"") деген баға алған студенттер келесі академиялық кезеңдерде осындай пән бойынша қайта тіркелуге және оқудан өтуге міндетті. [1]",
+academic_leave_10_en,academic_leave,en,What is repeated study of a course?,answered,medium,1.0,1.0,1.0,1.0,41.2,REGULATIONS on Credit Technology of Education at the NJSC “KazNRTU named after K.I. Satbayev” (Undergraduate degree program) 2023,"In short: In case the student is deprived of a state educational grant and leaves it for a repeat course, in order to continue his studies at the University, the student must conclude a contract with the University for the provision of paid educational services, while the tuition fee will be set in accordance with the year of admission of the student, regardless of the course. [1]",
+transfer_01_ru,transfer,ru,Как перевестись на другую образовательную программу?,answered,high,1.0,1.0,1.0,1.0,52.4,ДП КазНИТУ 702. Формирование контингента,"Коротко: Студент, обучающийся по образовательному гранту, может перевестись с сохранением образовательного гранта в другой вуз в установленном порядке. [1]
+
+Перевод — Как это сделать:
+1. Заказчика о переводе/отчислении несет обучающийся. [1]",
+transfer_01_kk,transfer,kk,Басқа білім беру бағдарламасына қалай ауысуға болады?,answered,medium,1.0,1.0,1.0,1.0,104.13,Бірінші курстарға арналған анықтама-кітапша 2026 (Freshman guide),"Қысқаша жауап: 
+   • 3-5-курстар үшін - 2,1), бұл жағдайда студент мемлекеттік білім беру грантынан айырылады, ол оқуын әрі қарай ақылы негізде жалғастыра алады. - оқудан өз еркімен шыққысы келсе
+   • Білім беру бағдарламаларының бір тобынан екінші тобына ауысу кезінде
+   • Егер де студент Қазақстан Республикасы Президентінің ""Болашақ"" халықаралық шәкіртақысының иегері болса
+   • Қазақстан Республикасының нормативтік-құқықтық актілерінде және уәкілетті органдардың шешімдері бойынша белгіленген басқа жағдайларда [1]",
+transfer_01_en,transfer,en,How can I transfer to another educational program?,answered,medium,1.0,1.0,1.0,1.0,86.98,Regulations on Credit Technology of Education at the NJSC KazNRTU named after K.I.Satpayev (Undergraduate degree program),"In short: A student on an educational grant who has the conclusion of a medical advisory commission on the prohibition to study in this educational program acquired disease during the training period, is transferred from one educational program to another to an existing vacant place on an educational order. [1]",
+transfer_02_ru,transfer,ru,Как перевестись из другого вуза в Satbayev University?,not_found,low,1.0,1.0,,,52.42,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+transfer_02_kk,transfer,kk,Басқа ЖОО-дан Satbayev University-ге қалай ауысуға болады?,answered,high,1.0,1.0,1.0,1.0,58.31,ҚазҰТЗУ 702 ҚП. Білім алушылар контингентін қалыптастыру,Қысқаша жауап: Басқа ЖОО-ға ауысқысы келетін білім алушы өзі оқитын ЖОО басшысының атына ауысу туралы еркін нысанда өтініш береді және мөрмен бекітілген ауысуға жазбаша келісім алғаннан кейін оны қызықтыратын ЖОО басшысына жүгінеді. [1],
+transfer_02_en,transfer,en,How can I transfer from another university to Satbayev University?,answered,low,1.0,1.0,1.0,1.0,83.14,REGULATIONS on Credit Technology of Education at the NJSC “KazNRTU named after K.I. Satbayev” (Undergraduate degree program) 2023,In short: The transfer of a student from one mode of education to another and from one educational program to another within the University is carried out on a fee basis. [1],
+transfer_03_ru,transfer,ru,Когда можно подать заявление на перевод?,answered,medium,1.0,1.0,1.0,1.0,87.68,Правила кредитной технологии обучения (магистратура) 2022,"Коротко: Магистрант, желающий восстановиться, подает заявление о восстановлении на имя проректора по науке и международному сотрудничеству, заверенное заведующим соответствующей кафедрой и директором института. [1]
+
+Перевод — Как это сделать:
+1. Перевод магистрантов с курса на курс. [1]
+2. Перевод обучающихся с курса на курс осуществляется по итогам учебного года и годового GPA. [1]
+3. Обязательным условием перевода магистранта с курса на курс является достижение им среднего балла успеваемости (GPA) не ниже утвержденного в Университете установленного переводного балла. [1]
+4. К заявлению на восстановление на имя проректора по науке и международному сотрудничеству прилагается официальный транскрипт, подписанный руководством вуза, и скрепленная печатью. [1]",
+transfer_03_kk,transfer,kk,Ауысуға өтінішті қашан беруге болады?,not_found,low,1.0,1.0,,,66.2,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+transfer_03_en,transfer,en,When can I submit an application for transfer?,answered,medium,1.0,1.0,1.0,1.0,85.92,Regulations on Credit Technology of Education at the NJSC KazNRTU named after K.I.Satpayev (Undergraduate degree program),In short: The procedure for transferring a student within the University. - the student submits an application for transfer addressed to the head of the University. [1],
+transfer_04_ru,transfer,ru,Как перезачитываются кредиты при переводе?,answered,high,1.0,0.5,0.0,1.0,52.02,Положение о выдаче приложения к диплому Европейской системы перевода и накопления баллов (ECTS)  2023,"Коротко: В модели приложения, по которой будет выполняться перевод оценок, используется Европейская система трансфертов или перезачёта кредитов (ECTS). [1]
+
+Кредиты — Как это сделать:
+1. EСTS - European Credit Transfer and Accumulation System. [1]",
+transfer_04_kk,transfer,kk,Ауысу кезінде кредиттер қалай қайта есептеледі?,answered,low,1.0,1.0,0.0,1.0,96.06,Положение о выдаче приложения к диплому Европейской системы перевода и накопления баллов (ECTS)  2023,"Қысқаша жауап: EСTS - European Credit Transfer and Accumulation System. [1]
+
+Кредиттер — Қалай жасалады:
+1. В модели приложения, по которой будет выполняться перевод оценок, используется Европейская система трансфертов или перезачёта кредитов (ECTS). [1]
+
+(Бұл ереже құжатта басқа тілде жазылған, сондықтан үзінділер құжаттың түпнұсқа тілінде берілді.)",
+transfer_04_en,transfer,en,How are credits recognized when transferring?,answered,high,1.0,0.5,0.0,1.0,77.41,Положение о выдаче приложения к диплому Европейской системы перевода и накопления баллов (ECTS)  2023,"In short: EСTS - European Credit Transfer and Accumulation System. [1]
+
+Credits — Deadlines:
+1. В модели приложения, по которой будет выполняться перевод оценок, используется Европейская система трансфертов или перезачёта кредитов (ECTS). [1]
+
+(This rule is written in another language in the document, so the fragments are quoted in the original.)",
+transfer_05_ru,transfer,ru,Что такое академическая разница?,answered,high,1.0,0.3333,0.0,1.0,53.15,ДП КазНИТУ 706 Оценка знаний и ликвидация задолженности (бакалавриат),"Коротко: При восстановлении и переводе обучающихся институтом определяется разница в дисциплинах рабочих учебных планов, изученных ими за предыдущие академические периоды. [1]
+
+Подробнее:
+1. Срок сдачи разницы в учебных планах при восстановлении и переводе устанавливается продолжительностью не менее, чем один академический период (включая летний семестр), в течение которого обучающийся должен записаться на дисциплины разницы, оплатить обучение, освоить их программы и сдать форму итогового контроля. [1]
+2. В случае, если обучающийся при восстановлении или переводе не ликвидировал разницу в учебных планах в установленный срок, в дальнейшем она может учитываться как академическая задолженность и, соответственно, влиять на его GPA при переводе с курса на курс. [1]",
+transfer_05_kk,transfer,kk,Академиялық айырмашылық деген не?,answered,high,1.0,1.0,1.0,1.0,58.09,ҚазҰТЗУ 702 ҚП. Білім алушылар контингентін қалыптастыру,"Қысқаша жауап: Егер академиялық демалыстан шығу немесе академиялық демалысқа кету күні академиялық кезеңнің басталуына немесе аяқталуына сәйкес келмесе, онда білім алушы жеке кесте бойынша барлық оқу тапсырмаларын орындайды және рұқсат рейтингі үшін қажет балдарды жинайды не жазғы семестрде айырмашылық қалыптасқан пәндерге жазылады. [1]",
+transfer_05_en,transfer,en,What is the academic difference?,answered,high,1.0,0.25,0.0,1.0,50.27,DP KazNRTU 706. Knowledge assessment and debt management (Bachelor's degree),"In short: When students are reinstated and transferred, the institute determines the difference in the disciplines of the working curricula studied by them during previous academic periods. [1]
+
+Amount:
+1. To eliminate the difference in the disciplines of the working curriculum, the student attends all types of training sessions during the academic period, passes all types of current and continuous assessment provided for in the curriculum, and. [1]
+2. If the student did not eliminate the difference in the curriculum during rehabilitation or transfer within the established period, it may be considered as academic debt in the future and, accordingly, affect their GPA when transferring from one course to another. [2]",
+transfer_06_ru,transfer,ru,Как перевестись с платного обучения на грант?,answered,high,1.0,0.5,0.0,1.0,55.49,ДП КазНИТУ 706 Оценка знаний и ликвидация задолженности (бакалавриат),"Коротко: Обучающиеся на платной основе и обладатели государственных образовательных грантов, набравшие переводной балл и перевёденные на следующий год (курс) обучения, при наличии академических задолженностей должны на платной основе повторно изучить соответствующие дисциплины и сдать по ним экзамен. [1]
+
+Стипендия — Как это сделать:
+1. Обязательным условием перевода обучающихся с курса на курс является достижение ими среднего балла успеваемости (GPA) не ниже установленного в Университете переводного балла: для 1-го года обучения - 1.6 и для последующих периодов - 1.8. [1]",
+transfer_06_kk,transfer,kk,Ақылы оқудан грантқа қалай ауысуға болады?,answered,high,1.0,1.0,1.0,1.0,54.53,Бірінші курстарға арналған анықтама-кітапша 2026 (Freshman guide),"Қысқаша жауап: 
+   • 3-5-курстар үшін - 2,1), бұл жағдайда студент мемлекеттік білім беру грантынан айырылады, ол оқуын әрі қарай ақылы негізде жалғастыра алады. - оқудан өз еркімен шыққысы келсе
+   • Білім беру бағдарламаларының бір тобынан екінші тобына ауысу кезінде
+   • Егер де студент Қазақстан Республикасы Президентінің ""Болашақ"" халықаралық шәкіртақысының иегері болса
+   • Қазақстан Республикасының нормативтік-құқықтық актілерінде және уәкілетті органдардың шешімдері бойынша белгіленген басқа жағдайларда [1]",
+transfer_06_en,transfer,en,How can I transfer from paid tuition to a state grant?,not_found,low,1.0,0.5,,,81.08,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+transfer_07_ru,transfer,ru,Что такое академическая мобильность?,answered,medium,1.0,1.0,1.0,1.0,67.19,Академическая политика 2022,Коротко: Кредитная мобильность - перемещение обучающихся на ограниченный период обучения или стажировки - в рамках продолжающегося обучения в своем вузе - с целью накопления академических кредитов. [1],
+transfer_07_kk,transfer,kk,Академиялық ұтқырлық деген не?,answered,high,1.0,1.0,1.0,1.0,73.84,Академиялық саясат 2022,"Қысқаша жауап: Кредиттік ұтқырлық - академиялық кредиттерді жинақтау мақсатында білім алушылардың оқудың немесе тағылымдаманың шектеулі кезеңіне - өз ЖОО-да үздіксіз оқу шеңберінде орын ауыстыруы. [1]
+
+Академиялық ұтқырлық — Толығырақ:
+1. Академиялық ұтқырлық білім беру немесе ғылыми тағылымдама түрінде жүзеге асырылады. [1]
+2. Ұтқырлық бағдарламасы бойынша білім алушының оқуын растайтын қорытынды құжат транскрипт (болу еліндегі аналог) болып табылады. [2]",
+transfer_07_en,transfer,en,What is academic mobility?,answered,high,1.0,1.0,1.0,1.0,49.78,Academic Policy 2022,"In short: Academic mobility is carried out in the form of educational or scientific internships. [1]
+
+Academic mobility — More details:
+1. Types of academic mobility: internal (within the country) academic mobility, external (international) academic mobility, short-term academic mobility (from 10 days to 4 months) and long-term academic mobility (from one semester to 1 year). [1]
+2. Credit mobility is the movement of students for a limited period of study or internship within the framework of ongoing education at their university - in order to accumulate academic credits. [1]",
+transfer_08_ru,transfer,ru,Как поехать учиться по обмену за границу?,answered,high,1.0,1.0,1.0,1.0,51.8,ДП КазНИТУ 718. Академическая мобильность 2024,"Коротко: ППС и сотрудники университета, выезжающие за границу в рамках международной академической мобильности, несут ответственность за своевременное оформление заграничного паспорта, визы, страховки, командировочного заявления. [1]",
+transfer_08_kk,transfer,kk,Шетелге алмасу бағдарламасымен оқуға қалай баруға болады?,not_found,low,1.0,1.0,,,67.48,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+transfer_08_en,transfer,en,How can I study abroad on an exchange program?,answered,high,1.0,1.0,1.0,1.0,52.24,Academic Policy 2022,"In short: Referral for participation in academic mobility within the framework of programs funded from the state budget is carried out in accordance with Rules on referral for study abroad, including within the framework of academic mobility. [1]
+
+Academic mobility — How to do it:
+1. The period of stay in another organization under the credit mobility program and the list of disciplines to study with subsequent credit transfer are determined by the student in agreement with degree-awarding department, taking into consideration educational program curriculum. [1]",
+transfer_09_ru,transfer,ru,"Как признаются результаты обучения, полученные в другом вузе?",answered,high,1.0,1.0,1.0,1.0,68.6,Академическая политика 2022,"Коротко: Реализация данного принципа обеспечивается за счет: − признания кредитов, полученных в процессе выполнения академической программы в другом вузе, в том числе и зарубежном; − признания квалификаций, присужденных зарубежными вузами, для достижения новых академических и профессиональных целей; − доступности, открытости и массовости высшего образования на основе современных технологий обучения для всех категорий граждан; − формирования способности к самооценке, постоянному профессиональному росту и к определению дальнейшей собственной образовательной траектории, социальной и профессиональной мобильности. [1]",
+transfer_09_kk,transfer,kk,Басқа ЖОО-да алынған оқу нәтижелері қалай танылады?,answered,high,1.0,0.5,0.0,1.0,62.94,Қ.И.Сәтбаев атындағы ҚазҰТЗУ Микробіліктілік бағдарламаларын әзірлеу және оларды тану тәртібі жөніндегі Ережесі 2025,"Қысқаша жауап: Микробіліктілік бағдарламалары бойынша оку нәтижелерін тану тәртібі ""Микробіліктілік нәтижелерін тану баспалдағы"" көрнекі сұлбасы ұсынылады - алынған нәтиже құнының кезең-кезеңмен өсуі: 7.1 Микробіліктілікті тану сатысы. [1]
+
+Қалай жасалады:
+1. Қосымша (Transcript) - қажет болған жағдайда бағдарламаның мазмұны, бағалау жүйесі жэне қол жеткізілген оқу нәтижелері сипатталады. [1]
+2. Құжаттау (ЖОО-да). - бағдарламадан өткені туралы сертификат / куәлік беріледі. - дағдыларды сипаттайтын қосымша сандық бейдж (Ореп Badge). - нәтиже студенттің портфолиосына енгізіледі. [1]
+3. Білім беру бағдарламасында есепке алу. - ЖОО-ның (НБББ) негізгі бағдарламасы шеңберінде танылады. [1]",
+transfer_09_en,transfer,en,How are learning outcomes obtained at another university recognized?,answered,high,1.0,1.0,1.0,1.0,52.72,Academic Policy 2022,"In short: Recognition of credits obtained at implementing the academic program at another university, including a foreign one. [1]",
+transfer_10_ru,transfer,ru,Что такое двудипломная программа?,answered,high,1.0,0.25,0.0,1.0,48.5,ДП КазНИТУ 717. Международное сотрудничество 2024,"Коротко: Двудипломная программа - это возможность параллельно обучаться по образовательным программам с целью получения двух равных дипломов или одного основного и второго дополнительного диплома. [1]
+
+Подробнее:
+1. Реализация программы предусматривает реализацию совместных/двудипломных образовательных программ. [1]
+2. Прием иностранных граждан на двудипломные образовательные программы - высшего образования с CityUHK на платной основе осуществляется по результатам: - собеседования, проводимого приемной комиссией Университета B оффлайн или онлайн форме; _ - вступительного@_х‘_тания направленного на определение базового уровня знаний, если такое испытание) предусмотрено соответствующей образовательной программой; - подтверждения владения - английским - языком - международным сертификатом IELTS Academic - не менее 6,5 баллов. [2]",
+transfer_10_kk,transfer,kk,Қос дипломды бағдарлама деген не?,answered,medium,0.0,0.0,0.0,1.0,91.03,ҚазҰТЗУ 717 ҚП. Халықаралық ынтымастық 2024,"Қысқаша жауап: Қос дипломды бағдарлама - қос дипломды білім беру-екі тең диплом немесе бір негізгі және екінші қосымша диплом алу мақсатында білім беру бағдарламалары бойынша қатар оқу мүмкіндігі. [1]
+
+Дипломдық жұмыс — Толығырақ:
+1. Қос диплом бағдарламасын іске асыру схемасы. [1]",
+transfer_10_en,transfer,en,What is a double degree program?,answered,high,1.0,1.0,1.0,1.0,63.37,Provision on developing and implementing the joint double-degree educational programs 2023,"In short: Double-degree education programs are developed on the basis of an agreement between two OHPE-partners. [1]
+
+More details:
+1. At the same time, the mandatory conditions for performing the double-degree education programs are: 1) development and approval of the agreed degree programs. [1]
+2. Mastering by the students included in the double-degree education part of the degree program in OHPE-partner. [1]",
+internship_01_ru,internship,ru,Какие виды практики есть у студентов бакалавриата?,answered,high,1.0,0.25,0.0,1.0,62.38,Правила кредитной технологии обучения в НАО КазНИТУ имени К.И.Сатпаева (бакалавриат) 2023,"Коротко: Обязательными видами профессиональной практики студентов. [1]
+
+Практика — Условия:
+1. Организация и прохождение профессиональных практик. [1]
+2. Цели, объёмы и виды практики определяются государственными стандартами Республики Казахстан и рабочими учебными планами образовательных программ. [1]
+3. Финансовые вопросы прохождения практики регламентируются. [1]",
+internship_01_kk,internship,kk,Бакалавриат студенттерінде практиканың қандай түрлері бар?,answered,high,1.0,0.3333,0.0,1.0,61.5,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Міндетті кәсіптік практиканың барлық түрлерінің жалпы көлемі оқу жоспарында белгіленеді. [1]
+
+Практика — Қажетті құжаттар мен талаптар:
+1. Өндірістік практика оқу жоспарында көрсетілген білім беру бағдарламасының көлемінде де, студенттің қалауы бойынша белгіленген нормадан тыс ерікті түрде де міндетті болып табылады. [1]
+2. Өндірістік практика базалық пәндер циклі аяқталғаннан кейін ұйымдастырылады. [1]
+3. Білім алушыларды практиканың барлық түрлеріне жіберу олардың өту мерзімдері, базасы және басшысы көрсетіле отырып, Ректордың бұйрығымен ресімделеді. [1]
+4. Практика бағдарламасы студенттерде болашақ қызметке сәйкес дағдылар мен іскерліктерді қалыптастырудың негізделген дәйектілігін көрсететін нормативтік-әдістемелік құжат болып табылады. [1]",
+internship_01_en,internship,en,What types of internship do bachelor students have?,answered,high,0.0,0.0,0.0,1.0,58.13,Design,"In short: Most teachers have extensive practical experience in their field of study and are recognized as specialist architects. [1]
+
+Internship — How to do it:
+1. Training practice at the 1,2-m courses for students selected by a special competition is held in Samarkand (Uzbekistan), Baku (Azerbaijan). [1]
+2. At senior courses, students have the opportunity to study at universities in Italy, Poland, Malaysia, etc for one semester on academic mobility programs. [1]
+3. The internship takes place in the leading design organizations of the city of Almaty, such as the Project Academy KAZGOR, ""Almatygenplan"", ""Almatygiprogor "", ""Urbostyle"", etc. In the process of studying, students successfully participate in international professional competitions. [1]",
+internship_02_ru,internship,ru,Как организуется профессиональная практика?,answered,high,1.0,0.3333,0.0,1.0,65.26,Правила кредитной технологии обучения в НАО КазНИТУ имени К.И.Сатпаева (бакалавриат) 2023,"Коротко: Организация и прохождение профессиональных практик. [1]
+
+Практика — Как это сделать:
+1. Профессиональная практика обучающихся является составной частью образовательной программы высшего образования, направленной на формирование практических навыков профессиональной деятельности обучающихся. [1]
+2. Обязательными видами профессиональной практики студентов. [1]",
+internship_02_kk,internship,kk,Кәсіптік практика қалай ұйымдастырылады?,answered,high,1.0,0.5,0.0,1.0,57.69,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Кәсіптік практиканы ұйымдастыру және одан өту. [1]
+
+Практика — Қалай жасалады:
+1. Практиканың мақсаттары, көлемі мен түрлері Қазақстан Республикасының мемлекеттік стандарттарымен және білім беру бағдарламаларының оқу жұмыс жоспарларымен айқындалады. [1]
+2. Оқу практикасы оқу немесе оқу-өндірістік практикасын (мамандыққа кіріспе) қамтиды. [1]
+3. Студенттердің оқу практикасы университеттің оқу бөлімшелерінде немесе кәсіпорындарда, мекемелер мен ұйымдарда, оның ішінде үлестес институттарда өткізілуі мүмкін. [2]
+4. Білім алушылардың практикасын ұйымдастыру және өткізу үшін. [2]",
+internship_02_en,internship,en,How is professional practice organized?,answered,high,0.0,0.0,0.0,1.0,59.31,Regulations on Credit Technology of Education at the NJSC KazNRTU named after K.I.Satpayev (Undergraduate degree program),"In short: To organize and conduct the practice of students, by order of the university, practice supervisors of the University are appointed among professors and experienced teachers who know the specifics of the profession and the activities of practice bases. [1]
+
+How to do it:
+1. The organization of practice at all stages should be aimed at ensuring the continuity and consistency of the student's mastering of professional skills in accordance with the requirements for the level of graduate training. [1]
+2. Student practice may be carried out in the educational departments of the University or at enterprises, institutions, and organizations, including affiliated institutions. [1]
+3. Industrial practice of students, not earlier than the end of the 2nd year of study, is carried out, as a rule, at enterprises, institutions and organizations that are the bases of practice. [1]
+4. The practice heads are responsible for the timely quality organization of students’ professional practices, monitor the timely completion of practice diaries by trainee interns, advise students on all issues related to the internship and certify the practice results with the entry of grades in certification statements. [2]",
+internship_03_ru,internship,ru,Как выбрать базу практики?,answered,low,1.0,1.0,1.0,1.0,71.05,Практика студентов ИС,"Коротко: Производственная практика в университете охватывает широкий спектр направлений и позволяет студентам выбрать область, соответствующую их профессиональным интересам и будущей специализации. [1]",
+internship_03_kk,internship,kk,Практика базасын қалай таңдауға болады?,answered,high,1.0,0.25,0.0,1.0,63.96,Академиялық саясат 2022,"Қысқаша жауап: Ұйымдардың деректер базасында білім алушылардың кәсіптік практикасын өткізу туралы ұйымдармен уақтылы шарттар жасасуға, практика базасының білім беру бағдарламасының бейініне және оқытудан күтілетін нәтижелерге сәйкестігіне тағайындалған практика басшыларының жұмысын бақылауды жүзеге асыратын шығарушы кафедра меңгерушісі жауапты болады. [1]
+
+Практика — Қалай жасалады:
+1. Білім алушылардың өндірістік, диплом алдындағы практикасы, әдетте, практика базасын ұсыну туралы қолда бар шарттарға сәйкес практика базасы болып табылатын кәсіпорындарда, мекемелерде және ұйымдарда жүргізіледі. [1]
+2. Практика жетекшілері білім алушылардың кәсіптік практикаларын өткізуді уақтылы сапалы ұйымдастыруға жауапты болады, білім алушы-практиканттардың практика күнделіктерін уақтылы толтыруын бақылайды, білім алушыларға практикадан өтуге байланысты барлық мәселелер бойынша кеңес береді және аттестаттау ведомостарына бағаларды енгізе отырып, практика нәтижелерін аттестаттауды жүзеге асырады. [1]",
+internship_03_en,internship,en,How do I choose a place for my internship?,not_found,low,1.0,1.0,,,77.92,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+internship_04_ru,internship,ru,Какие документы нужно сдать по итогам практики?,not_found,low,0.0,0.0,,,52.75,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+internship_04_kk,internship,kk,Практика қорытындысы бойынша қандай құжаттар тапсыру керек?,answered,high,0.0,0.0,0.0,1.0,67.9,Бакалавр талапкеріне арналған нұсқаулық,"Қысқаша жауап: Электронды тіркеуден өткеннен кейін болашақ студенттер құжаттардың түпнұсқасын университеттің қабылдау комиссиясына тапсырады және еңбек шартына қол қояды, өйткені Қазақстан Республикасының мемлекеттік грант негізінде оқуға түскен әрбір азаматы кемінде 3 (үш) жыл жұмыс істеп, оқуын өтеуі тиіс. [1]
+
+Практика — Қажетті құжаттар мен талаптар:
+1. Жеке куәлік және оның 3 көшірмесі 6 фотосурет 075-у үлгісіндегі медициналық анықтама флюорографияның суретімен және оның 1 көшірмесімен бірге 063 үлгісіндегі екпе картасы және оның 2 көшірмесі ҰБТ сертификаты Грантқа ие болғандығын дәлелдейін куәлік Квотаға құқығы бар екенін дәлелдейтін анықтама Әскери бөлімшеге тіркеу үшін қажетті куәлік және оның 1 көшірмесі (ұл балалар үшін) Мұның бәрін жүзеге асыру үшін, kb.satbayev.university Satbayev University сайтында өтініш толтырып, университеттің қабылдау комиссиясына құжаттардың түпнұсқасын тапсыру керек. [1]",
+internship_04_en,internship,en,What documents must be submitted after the internship?,answered,low,0.0,0.0,0.0,1.0,89.29,Inviting foreign students,"In short: After submitting the primary documents, you will be assigned an online interview with representatives of the department, Admissions Committee, and International Office. [1]
+
+Internship — Documents and requirements:
+1. Within 1 week after submitting the documents After the interview, the applicant receives an official admission decision from the University. [1]",
+internship_05_ru,internship,ru,Как оценивается практика?,answered,low,0.0,0.0,0.0,1.0,83.33,Правила кредитной технологии обучения в НАО КазНИТУ имени К.И.Сатпаева (бакалавриат) 2023,"Коротко: Финансовые вопросы прохождения практики регламентируются. [1]
+
+Практика — Как это сделать:
+1. Организация и прохождение профессиональных практик. [1]
+2. Цели, объёмы и виды практики определяются государственными стандартами Республики Казахстан и рабочими учебными планами образовательных программ. [1]
+3. Обязательными видами профессиональной практики студентов. [1]
+4. Учебная практика включает в себя учебную или учебно-производственную практику (введение в специальность). [1]",
+internship_05_kk,internship,kk,Практика қалай бағаланады?,answered,low,1.0,0.5,0.0,1.0,61.25,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Практика бойынша қорытынды ведомостар ағымдағы оқу жылында жабылуы тиіс, өйткені практика бойынша бағалаудың белгіленген балдықрейтингтік әріптік жүйесі бойынша сараланған сынақпен қорытынды бағалау нәтижесі басқа пәндердің нәтижесімен қатар GPA-ға және студенттерді курстан курсқа ауыстыруға әсер етеді. [1]",
+internship_05_en,internship,en,How is the internship assessed?,answered,low,1.0,0.3333,0.0,1.0,78.45,Regulations on Credit Technology of Education at the NJSC KazNRTU named after K.I.Satpayev (Undergraduate degree program),"In short: The final grade for practice is set according to the given scale of assessments of the student's knowledge according to the standard assessment adopted at the University. [1]
+
+Internship — How to do it:
+1. The defense of reports on production practice, as a rule, is carried out within one week after the completion of the practice; the final assessment is filled into the electronic sheet by an individual responsible for the practice or the head of the department. [1]",
+internship_06_ru,internship,ru,Кто является руководителем практики?,answered,high,1.0,0.2,0.0,1.0,68.75,Правила кредитной технологии обучения в НАО КазНИТУ имени К.И.Сатпаева (бакалавриат) 2023,"Коротко: 
+   • Обучающиеся. - проходят практику согласно графику и распределению, предоставленному выпускающей кафедрой
+   • Полностью выполняют программу практики
+   • Ведут дневники практики
+   • Соблюдают правила трудового распорядка на местах прохождения практики
+   • Изучают и соблюдают правила техники безопасности, охраны труда и производственной санитарии
+   • Предоставляют руководителю практики от Университета полностью заполненный ежедневный дневник практики, подписанный руководителем практики предприятия в установленные сроки [1]
+
+Практика — Куда обращаться:
+1. Для организации и проведения практики обучающихся приказом по ВУЗу назначаются руководители практики от Университета из числа профессоров и опытных преподавателей, знающих специфику профессии и деятельность баз практики. [2]
+2. При прохождении обучающимися практики в сторонних организациях предприятием-базой практики назначается руководитель практики от предприятия. [2]",
+internship_06_kk,internship,kk,Практика жетекшісі кім?,answered,high,1.0,0.25,0.5,1.0,68.48,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Білім алушылар шет ұйымдарда практикадан өткен кезде кәсіпорын-практика базасы кәсіпорыннан практика жетекшісін тағайындайды. [1]
+
+Практика — Қайда жүгіну керек:
+1. ЖОО бойынша бұйрықпен мамандықтың ерекшелігін және практика базаларының қызметін білетін профессорлар мен тәжірибелі оқытушылар қатарынан Университеттің практика жетекшілері тағайындалады. [1]
+2. Практикаға жетекшілік үшін білікті мамандармен қамтамасыз ету. [2]",
+internship_06_en,internship,en,Who supervises the internship?,answered,low,1.0,1.0,1.0,1.0,67.79,ҚазҰТЗУ 709-01 Ү. Кәсіптік практика бағдарламасы,"In short: Практиканың осы түрін жүргізу ерекшеліктері. [1]
+
+Internship — Conditions:
+1. Кіріспе Жалпы ережелер Практиканың мақсаты мен міндеттері 4 Практиканы ұйымдастыру. [1]
+2. Практикадан өту туралы студенттердің есептілігінің нысаны мен түрі (күнделік, есеп және т б.). [1]
+
+(This rule is written in another language in the document, so the fragments are quoted in the original.)",
+internship_07_ru,internship,ru,Что такое дуальное обучение?,answered,high,1.0,1.0,1.0,1.0,66.8,Положение о дуальной системе обучения в НАО КазНИТУ имени К.И.Сатпаева 2024,"Коротко: Документом, подтверждающим трудовую деятельность обучающегося, является договор о дуальном обучении. [2]
+
+Подробнее:
+1. Программа дуального обучения, согласованная с предприятием (организацией). [1]
+2. Отбор на дуальное обучение ведется. [1]",
+internship_07_kk,internship,kk,Дуальды оқыту деген не?,answered,high,1.0,1.0,1.0,1.0,58.19,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ дуальды оқыту жүйесі туралы Ережесі 2024,"Қысқаша жауап: Дуальды оқыту жүйесі - бұл оқытудың теориялық даярлау бөлігі білім беру ұйымы базасында, ал практикалық бөлігі өндірісте өтетін оқыту түрі. [1]",
+internship_07_en,internship,en,What is dual education?,answered,high,1.0,1.0,1.0,1.0,41.07,Student Practice CP and IE,"In short: In the 2023-2024 academic year, 3rd and 4th year students of the department, as part of dual training, will undergo the practical part of classes on: 1. "" KazEkoanalitika "" LLP. [1]",
+internship_08_ru,internship,ru,Как университет помогает с трудоустройством выпускников?,answered,low,1.0,0.25,0.0,1.0,62.11,Академическая политика 2022,"Коротко: Заключается трехсторонние договора между университетом студентом и работодателем, согласно которому после окончания обучения работодатель гарантирует трудоустройство выпускнику 23.18. [1]",
+internship_08_kk,internship,kk,Университет түлектерді жұмысқа орналастыруға қалай көмектеседі?,answered,high,1.0,1.0,1.0,1.0,66.49,ҚазҰТЗУ 710 ҚП. Түлектерді жұмысқа орналастыру,"Қысқаша жауап: Мансап орталығы, кафедралар бөлім мен шығарушы кафедралардың жұмыс жоспарына енгізілген түлектерді жұмысқа орналастыру бойынша шараларды жүзеге асырады. [1]
+
+Қалай жасалады:
+1. Егер шарттың талаптарында қарастырылған бол оқыған түлектер де жұмысқа орналасуға көмек ала алады а, ақылы негізде 4 ЖОСПАРЛАУ. [1]
+2. Жұмысқа орналастыру бойынша жоспарда қарастырылады. [1]
+3. Орталықтармен/ұйымдармен жұмысқа орналайтыру жөніндегі жұмыстарды жолға қою. [1]
+4. Түлектермен және оларды жұмысқа қабылдаған ұйымдармен байланыс орнату. [1]",
+internship_08_en,internship,en,How does the university help graduates find employment?,answered,medium,1.0,1.0,1.0,1.0,54.69,Practice and employment at Satbayev University,"In short: 
+   • Use the capabilities of Beam Career platform Free Beam digital platform.kz will help you: • Find vacancies, internships and internship program
+   • Get useful career planning content
+   • Take part in employers' events
+   • Learn more about their work and team [1]",
+internship_09_ru,internship,ru,Сколько длится производственная практика?,answered,low,1.0,0.2,0.0,1.0,71.36,Академическая политика 2022,"Коротко: Программы производственной практики должны быть согласованы. [1]
+
+Практика — Размер / сумма:
+1. Производственная, преддипломная практика обучающихся проводится, как правило, на предприятиях, в учреждениях и организациях, являющихся базами практик в соответствии с имеющимися договорами о предоставлении базы практики. [1]",
+internship_09_kk,internship,kk,Өндірістік практика қанша уақытқа созылады?,answered,high,1.0,0.2,0.0,1.0,66.56,Қ.И.Сәтбаев атындағы ҚазҰТЗУ Микробіліктілік бағдарламаларын әзірлеу және оларды тану тәртібі жөніндегі Ережесі 2025,"Қысқаша жауап: | Білім беру ұйымының | Материалдық-техникалық базаның болуы теориялық, практикалық | туралы, қысқа мерзімді оқытуды өткізуге арналған үй-жайлардың/ғимараттың болуын растайтын ақпараттар: теориялық сабақтар, сондай-ақ практикалық сабақтар немесе өндірісте практиканы ұйымдастыру; өндірісте практика базасының бар болуын растайтын құжаттар: кәсіпорындармен, әлеуметтік серіктестермен жасалған келісімшарттар, шарттар. сабақтарды өткізу және өндірісте практиканы ұйымдастыру үшін материалдык-техникалык база туралы мәліметтердің болуы Басқарманың 2025 жылғы ""{Z"" ""% Х бұйрығымен редакцияда бекітілді -‚. [1]",
+internship_09_en,internship,en,How long does the industrial internship last?,answered,low,1.0,0.3333,0.0,1.0,51.73,School of transport engineering and logistics named after M. Tynyshpayev,"In short: The school implements elements of dual education: 4th-year students undergo a year-long internship without interrupting their studies at leading industry companies, including SaryArka AutoProm, Allur Auto, Porsche Centre Almaty, Astana Motors, KTZ - Freight Transportation, Zhebe Logistics, and others. [1]",
+internship_10_ru,internship,ru,"Что делать, если я не прошел практику?",not_found,low,1.0,0.25,,,46.57,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+internship_10_kk,internship,kk,Практиканы өтпей қалсам не істеу керек?,not_found,low,1.0,1.0,,,48.23,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+internship_10_en,internship,en,What should I do if I failed the internship?,answered,low,1.0,0.3333,0.0,1.0,59.28,Academic Policy 2022,"In short: The internship programs should be coordinated by Career Center with the practice bases. [1]
+
+Internship — How to do it:
+1. The Internship program is developed by degree-awarding department taking into account educational program profile, the nature of enterprise, organization - the venues of internship (practice base), the expected learning outcomes, and is approved by Institute’s Academic Council. [1]",
+graduation_01_ru,graduation,ru,Как проходит итоговая аттестация?,answered,high,0.0,0.0,0.0,1.0,57.07,ДП КазНИТУ 706 Оценка знаний и ликвидация задолженности (бакалавриат),Коротко: Промежуточная аттестация /итоговый контроль знаний обучающихся по дисциплине осуществляется в период экзаменационной сессии. [1],
+graduation_01_kk,graduation,kk,Қорытынды аттестаттау қалай өтеді?,answered,high,0.0,0.0,0.0,1.0,74.49,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Студенттерді қорытынды аттестаттауға жіберу қорытынды аттестаттау басталғанға дейін екі апта бұрын студенттер тізімі бойынша институт директорының өкімімен ресімделеді және аттестаттау комиссиясына ұсынылады. [1]
+
+Қалай жасалады:
+1. Білім алушыларды қорытынды аттестаттау Академиялық күнтізбеде және білім беру бағдарламаларының оқу жұмыс жоспарларында көзделген мерзімде жүргізіледі. [1]
+2. Қорытынды аттестаттаудан немесе кешенді емтиханнан өткен білім алушыға ""Қорытынды аттестаттау"" бөлімі үшін кредиттердің жалпы көлемінен кемінде 8 академиялық кредит беріледі. [1]
+3. Академиялық күнтізбеде көрсетілген мерзімде теориялық оқуды аяқтамаған білім алушылар қорытынды аттестаттаудан өтуге (дипломдық жұмысты/жобаны қорғауға) жіберілмейді. [1]
+4. Білім алушыларды қорытынды аттестаттаудан өткізу үшін оқытудың барлық нысандары үшін әрбір білім беру бағдарламасы бойынша аттестаттау комиссиясы құрылады. [1]",
+graduation_01_en,graduation,en,How is the final attestation conducted?,answered,high,0.0,0.0,0.0,1.0,57.9,REGULATIONS on Credit Technology of Education at the NJSC “KazNRTU named after K.I. Satbayev” (Undergraduate degree program) 2023,"In short: To conduct the final certification of students, a state attestation commission is created for each educational program for all forms of education. [1]
+
+Deadlines:
+1. Admission to the final attestation of students is issued by order of the director of the institute according to the list of students no later than two weeks before the start of the final attestation and submitted to the attestation commission. [1]
+2. To conduct the final attestation of students, Attestation Commission. [2]",
+graduation_02_ru,graduation,ru,Какие требования к дипломной работе?,answered,high,1.0,1.0,1.0,1.0,63.67,Положение о проведении итоговой аттестации (Undergraduate Thesis) 2021,"Коротко: Требования к порядку выбора и выполнения дипломной работы. (проекта) Календарный график. [1]
+
+Дипломная работа — Условия:
+1. Выпускающие кафедры до начала выполнения дипломной работы (проекта) должны разработать и обеспечить обучающихся методическими указаниями, в которых До 01 устанавливаются требования к дипломной работе (проекту) в сентября, соответствии с образовательно-профессиональными 4-го года программами и настоящими правилами. [2]",
+graduation_02_kk,graduation,kk,Дипломдық жұмысқа қандай талаптар қойылады?,not_found,low,1.0,1.0,,,74.2,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+graduation_02_en,graduation,en,What are the requirements for the graduation thesis?,not_found,low,1.0,1.0,,,69.01,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+graduation_03_ru,graduation,ru,Как проверяют дипломную работу на плагиат?,answered,medium,1.0,1.0,1.0,1.0,64.93,Положение о проведении итоговой аттестации (Undergraduate Thesis) 2021,"Коротко: Кафедра хранит дипломную работу/проект в электронном формате, наиболее ценные работы (например, имеющие цитирование) неограниченно долгое время. [1]
+
+Плагиат — Как это сделать:
+1. Порядок хранения дипломной работы (проекта). [1]",
+graduation_03_kk,graduation,kk,Дипломдық жұмыс плагиатқа қалай тексеріледі?,not_found,low,1.0,1.0,,,124.64,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+graduation_03_en,graduation,en,How is the thesis checked for plagiarism?,not_found,low,1.0,1.0,,,88.12,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+graduation_04_ru,graduation,ru,Какой допустимый процент оригинальности работы?,answered,high,1.0,1.0,1.0,1.0,51.84,Положение о проверке письменных работ на плагиат 2025,"Коротко: В случае превышения допустимого уровня заимствований или обнаружения некорректного использования источников, обучающихся обязан доработать работу в соответствии с замечаниями научного руководителя и повторно пройти проверку на оригинальность до даты предварительной защиты. [1]",
+graduation_04_kk,graduation,kk,Жұмыстың түпнұсқалығының рұқсат етілген пайызы қандай?,answered,high,1.0,1.0,1.0,1.0,62.4,Бітіру жұмыстарын плагиат мәніне тексеру жүргізу туралы (Strike Plagiarism.com) қағида 2022,"Қысқаша жауап: Плагиаттың рұқсат етілген пайызынан асып кеткен жағдайда, автор бітіру жұмысын Жүйеде бір рет (ақылы) тексеруге құқылы. [1]",
+graduation_04_en,graduation,en,What is the acceptable percentage of originality of the thesis?,not_found,low,1.0,1.0,,,87.07,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+graduation_05_ru,graduation,ru,Как проходит защита дипломного проекта?,answered,high,1.0,1.0,1.0,1.0,70.8,Положение о проведении итоговой аттестации (Undergraduate Thesis) 2021,"Коротко: Порядок хранения дипломной работы (проекта). [1]
+
+Дипломная работа — Как это сделать:
+1. В случае получения выпускником на итоговой аттестации и защите дипломной работы (проекта) оценки F (неудовлетворительно) процедура подготовки, написания и защиты дипломной работы (проекта) должна быть проведена заново в следующий академический период по новой заданной теме работы. [1]
+2. Дипломная/проект хранится на странице кафедры официального сайта университета в электронном формате не менее 2-х лет. [1]
+3. Кафедра хранит дипломную работу/проект в электронном формате, наиболее ценные работы (например, имеющие цитирование) неограниченно долгое время. [1]
+4. Тематика дипломных работ (проектов) разрабатывается выпускающей кафедрой, рассматривается и утверждается Ученым советом соответствующего института. [2]",
+graduation_05_kk,graduation,kk,Дипломдық жобаны қорғау қалай өтеді?,answered,high,1.0,1.0,1.0,1.0,90.19,Положение о проведении итоговой аттестации (Undergraduate Thesis) 2021,"Қысқаша жауап: Порядок хранения дипломной работы (проекта). [1]
+
+Дипломдық жұмыс — Қалай жасалады:
+1. В случае получения выпускником на итоговой аттестации и защите дипломной работы (проекта) оценки F (неудовлетворительно) процедура подготовки, написания и защиты дипломной работы (проекта) должна быть проведена заново в следующий академический период по новой заданной теме работы. [1]
+2. Дипломная/проект хранится на странице кафедры официального сайта университета в электронном формате не менее 2-х лет. [1]
+3. Кафедра хранит дипломную работу/проект в электронном формате, наиболее ценные работы (например, имеющие цитирование) неограниченно долгое время. [1]
+
+(Бұл ереже құжатта басқа тілде жазылған, сондықтан үзінділер құжаттың түпнұсқа тілінде берілді.)",
+graduation_05_en,graduation,en,How is the thesis defense conducted?,answered,high,1.0,1.0,1.0,1.0,82.96,Положение о проведении итоговой аттестации (Undergraduate Thesis) 2021,"In short: Порядок хранения дипломной работы (проекта). [1]
+
+Thesis — Amount:
+1. В случае получения выпускником на итоговой аттестации и защите дипломной работы (проекта) оценки F (неудовлетворительно) процедура подготовки, написания и защиты дипломной работы (проекта) должна быть проведена заново в следующий академический период по новой заданной теме работы. [1]
+2. Дипломная/проект хранится на странице кафедры официального сайта университета в электронном формате не менее 2-х лет. [1]
+
+(This rule is written in another language in the document, so the fragments are quoted in the original.)",
+graduation_06_ru,graduation,ru,Кто допускается к итоговой аттестации?,answered,high,0.0,0.0,0.0,1.0,77.82,ДП КазНИТУ 706 Оценка знаний и ликвидация задолженности (бакалавриат),"Коротко: Допуск обучающихся к экзамену по дисциплине осуществляется автоматически: [1]
+
+Экзамен — Куда обращаться:
+1. Промежуточная аттестация /итоговый контроль знаний обучающихся по дисциплине осуществляется в период экзаменационной сессии. [1]",
+graduation_06_kk,graduation,kk,Қорытынды аттестаттауға кім жіберіледі?,answered,high,0.0,0.0,0.0,1.0,71.41,Қ.И.Сәтбаев атындағы ҚазҰТЗУ КЕАҚ кредиттік оқыту технологиясы (бакалавриат),"Қысқаша жауап: Қорытынды аттестаттауға жұмыс және жеке оқу жоспарлары мен оқу жұмыс бағдарламаларының талаптарына сәйкес кемінде 240 академиялық кредит көлемінде теориялық оқу курсын толық аяқтаған білім алушылар жіберіледі. [1]
+
+Шарттары:
+1. Қорытынды аттестаттаудан немесе кешенді емтиханнан өткен білім алушыға ""Қорытынды аттестаттау"" бөлімі үшін кредиттердің жалпы көлемінен кемінде 8 академиялық кредит беріледі. [1]
+2. Академиялық күнтізбеде көрсетілген мерзімде теориялық оқуды аяқтамаған білім алушылар қорытынды аттестаттаудан өтуге (дипломдық жұмысты/жобаны қорғауға) жіберілмейді. [1]
+3. Студенттерді қорытынды аттестаттауға жіберу қорытынды аттестаттау басталғанға дейін екі апта бұрын студенттер тізімі бойынша институт директорының өкімімен ресімделеді және аттестаттау комиссиясына ұсынылады. [1]
+4. Білім алушыларды қорытынды аттестаттаудан өткізу үшін оқытудың барлық нысандары үшін әрбір білім беру бағдарламасы бойынша аттестаттау комиссиясы құрылады. [1]",
+graduation_06_en,graduation,en,Who is admitted to the final attestation?,answered,high,1.0,1.0,1.0,1.0,62.33,Regulations on the final attestation (Undergraduate Thesis) 2021,"In short: The results of the final attestation and defense of theses (projects) issued by the decision of the State Attestation Commission are not subject to appeal. [1]
+
+Conditions:
+1. In the event that a graduate admitted to the defense does not appear, another date for the defense may be assigned to him for defense by decision of the State Attestation Commission. [1]
+2. In the event that a graduate admitted to the defense does not appear for defense during this period of the meeting of the State Attestation Commission, his defense can be held in another academic period according to the academic calendar on a paid basis. [1]
+3. If a graduate receives an F (unsatisfactory) grade in the final attestation and defense of the thesis (project), the procedure for preparing, writing and defending the thesis (project) must be carried out again in the next academic period on a new given topic of work. [1]",
+graduation_07_ru,graduation,ru,Что такое приложение к диплому ECTS?,answered,low,1.0,1.0,1.0,1.0,76.63,Положение о проведении итоговой аттестации (Undergraduate Thesis) 2021,"Коротко: Порядок защиты дипломной работы (проекта). [1]
+
+Кредиты — Подробнее:
+1. Защита дипломной работы (проекта) организуется в публичной форме, с присутствием обучающихся, преподавателей выпускающей кафедры и других желающих. [1]
+2. В обсуждении дипломной работы (проекта) могут принимать участие все присутствующие в форме вопросов или выступлений. [1]",
+graduation_07_kk,graduation,kk,ECTS дипломына қосымша деген не?,answered,high,1.0,1.0,1.0,1.0,87.78,Положение о проведении итоговой аттестации (Undergraduate Thesis) 2021,"Қысқаша жауап: Порядок хранения дипломной работы (проекта). [1]
+
+Кредиттер — Толығырақ:
+1. Дипломная/проект хранится на странице кафедры официального сайта университета в электронном формате не менее 2-х лет. [1]
+2. Кафедра хранит дипломную работу/проект в электронном формате, наиболее ценные работы (например, имеющие цитирование) неограниченно долгое время. [1]
+
+(Бұл ереже құжатта басқа тілде жазылған, сондықтан үзінділер құжаттың түпнұсқа тілінде берілді.)",
+graduation_07_en,graduation,en,What is the ECTS diploma supplement?,answered,high,1.0,1.0,1.0,1.0,53.01,Provision on issuing the supplement to European System of Transfer and accumulation of Points diploma (ESTS) 2023,"In short: Tasks of obtaining the supplement to European System of Transfer and accumulation of Points diploma (ECTS): - the given diploma supplement provides an opportunity to continue education at foreign universities, as well as to confirm national higher education for overseas employers. [1]
+
+Credits — More details:
+1. Purpose of filling out the diploma supplement of European System of. [1]
+2. The supplement model, according to which the grades will be transferred, uses European Credit Transfer or Credit Transfer System (ECTS). [1]",
+graduation_08_ru,graduation,ru,Как получить диплом с отличием?,answered,high,1.0,1.0,0.5,1.0,68.58,Положение о проведении итоговой аттестации (Undergraduate Thesis) 2021,"Коротко: Порядок хранения дипломной работы (проекта). [1]
+
+Дипломная работа — Как это сделать:
+1. В случае получения выпускником на итоговой аттестации и защите дипломной работы (проекта) оценки F (неудовлетворительно) процедура подготовки, написания и защиты дипломной работы (проекта) должна быть проведена заново в следующий академический период по новой заданной теме работы. [1]
+2. Дипломная/проект хранится на странице кафедры официального сайта университета в электронном формате не менее 2-х лет. [1]
+3. Кафедра хранит дипломную работу/проект в электронном формате, наиболее ценные работы (например, имеющие цитирование) неограниченно долгое время. [1]
+4. При этом, обучающемуся, имеющему в течение всего периода обучения пересдачи или повторные сдачи итогового контроля (экзамена), диплом с отличием не выдается. [2]",
+graduation_08_kk,graduation,kk,Үздік дипломды қалай алуға болады?,answered,high,1.0,1.0,1.0,1.0,78.56,Положение о проведении итоговой аттестации (Undergraduate Thesis) 2021,"Қысқаша жауап: Порядок хранения дипломной работы (проекта). [1]
+
+Дипломдық жұмыс — Қалай жасалады:
+1. В случае получения выпускником на итоговой аттестации и защите дипломной работы (проекта) оценки F (неудовлетворительно) процедура подготовки, написания и защиты дипломной работы (проекта) должна быть проведена заново в следующий академический период по новой заданной теме работы. [1]
+2. Дипломная/проект хранится на странице кафедры официального сайта университета в электронном формате не менее 2-х лет. [1]
+3. Кафедра хранит дипломную работу/проект в электронном формате, наиболее ценные работы (например, имеющие цитирование) неограниченно долгое время. [1]
+
+(Бұл ереже құжатта басқа тілде жазылған, сондықтан үзінділер құжаттың түпнұсқа тілінде берілді.)",
+graduation_08_en,graduation,en,How can I get a diploma with honors?,answered,high,0.0,0.0,0.0,1.0,53.25,Regulations on Credit Technology of Education at the NJSC KazNRTU named after K.I.Satpayev (Undergraduate degree program),"In short: At the same time, a student who has retakes or retakes exams of the final control (exam) during the entire period of study will not receive a diploma with honors. [1]
+
+How to do it:
+1. A student who has retakes or retakes exams during the period of study does not receive a diploma with honors, despite meeting the specified criteria. *Note: if a student had a grade of ""satisfactory"" and/or ""unsatisfactory"" for the entire period of his studies at the university, they will not be awarded a diploma with honors even if he had to retake this grade for a grade of ""good"" or ""excellent"". [1]
+2. A diploma with honors is issued to a student who has passed exams and differentiated tests with grades A, A- (""excellent""), B +, B, B-, C + (""good"") and has a grade point average (GPA) for the entire period not lower than 3.5, as well as defending a thesis (project) with grades A, A- (""excellent""), a diploma with honors is issued if there are no re-take examinations during the entire period of study (excluding military training grades). [2]",
+graduation_09_ru,graduation,ru,Что такое диплом собственного образца?,not_found,low,1.0,1.0,,,82.48,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+graduation_09_kk,graduation,kk,Өз үлгісіндегі диплом деген не?,not_found,low,1.0,1.0,,,67.51,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+graduation_09_en,graduation,en,What is a diploma of the university's own sample?,answered,high,1.0,1.0,1.0,1.0,61.42,Regulation on the diploma of its own sample 2022,"In short: Documents on education of their own sample have the following series: 1) a diploma of higher education with the award of a bachelor's degree - BD. [1]
+
+Amount:
+1. The logo and (or) the name of the accreditation agency for institutional accreditation shall be placed in the documents on the formation of their own sample. [1]
+2. Logos (or) names of accreditation agencies for specialized accreditation of degree programs are placed in the appendix to the documents on education of their own sample. [1]",
+graduation_10_ru,graduation,ru,"Что делать, если дипломная работа не прошла проверку на плагиат?",answered,high,1.0,1.0,1.0,1.0,72.54,Положение о проведении итоговой аттестации (Undergraduate Thesis) 2021,"Коротко: Законченная дипломная работа (проект), успешно прошедшая проверку на заимствования в Системе, оформленная в соответствии с установленными требованиями, подписанная научным руководителем и заведующим кафедрой направляется на защиту на государственной аттестационной комиссии, и выгружается на специальный портал Дипломных работ не позднее чем за две недели до официальной защиты. [1]
+
+Плагиат — Подробнее:
+1. Дипломная работа (проект) подписывается в титульном листе и хранится на кафедре в электронном виде. [1]
+2. Порядок защиты дипломной работы (проекта). [1]",
+graduation_10_kk,graduation,kk,Дипломдық жұмыс плагиат тексеруінен өтпесе не істеу керек?,not_found,low,1.0,1.0,,,110.73,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+graduation_10_en,graduation,en,What happens if my thesis fails the plagiarism check?,not_found,low,1.0,1.0,,,85.73,,I couldn't find this information in the official university documents. Please rephrase the question or contact the Student Service Center.,
+student_services_01_ru,student_services,ru,Кто такой эдвайзер и чем он помогает студенту?,answered,high,1.0,1.0,1.0,1.0,55.35,Руководство эдвайзера студентов первого года обучения ИБО_20-21,"Коротко: 
+   • Направляет студентов к соответствующим академическим ресурсам
+   • Выступает в качестве наставника, помогая студентам раскрыть их потенциал и установить академические, карьерные и личные цели
+   • Помогает в принятии решений и т.д. Настоящее руководство является информационным ресурсом - справочником по основным этапам работы эдвайзера, процедурам и процессам, связанным с эдвайзерской деятельностью и, в целом, по политике эдвайзерства эдвайзерство в ибо - очень важная, ответственная и весьма интересная часть работы преподавателя! [1]",
+student_services_01_kk,student_services,kk,Эдвайзер кім және ол студентке қалай көмектеседі?,answered,medium,1.0,1.0,1.0,1.0,51.84,2020–2021 жж. ББИ бірінші оқу жылы студенттерінің эдвайзеріне арналған нұсқаулық,"Қысқаша жауап: 
+   • Ол білім беру бағдарламасы бойынша пәндерді жұмыстық оқу жоспарына (ЖОЖ), КОТ-ның жалпы талаптарына сәйкес және студенттердің қызығушылықтарына қарай таңдап алуға көмектеседі
+   • Студенттерді сәйкес академиялық ресурстарға бағыттап отырады
+   • Студенттерге өз бойларындағы қабілеттерін ашуға көмектесе отырып, алдарына академиялық, кәсіби және жеке мақсаттар қою үшін тәжірибелі тәлімгер ретінде де көмек береді
+   • Кез келген мәселе жөнінде шешім қабылдауға көмектеседі [1]
+
+Эдвайзер — Қалай жасалады:
+1. ББИ-да эдвайзер болу - бұл оқытушы қызметінің ең маңызды, жауапты, әрі өте қызықты бөлігі! [1]",
+student_services_01_en,student_services,en,Who is an adviser and how does the adviser help students?,answered,high,1.0,1.0,1.0,1.0,53.96,Regulations on the adviser 2024,"In short: The main purpose of advisers' activity is to assist in choosing the learning trajectory (formation of an individual curriculum) of the student and mastering the degree program during the study period. [1]
+
+Advisor — How to do it:
+1. Public organizations of University, through Student Affairs Department, maintain close contact with the advisors of academic groups, inform them about events held at University and the city. [1]",
+student_services_02_ru,student_services,ru,Как работает студенческое самоуправление?,answered,high,1.0,1.0,0.5,1.0,57.69,Положение о студенческом самоуправлении в КазНИТУ 2024,"Коротко: В структуру студенческого самоуправления входят студенческие организации: 1) Студенческий деканат. [1]
+
+Как это сделать:
+1. Cтуденческий деканат. [1]
+2. Студенческий деканат является высшим органом студенческого и молодежного самоуправления университета. [1]
+3. Приглашаем всех первокурсников принять участие Студенческое самоуправление Студенческое самоуправление - это инициативная, общественно-важная работа, которая направлена на решение важных вопросов студенческой жизни и защиту интересов учащихся. [2]
+4. Студенческий деканат - высший орган студенческого и молодежного самоуправления университета. [2]",
+student_services_02_kk,student_services,kk,Студенттік өзін-өзі басқару қалай жұмыс істейді?,answered,high,1.0,1.0,1.0,1.0,71.88,Студенттік өзін-өзі басқару туралы Ереже 2024,"Қысқаша жауап: Университетте Студенттік өзін-өзі басқару қызметін жүзеге асыру тәртібі 5 5 Басқа бөлімшелермен өзара әрекеттесу 9. [1]
+
+Қалай жасалады:
+1. Студенттік өзін-өзі басқару құрылымы 5. [1]",
+student_services_02_en,student_services,en,How does student self-government work?,answered,high,1.0,1.0,0.5,1.0,53.18,Regulation on student self-governance at KazNRTU 2024,"In short: 
+   • Me:mbe,rs of student associations of the University have the ripSht. - to derrelop and implement programmes and prrcjects within the framework of student associertion activities
+   • To make f,roporul, on the organisational wgrk ol the student association
+   • Morail u,rafut material.nJourugement for the work performed by the student association in full and the high results obtained' 6.2 Members of all student associations are responsible [1]
+
+How to do it:
+1. All freshmen are welcome to participate Student government Student government is an initiative, socially important work aimed at solving the important issues of student life and protecting the interests of students. [2]
+2. Student Dean's Office is the highest body of student and youth self-government of the university. [2]
+3. The main goal is to ensure the rights of students, create conditions for young people, reveal their creative potential, implement student initiatives, as well as develop student and youth self-government at the university. [2]
+4. The leadership is elected by students: the university’s Regulations on student self-governance state that elections are held once a year and follow a registration-campaign-election procedure. [2]",
+student_services_03_ru,student_services,ru,Что написано в этическом кодексе студента?,not_found,low,1.0,0.3333,,,48.43,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+student_services_03_kk,student_services,kk,Білім алушылардың этикалық кодексінде не жазылған?,answered,high,1.0,1.0,1.0,1.0,53.33,Қ.И.Сәтбаев атындағы ҚазҰТЗУ-де білім алушыларының Этикалық кодексі 2024,"Қысқаша жауап: Этикалық кодекс білім алушылардың бір-бірімен, сондай-ақ. [1]
+
+Толығырақ:
+1. Этикалық кодекс ережелерін жүйелі түрде орындамау. [1]
+2. Этикалық кодекс шектеусіз мерзім бойынша қолданылады. [1]",
+student_services_03_en,student_services,en,What does the student code of ethics say?,answered,high,1.0,1.0,1.0,1.0,48.65,Code of ethics for students of KazNRTU named after K. Satbayev 2024,"In short: The Code of Ethics establishes mandatory rules of conduct for every student at KazNRTU. [1]
+
+How to do it:
+1. The Code of Ethics is aimed at creating a favorable psychological climate for communication between students, as well as with teachers and other employees of KazNRTU. [1]
+2. This Code is a voluntary agreement among students that defines the ethical standards and conduct of a University student from the moment of enrollment until completion of studies. [1]",
+student_services_04_ru,student_services,ru,Как организовано дистанционное обучение?,answered,high,1.0,1.0,1.0,1.0,63.92,Положение об организации учебного процесса с применением дистанционных образовательных технологий 2022,"Коротко: Система дистанционного обучения Polytech Online и/или Microsoft Office 365 под активными элементами, в основном, понимает организацию общения между слушателями дистанционного обучения (форум, чат, обмен сообщениями и т.п.). [1]
+
+Как это сделать:
+1. Демонстрации, созданных слушателями дистанционного обучения фотографиями, плакатами и т.д. [1]
+2. Предоставления слушателям дистанционного обучения места для хранения файлов и т.д. [1]
+3. Вид занятий, где слушатели дистанционного обучения должны оценивать результаты работы других слушателей дистанционного обучения; лекция. [1]",
+student_services_04_kk,student_services,kk,Қашықтықтан оқыту қалай ұйымдастырылған?,answered,high,1.0,0.5,0.0,1.0,63.38,Bended Learning технологиясын (магистратура және докторантура) қолдану тәртібі туралы ереже 2025,"Қысқаша жауап: Аралас оқыту (BL) форматындағы оқу процесін ұйымдастыру оқытушы мен білім алушылардың күндізгі оқу өзара іс-қимылының дәстүрлі нысандарын қоспағанда, жекелеген қашықтан білім беру технологияларын қолдана отырып жүзеге асырылады. [1]
+
+Қалай жасалады:
+1. Аралас оқыту форматындағы теориялық оқыту кезеңінде пәндерді оқыту оқытушылармен байланыс сағаттары арқылы, қашықтан оқытудың электрондық жүйесі және дербес оқу орталары арқылы жүзеге асырылады, онда білім алушыға барлық оқу материалдары, тапсырмалар ұсынылады. [1]",
+student_services_04_en,student_services,en,How is distance learning organized?,answered,high,1.0,1.0,1.0,1.0,42.1,Rules for organizing the online training at NPJSC KazNRTU named after K.I.Satbayev 2023,"In short: Polytech Online is a platform created by University based on the popular Moodle distance learning system. [1]
+
+Deadlines:
+1. Distance learning or online learning, involving the interaction of participants in the educational process, including through information systems and other means of communication, not tied to a specific place and time. [1]",
+student_services_05_ru,student_services,ru,Как пользоваться электронной библиотекой?,answered,medium,1.0,1.0,1.0,1.0,54.05,ДП КазНИТУ 607. Управление информационными ресурсами научной библиотеки 2023,"Коротко: Организация Использование Количество Отчет о работе использования фонда в пунктах читателей, отдела фонда библиотеки, обслуживания удаленных Листы регистрации в том числе библиотеки и в пользователей, участников электронных удаленном режиме книговыдач, в т.ч мероприятий ресурсов Уровень по МБА и ЭДД, Итоги удовлетворенности посещений анкетирования, пользователей Количество опросов обращений к ЭБ. [1]",
+student_services_05_kk,student_services,kk,Электрондық кітапхананы қалай пайдалануға болады?,not_found,low,1.0,1.0,,,71.85,,Университеттің ресми құжаттарынан бұл сұрақ бойынша ақпарат табылмады. Сұрақты басқаша қойып көріңіз немесе Студенттерге қызмет көрсету орталығына хабарласыңыз.,
+student_services_05_en,student_services,en,How do I use the electronic library?,answered,low,1.0,1.0,1.0,1.0,65.0,DP KazNRTU 607. Management of information resources of the scientific library,"In short: Organization of Use of the fund at Number of readers, Report on the work of use library library service points remote users, book loans, the division fund, including and remotely. [1]",
+student_services_06_ru,student_services,ru,Что такое программа Minor?,answered,high,1.0,1.0,1.0,1.0,61.72,Положение о дополнительной образовательной программе (Minor) 2022,"Коротко: MINOR - дополнительная образовательная программа, представляющая собой совокупность дисциплин или модулей или других видов учебной работы, определенная обучающимся для изучения с целью формирования дополнительных компетенций. [2]
+
+Подробнее:
+1. Описание дополнительной образовательной программы (Minor). [1]
+2. Цель и задачи дополнительной образовательной программы (Minor). [1]",
+student_services_06_kk,student_services,kk,Minor бағдарламасы деген не?,answered,high,1.0,0.5,0.5,1.0,54.55,Білім беру бағдарламаларын әзірлеу туралы Ереже 2022,"Қысқаша жауап: Қосымша білім беру бағдарламалары (Minor). [1]
+
+Толығырақ:
+1. Пәндері бар қосымша Кредиттердің жалпы Ұсынылатын оқу Игеру қорытындысы білім беру саны семестрлері бойынша құжаттар бағдарламаларының қосымша білім беру атауы (Minor) бағдарламалары (Minor). [1]
+2. MINOR - қосымша білім беру бағдарламасы - бұл қосымша құзыреттерді қалыптастыру мақсатында оқу үшін білім алушы анықтаған пәндердің немесе модульдердің немесе оқу жұмысының басқа түрлерінің жиынтығы. [2]",
+student_services_06_en,student_services,en,What is the Minor program?,answered,medium,1.0,1.0,1.0,1.0,64.24,Provision on the additional degree program (Minor) 2022,"In short: Objectives of the additional degree program (Minor). [1]
+
+Amount:
+1. Objectives of the additional degree program (Minor). - competitiveness of the graduate in the labor market; - possibility of working or forming a related industry on the labor market on the border of two degree programs - the main (Major) and additional (Minor). [1]",
+student_services_07_ru,student_services,ru,Как организовано инклюзивное обучение для студентов с ограниченными возможностями?,answered,high,1.0,0.5,0.0,1.0,56.09,Академическая политика 2022,"Коротко: Инклюзивное образование - обучение в совместной образовательной среде обучающихся с ограниченными возможностями здоровья и обучающихся, не имеющих таких ограничений, посредством обеспечения обучающихся с ограниченными возможностями здоровья условий обучения и социальной адаптации, не снижающих в целом уровень образования для обучающихся, не имеющих таковых ограничений. [1]",
+student_services_07_kk,student_services,kk,Мүмкіндігі шектеулі студенттер үшін инклюзивті оқыту қалай ұйымдастырылған?,answered,high,1.0,1.0,1.0,1.0,59.92,Кіріктірілген (Инклюзивті) оқу туралы ЕРЕЖЕ 2021,"Қысқаша жауап: Инклюзивті оқытудың білім беру қызметін ұйымдастырудың ерекшеліктері мүмкіндігі шектеулі білім алушылар мен осындай шектеулері жоқ білім алушыларды бірыңғай ағымда бірлесе оқыту арқылы ұйымдастырылады. [1]
+
+Қалай жасалады:
+1. Университетте кэс1би және әлеуметтік-мәдени орта қалыптасады, бұл ұжымның барлық мүшелерінің қарым-қатынас пен ынтымақтастыққа дайындығын, әлеуметтік, жеке және"" мәдени айырмашылықтарды қабылдау қабілетін қалыптастыруға ықпал етеді: Мүгедектер мен мүмкіндігі шектеулі студенттердің жеке, жеке әлеуметтік қолдауын жүзеге асыру үшін университетте студенттер арасындағы еріктілер қозғалысы сияқты қолдау түрі қолданылады. [1]",
+student_services_07_en,student_services,en,How is inclusive education organized for students with disabilities?,answered,high,1.0,1.0,1.0,1.0,60.73,The regulation about integrated (inclusive) education 2021,"In short: Features of the organization of educational activities inclusive education is organized through joint training of students with disabilities and students who do not have such restrictions in a single stream. [1]
+
+Deadlines:
+1. Support of students with disabilities in the educational process. [1]
+2. Social support is a set of activities related to the educational process and aimed at social support for students with disabilities and people with disabilities in inclusive education, including assistance in solving everyday problems, living in a hostel, social benefits, scholarship provision. [1]",
+student_services_08_ru,student_services,ru,Какие внеучебные мероприятия проводит университет?,not_found,low,1.0,1.0,,,56.96,,В официальных документах университета информация по этому вопросу не найдена. Попробуйте переформулировать вопрос или обратитесь в Центр обслуживания студентов.,
+student_services_08_kk,student_services,kk,Университет қандай сабақтан тыс іс-шаралар өткізеді?,answered,high,0.0,0.0,0.0,1.0,69.01,ҚазҰТЗУ 708 ҚП. Оку процесінің сапасын бакылау,"Қысқаша жауап: Кафедра немесе институт маманның педагогикалық деңгейін бағалау қажет болған жағдайда белгілі бір оқытушыға жоспардан тыс ашық сабақ тағайындай алады, бірақ семестрде бір сабақтан артық емес болуы керек. [1]
+
+Сабақтар — Шарттары:
+1. Тәжірибелі оқытушы өткізетін сабақтарға міндетті түрде қатысу арқылы жас мамандар мен жаңадан қабылданған оқытушылардың біліктілігін арттыру. [1]
+2. 4,2.2 Тәжірибелі оқытушы тарапынан жас мамандар немесе жаңадан қабылданған оқытушылар өткізетін сабақтардың сапасына бақылау жүргізу. [1]
+3. 4,5Ашық сабақтардың нәтижелері мен талдаулары кафедра отырысында талқылануы керек. [1]
+4. Оқытушы жоспардан тыс ашық сабақ туралы, оның ішінде лауазымы бойынша жоғарылату немесе аттестаттаудан өту үшін кафедрадан ұсыныс алғанға дейін кафедраға өз бетінше жүгіне алады. [1]",
+student_services_08_en,student_services,en,What extracurricular activities does the university organize?,answered,high,1.0,1.0,1.0,1.0,53.33,DP KazNRTU 713. Educational and extracurricular activities 2025,"According to the official documents of Satbayev University:
+• DP KazNRTU 715 Educational and extracurricular activities Page 11 from 14 [1]",
+student_services_09_ru,student_services,ru,Как иностранному студенту оформить пребывание?,answered,high,1.0,1.0,1.0,1.0,56.39,Приглашение иностранных студентов,"Коротко: Иностранные студенты обязаны регистрировать свои паспорта. [1]
+
+Как это сделать:
+1. Satbayev University для иностранных студентов может стать обогащающим и полезным опытом, наполненным новыми знакомствами, культурным опытом и воспоминаниями на всю жизнь! [1]",
+student_services_09_kk,student_services,kk,Шетелдік студент тұруды қалай рәсімдейді?,answered,high,1.0,1.0,1.0,1.0,52.22,ҚазҰТЗУ 718 ҚП. Академиялық ұтқырлық 2024,Қысқаша жауап: Академиялық ұтқырлық бойынша оқуға қабылданған немесе шарт жасасқан шетелдік студенттер саны. [1],
+student_services_09_en,student_services,en,How does a foreign student register their stay?,answered,high,1.0,0.5,0.0,1.0,52.52,Provision on developing and implementing the joint double-degree educational programs 2023,"In short: Order of stay of foreign students from OHPE-partners in KazNRTU. [1]
+
+How to do it:
+1. Upon arrival of a foreign student under the program of double-degree education at KazNRTU, Institute (department) ensures their attendance at DIDP. [1]
+2. A foreign student must undergo the required procedure at Migration. [1]
+3. A foreign student may be expelled according to Rules of the organization of the educational process on credit technology of training on the recommendation of Institute director, head of school agreed with DIDP. [1]",
+student_services_10_ru,student_services,ru,Как работать в учебной системе университета?,answered,medium,0.0,0.0,0.0,1.0,51.54,ДП КазНИТУ 708. Контроль качества учебного процесса,"Согласно официальным документам Satbayev University:
+• - преподавательский состав СМК Система менеджмента качества СРС Самостоятельная работа студента Самостоятельная работа студента под руководством СРСП преподавателя ООД Общеобразовательные дисциплины ОП Образовательная программа ОР Офис регистратора ОТиБ Охрана труда и безопасности ОтК Ответственный по качеству университета РУП Рабочий учебный план специальности МООС Массовый открытый онлайн курс УМК Учебно-методический комплекс УМС Учебно-методический совет 4 ОТКРЫТЫЕ ЗАНЯТИЯ. [1]",
+student_services_10_kk,student_services,kk,Университеттің оқу жүйесінде қалай жұмыс істеуге болады?,answered,high,1.0,1.0,1.0,1.0,55.55,ҚазҰТЗУ 607 ҚП. Ғылыми кітапхананың ақпараттық ресурстарын басқару 2023,"Қысқаша жауап: ""Антиплагиат"" жүйесін әкімдендіру Академиялық адалдық саясатын жүзеге асыру мақсатында кітапхана 01.04.2022 жылғы дипломдық жұмыстарды плагиатқа тексеру туралы Ережеге (ҚП29-04-01.03.1.05-2022) сәйкес Плагиатқа қарсы жүйелерді жалпы университеттік әкімшілендіруді жүзеге асырады. ). [1]
+
+Қалай жасалады:
+1. ""МегаПро"" АКАЖ пайдаланушыларына арналған нұсқаулық әр модульде орналастырылган, қызметкерлерді жүйемен жұмыс істеуге үйрету жоспарға сәйкес іске асырылады. [1]",
+student_services_10_en,student_services,en,How do I use the university's learning system?,answered,medium,1.0,0.5,0.0,1.0,53.15,Department of Information Systems,"In short: Bachelor's students majoring in Information Systems can choose between dual or online learning while retaining their grants, including through the use of the Adway platform. [1]",

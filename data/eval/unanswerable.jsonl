@@ -1,0 +1,15 @@
+{"id": "una_01_ru", "lang": "ru", "question": "Сколько стоит обед в студенческой столовой?", "expected_status": "not_found"}
+{"id": "una_01_kk", "lang": "kk", "question": "Студенттік асханада түскі ас қанша тұрады?", "expected_status": "not_found"}
+{"id": "una_01_en", "lang": "en", "question": "How much does lunch cost in the student canteen?", "expected_status": "not_found"}
+{"id": "una_02_ru", "lang": "ru", "question": "Какой пароль от Wi-Fi в главном корпусе?", "expected_status": "not_found"}
+{"id": "una_02_kk", "lang": "kk", "question": "Бас ғимараттағы Wi-Fi құпия сөзі қандай?", "expected_status": "not_found"}
+{"id": "una_02_en", "lang": "en", "question": "What is the Wi-Fi password in the main building?", "expected_status": "not_found"}
+{"id": "una_03_ru", "lang": "ru", "question": "Во сколько открывается спортзал в субботу?", "expected_status": "not_found"}
+{"id": "una_03_kk", "lang": "kk", "question": "Сенбі күні спорт зал сағат нешеде ашылады?", "expected_status": "not_found"}
+{"id": "una_03_en", "lang": "en", "question": "What time does the gym open on Saturday?", "expected_status": "not_found"}
+{"id": "una_04_ru", "lang": "ru", "question": "Как зовут декана моего факультета?", "expected_status": "not_found"}
+{"id": "una_04_kk", "lang": "kk", "question": "Менің факультетімнің деканының аты кім?", "expected_status": "not_found"}
+{"id": "una_04_en", "lang": "en", "question": "What is the name of my faculty's dean?", "expected_status": "not_found"}
+{"id": "una_05_ru", "lang": "ru", "question": "Какой номер телефона у охраны общежития №3?", "expected_status": "not_found"}
+{"id": "una_05_kk", "lang": "kk", "question": "№3 жатақхана күзетшісінің телефон нөмірі қандай?", "expected_status": "not_found"}
+{"id": "una_05_en", "lang": "en", "question": "What is the phone number of dormitory No. 3 security?", "expected_status": "not_found"}

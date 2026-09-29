@@ -1,0 +1,32 @@
+{
+  "features": [
+    "overlap",
+    "dense",
+    "chunk_score",
+    "inv_chunk_rank",
+    "cue",
+    "has_number",
+    "position",
+    "log_len",
+    "lang_match",
+    "listy",
+    "bias"
+  ],
+  "mrr_before": 0.9273194444444445,
+  "hit1_before": 0.88,
+  "mrr_after": 0.9833333333333333,
+  "hit1_after": 0.97,
+  "weights": {
+    "overlap": 1.9075,
+    "dense": 0.0964,
+    "chunk_score": 1.0627,
+    "inv_chunk_rank": 0.9157,
+    "cue": 0.573,
+    "has_number": -0.0163,
+    "position": 0.0388,
+    "log_len": -0.376,
+    "lang_match": 0.0616,
+    "listy": -0.0287,
+    "bias": -3.3621
+  }
+}

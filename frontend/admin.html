@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Admin Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="logo">SU</div>
+  <div><h1>Admin Dashboard</h1><div class="sub">Satbayev AI Consultant</div></div>
+  <div class="spacer"></div>
+  <a class="ghost" href="/" style="text-decoration:none">← Chat</a>
+  <button class="ghost" id="reload">Reload models</button>
+</header>
+<div class="wrap">
+  <div id="loginBox" class="panel" style="max-width:380px;display:none">
+    <h3>Admin login</h3>
+    <input id="email" placeholder="Email" style="margin-bottom:8px">
+    <input id="password" type="password" placeholder="Password" style="margin-bottom:8px">
+    <div class="err" id="err"></div>
+    <button class="primary" id="loginBtn" style="padding:9px 18px">Log in</button>
+  </div>
+  <div id="dash" style="display:none">
+    <div class="grid">
+      <div class="stat"><div class="l">Documents</div><div class="v" id="sDocs">-</div><div class="l" id="sDocsLang"></div></div>
+      <div class="stat"><div class="l">Chunks in index</div><div class="v" id="sChunks">-</div></div>
+      <div class="stat"><div class="l">Questions today / this week</div><div class="v" id="sQ">-</div></div>
+      <div class="stat"><div class="l">Average response time</div><div class="v" id="sRT">-</div></div>
+      <div class="stat"><div class="l">Users</div><div class="v" id="sUsers">-</div><div class="l" id="sFb"></div></div>
+    </div>
+    <div class="grid" style="margin-top:0">
+      <div class="panel"><b>Questions by language</b><div id="qLang"></div></div>
+      <div class="panel"><b>Documents by language</b><div id="dLang"></div></div>
+      <div class="panel"><b>Answer status</b><div id="qStatus"></div></div>
+    </div>
+    <div class="panel"><b>Questions per day (last 7 days)</b><div class="cols" id="perDay"></div></div>
+    <div class="panel">
+      <b>Upload a document</b> <span class="l" style="color:var(--muted);font-size:13px">(PDF / DOCX / TXT — it is chunked, embedded and added to the index immediately)</span>
+      <div style="display:grid;grid-template-columns:2fr 1fr 1fr 1fr auto;gap:8px;margin-top:10px">
+        <input id="upTitle" placeholder="Title">
+        <select id="upLang"><option value="">auto language</option><option value="ru">ru</option><option value="kk">kk</option><option value="en">en</option></select>
+        <input id="upCat" placeholder="Category" value="admin-upload">
+        <input id="upFile" type="file" accept=".pdf,.docx,.txt">
+        <button class="primary" id="upBtn" style="padding:0 16px">Upload</button>
+      </div>
+      <div class="err" id="upMsg"></div>
+    </div>
+    <div class="panel">
+      <b>Documents</b> <input id="docSearch" placeholder="search..." style="width:220px;margin-left:10px">
+      <table><thead><tr><th>Title</th><th>Lang</th><th>Category</th><th>Chunks</th><th></th></tr></thead><tbody id="docs"></tbody></table>
+    </div>
+    <div class="panel">
+      <b>Question log</b>
+      <table><thead><tr><th>Time</th><th>Question</th><th>Lang</th><th>Status</th><th>Conf.</th><th>ms</th><th>Src</th><th>Chunks</th><th>FB</th></tr></thead><tbody id="logs"></tbody></table>
+    </div>
+  </div>
+</div>
+<script src="admin.js"></script>
+</body>
+</html>

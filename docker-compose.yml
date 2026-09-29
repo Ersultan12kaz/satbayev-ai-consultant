@@ -1,0 +1,47 @@
+# docker compose up --build
+#   frontend : http://localhost:8080   (nginx, proxies /api to the backend)
+#   backend  : http://localhost:8000   (FastAPI, docs at /docs)
+#   postgres : PostgreSQL 16 + pgvector (documents, chunks with vectors, users, conversations, logs)
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_DB: su_rag
+      POSTGRES_USER: su
+      POSTGRES_PASSWORD: su_password
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./docker/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U su -d su_rag"]
+      interval: 5s
+      retries: 20
+
+  backend:
+    build: .
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql+psycopg2://su:su_password@postgres:5432/su_rag
+      VECTOR_BACKEND: pgvector
+      MODELS_DIR: /app/models
+    volumes:
+      - ./models:/app/models
+      - ./data:/app/data
+    depends_on:
+      postgres:
+        condition: service_healthy
+    ports:
+      - "8000:8000"
+
+  frontend:
+    image: nginx:1.27-alpine
+    volumes:
+      - ./frontend:/usr/share/nginx/html:ro
+      - ./docker/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    depends_on:
+      - backend
+    ports:
+      - "8080:80"
+
+volumes:
+  pgdata:
