@@ -1,0 +1,39 @@
+{
+  "sentence_accuracy": 0.9403412969283277,
+  "baseline_accuracy": 0.9392946530147895,
+  "confusion": {
+    "en": {
+      "en": 5046,
+      "ru": 28,
+      "kk": 1
+    },
+    "kk": {
+      "kk": 5076,
+      "ru": 270,
+      "en": 301
+    },
+    "ru": {
+      "ru": 10542,
+      "kk": 299,
+      "en": 412
+    }
+  },
+  "questions": {
+    "accuracy": 1.0,
+    "baseline_accuracy": 1.0,
+    "confusion": {
+      "ru": {
+        "ru": 100
+      },
+      "kk": {
+        "kk": 100
+      },
+      "en": {
+        "en": 100
+      }
+    },
+    "n": 300
+  },
+  "n_train": 18000,
+  "n_test": 21975
+}
