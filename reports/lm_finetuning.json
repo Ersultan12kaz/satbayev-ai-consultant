@@ -1,0 +1,96 @@
+{
+  "history": [
+    {
+      "epoch": 1,
+      "step": 5418,
+      "val_loss": 0.5544
+    },
+    {
+      "epoch": 2,
+      "step": 10836,
+      "val_loss": 0.5052
+    },
+    {
+      "epoch": 3,
+      "step": 16254,
+      "val_loss": 0.4863
+    }
+  ],
+  "examples": [
+    {
+      "q": "Как происходит впервые n0?",
+      "reference": "Анализ требований, потребностей и ожиданий заинтересованных сторон проводится: впервые N0 проведения оценки коррупционных рисков и возможностей, B дальнеищем до проведения анализа СМПК также в срок до 01 августа.",
+      "generated": "Анализ требований, потребностей и ожиданий заинтересованных сторон проводится: впервые N0 проведения оценки коррупционных рисков и возможностей, B қатысу на табыладых.",
+      "accepted": true
+    },
+    {
+      "q": "Что нужно знать про 1973-1980?",
+      "reference": "Обзор показателей в Scopus 10 - научных публикаций 1973-1980 г.г м.н.с., с.н.с в ИМО АН КазССР 1980-2002 г.г работал в должностях заведующий кафедрой, декан факультета, проректор в Алматинском Технологическом Университете В 1990 году получил ученое звание профессора по решению ВАК.",
+      "generated": "Обзор показателей в Scopus 10 - научных публикаций 1973-1980 г.г м.н.с., с.н.с в ИМО АН КазССР 1980-2002 г.г работал в должностях заведующий кафедрой, декан факультета, проректор в Алматинской Технологическом Университете В 1990 году получил ученое звание профессора по решению ВАК.",
+      "accepted": true
+    },
+    {
+      "q": "Что такое берушіде сақталатын?",
+      "reference": "Жұмыс берушіде сақталатын дербес деректерінің қорғалуын қамтамасыз етуге құқылы.",
+      "generated": "Жұмыс берушіде сақталатын дербес деректерінің қорғалуын қамтамасыз етуге құқылы.",
+      "accepted": true
+    },
+    {
+      "q": "қазақша айтшы",
+      "reference": "Барлық уақыты пен күш-жігерін жұмысқа арнайды 4.",
+      "generated": "Жобаның негізгі және негізгі сипаттамалары 4.",
+      "accepted": false
+    },
+    {
+      "q": "what else?",
+      "reference": "All transferred property of external providers is formalized through transfer-acceptance acts. If property of a customer or external provider is lost, damaged or found to be unfit for use, the university management notifies the customer or external provider in writing, and also registers and retains",
+      "generated": "All transferred property of external providers is formalized through transfer-acceptance acts. If property of a customer or external provider is lost, damaged or found to be unfit for use, the university management notifies the customer or external provider in writing, and also registers and retains",
+      "accepted": true
+    },
+    {
+      "q": "tell me more",
+      "reference": "Then, in June 2002, as a result of the merger of the departments \"Mechatronics and Robotics\" and \"Electronics and Computer Equipment\", the department \"Electronics, Mechatronics and Robotics\" was created, and in 2007 it was renamed and is now called \"Robotics and Engineering Tools of Automation\". The",
+      "generated": "The founder of the department is a well-known scientist-teacher, Professor K. S. Ivanov. Then, in June 2002, as a result of the merger of the departments \"Mechatronics and Robotics\" and \"Electronics and Computer Equipment\", the department \"Electronics, Mechatronics and Robotics\" was created, and in ",
+      "accepted": true
+    },
+    {
+      "q": "Какие правила про университета не?",
+      "reference": "Администрация и работники Университета не приемлют коррупции.",
+      "generated": "В найденных документах нет информации по этому вопросу.",
+      "accepted": false
+    },
+    {
+      "q": "ресей оқу-зерттеу жайлы түсіндірші",
+      "reference": "Экстрактивті металлургия Ресей оқу-зерттеу және технология университеті.",
+      "generated": "Экстрактивті металлургия Ресей оқу-зерттеу және технология университеті.",
+      "accepted": true
+    },
+    {
+      "q": "басқарманың 2026 қандай?",
+      "reference": "Г - Басқарманың 2026 жылғы \" № шешімімен бекітілді.",
+      "generated": "Г - Басқарманың 2026 жылғы \" № шешімімен бекітілді.",
+      "accepted": true
+    },
+    {
+      "q": "Расскажи про представлению",
+      "reference": "В найденных документах нет информации по этому вопросу.",
+      "generated": "В найденных документах нет информации по этому вопросу.",
+      "accepted": false
+    },
+    {
+      "q": "жыл сайын университеттің туралы айтып берші",
+      "reference": "Даму жоспарлары, қаржылық есептілік және даму жоспарын орындау туралы есептер жыл сайын университеттің ресми интернет-ресурсында, сондай-ақ - Казакстан Республикасы - Каржы министрлігінің Мемлекеттік мүлік және жекешелендіру комитетінің ақпараттық-есеп порталында жариялануы тиіс.",
+      "generated": "ionship:\n1. Ескерту: Осы қосымшаның ережелері сыбайлас \"емқорлық құқық бұзушылық фактісі туралы көрінеу жалған ақпарат хабарлаған қызметкерлерге қолданылмайды, олар Қазақстан Республикасының заңдарында белгіленген жауаптылықта болады.\n2. Комиссия университеттің құрылымдық бөлімшелерінің өкілдері мен",
+      "accepted": false
+    },
+    {
+      "q": "in English please",
+      "reference": "Verification of measuring instruments used to control and regulate infrastructure provision and production environment processes is carried out in the territorial body JSC \"National Center for Expertise and Certification\" by contract.",
+      "generated": "The purpose of the",
+      "accepted": false
+    }
+  ],
+  "accepted": 28,
+  "n_train": 65018,
+  "n_val": 2241
+}

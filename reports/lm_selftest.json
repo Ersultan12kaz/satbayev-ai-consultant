@@ -1,0 +1,23 @@
+{
+  "config": {
+    "vocab_size": 32000,
+    "d_model": 256,
+    "n_layers": 4,
+    "n_heads": 4,
+    "ctx": 128,
+    "dropout": 0.0
+  },
+  "params_m": 11.4,
+  "step": 30,
+  "total_steps": 30,
+  "tokens_per_step": 512,
+  "history": [
+    {
+      "step": 30,
+      "train_loss": 9.1222,
+      "val_loss": 9.0531,
+      "val_ppl": 8545.19,
+      "hours": 0.001
+    }
+  ]
+}

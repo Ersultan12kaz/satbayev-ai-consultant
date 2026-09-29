@@ -1,0 +1,182 @@
+{
+  "experiment_1_embeddings": {
+    "Embedding A (LSA)": {
+      "R@1": 0.5733333333333334,
+      "R@5": 0.8333333333333334,
+      "R@10": 0.9033333333333333,
+      "MRR": 0.685505291005291
+    },
+    "Embedding B (LSA + InfoNCE)": {
+      "R@1": 0.5233333333333333,
+      "R@5": 0.8433333333333334,
+      "R@10": 0.9,
+      "MRR": 0.663074074074074
+    }
+  },
+  "experiment_2_retrieval": {
+    "Dense": {
+      "R@1": 0.5233333333333333,
+      "R@3": 0.7866666666666666,
+      "R@5": 0.8433333333333334,
+      "R@10": 0.9,
+      "P@5": 0.5626666666666668,
+      "MRR": 0.663074074074074,
+      "ms_per_query": 10.347959333333469
+    },
+    "BM25 (keyword)": {
+      "R@1": 0.65,
+      "R@3": 0.8433333333333334,
+      "R@5": 0.9066666666666666,
+      "R@10": 0.9633333333333334,
+      "P@5": 0.6433333333333333,
+      "MRR": 0.7591626984126983,
+      "ms_per_query": 9.795672999998715
+    },
+    "Hybrid 70/30": {
+      "R@1": 0.6366666666666667,
+      "R@3": 0.79,
+      "R@5": 0.8466666666666667,
+      "R@10": 0.9266666666666666,
+      "P@5": 0.6106666666666667,
+      "MRR": 0.7282645502645503,
+      "ms_per_query": 19.77894066666825
+    },
+    "Hybrid + reranker": {
+      "R@1": 0.6766666666666666,
+      "R@3": 0.8133333333333334,
+      "R@5": 0.8733333333333333,
+      "R@10": 0.9266666666666666,
+      "P@5": 0.6453333333333333,
+      "MRR": 0.7587208994708995,
+      "ms_per_query": 27.19389633333473
+    }
+  },
+  "experiment_3_topk": {
+    "Top-3": {
+      "Recall": 0.8133333333333334,
+      "Precision": 0.6444444444444445
+    },
+    "Top-5": {
+      "Recall": 0.8733333333333333,
+      "Precision": 0.6453333333333333
+    },
+    "Top-10": {
+      "Recall": 0.9266666666666666,
+      "Precision": null
+    }
+  },
+  "experiment_4_languages": {
+    "ru": {
+      "Answer accuracy (answered with correct source)": 0.5,
+      "Recall@1": 0.58,
+      "Recall@5": 0.85,
+      "MRR": 0.6729999999999999,
+      "Answer rate": 0.8,
+      "Faithfulness": 1.0,
+      "Citation accuracy": 0.5958333333333333,
+      "Language detection accuracy": 1.0,
+      "Hallucination rate (unanswerable+off-topic answered)": 0.06666666666666665,
+      "Latency avg_ms": 65.6309,
+      "Latency p50_ms": 64.755,
+      "Latency p95_ms": 86.73949999999999
+    },
+    "kk": {
+      "Answer accuracy (answered with correct source)": 0.52,
+      "Recall@1": 0.72,
+      "Recall@5": 0.88,
+      "MRR": 0.7803333333333333,
+      "Answer rate": 0.78,
+      "Faithfulness": 0.9935897435897436,
+      "Citation accuracy": 0.6538461538461539,
+      "Language detection accuracy": 1.0,
+      "Hallucination rate (unanswerable+off-topic answered)": 0.06666666666666665,
+      "Latency avg_ms": 72.83850000000001,
+      "Latency p50_ms": 70.45,
+      "Latency p95_ms": 110.8445
+    },
+    "en": {
+      "Answer accuracy (answered with correct source)": 0.54,
+      "Recall@1": 0.67,
+      "Recall@5": 0.87,
+      "MRR": 0.7536666666666666,
+      "Answer rate": 0.83,
+      "Faithfulness": 1.0,
+      "Citation accuracy": 0.6265060240963856,
+      "Language detection accuracy": 1.0,
+      "Hallucination rate (unanswerable+off-topic answered)": 0.06666666666666665,
+      "Latency avg_ms": 65.69539999999999,
+      "Latency p50_ms": 61.215,
+      "Latency p95_ms": 90.53849999999998
+    },
+    "all": {
+      "Answer accuracy (answered with correct source)": 0.52,
+      "Recall@1": 0.6566666666666666,
+      "Recall@5": 0.8666666666666667,
+      "MRR": 0.7356666666666666,
+      "Answer rate": 0.8033333333333333,
+      "Faithfulness": 0.9979253112033195,
+      "Citation accuracy": 0.6251728907330567,
+      "Language detection accuracy": 1.0,
+      "Hallucination rate (unanswerable+off-topic answered)": 0.06666666666666665,
+      "Latency avg_ms": 68.05493333333334,
+      "Latency p50_ms": 64.965,
+      "Latency p95_ms": 100.09100000000001
+    }
+  },
+  "refusals": {
+    "off_topic": 1.0,
+    "unanswerable": 0.8
+  },
+  "by_category": {
+    "admission": {
+      "R@5": 0.7666666666666667,
+      "MRR": 0.5316666666666667,
+      "answer_accuracy": 0.36666666666666664
+    },
+    "education": {
+      "R@5": 0.9333333333333333,
+      "MRR": 0.6777777777777777,
+      "answer_accuracy": 0.4666666666666667
+    },
+    "exams": {
+      "R@5": 0.9666666666666667,
+      "MRR": 0.95,
+      "answer_accuracy": 0.5666666666666667
+    },
+    "scholarship": {
+      "R@5": 0.5,
+      "MRR": 0.3466666666666667,
+      "answer_accuracy": 0.2
+    },
+    "dormitory": {
+      "R@5": 1.0,
+      "MRR": 0.9611111111111111,
+      "answer_accuracy": 0.7333333333333333
+    },
+    "academic_leave": {
+      "R@5": 1.0,
+      "MRR": 1.0,
+      "answer_accuracy": 0.8333333333333334
+    },
+    "transfer": {
+      "R@5": 0.9666666666666667,
+      "MRR": 0.8111111111111111,
+      "answer_accuracy": 0.5666666666666667
+    },
+    "internship": {
+      "R@5": 0.8,
+      "MRR": 0.45055555555555554,
+      "answer_accuracy": 0.26666666666666666
+    },
+    "graduation": {
+      "R@5": 0.8,
+      "MRR": 0.8,
+      "answer_accuracy": 0.5
+    },
+    "student_services": {
+      "R@5": 0.9333333333333333,
+      "MRR": 0.8277777777777777,
+      "answer_accuracy": 0.7
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{"id": "oos_01_ru", "lang": "ru", "question": "Кто выиграл чемпионат мира по футболу?", "expected_status": "out_of_scope"}
+{"id": "oos_01_kk", "lang": "kk", "question": "Футболдан әлем чемпионатын кім жеңді?", "expected_status": "out_of_scope"}
+{"id": "oos_01_en", "lang": "en", "question": "Who won the football World Cup?", "expected_status": "out_of_scope"}
+{"id": "oos_02_ru", "lang": "ru", "question": "Какая погода будет завтра в Алматы?", "expected_status": "out_of_scope"}
+{"id": "oos_02_kk", "lang": "kk", "question": "Ертең Алматыда ауа райы қандай болады?", "expected_status": "out_of_scope"}
+{"id": "oos_02_en", "lang": "en", "question": "What will the weather be like in Almaty tomorrow?", "expected_status": "out_of_scope"}
+{"id": "oos_03_ru", "lang": "ru", "question": "Как приготовить плов?", "expected_status": "out_of_scope"}
+{"id": "oos_03_kk", "lang": "kk", "question": "Палауды қалай пісіруге болады?", "expected_status": "out_of_scope"}
+{"id": "oos_03_en", "lang": "en", "question": "How do I cook pilaf?", "expected_status": "out_of_scope"}
+{"id": "oos_04_ru", "lang": "ru", "question": "Какой сейчас курс доллара?", "expected_status": "out_of_scope"}
+{"id": "oos_04_kk", "lang": "kk", "question": "Қазір доллар бағамы қандай?", "expected_status": "out_of_scope"}
+{"id": "oos_04_en", "lang": "en", "question": "What is the current dollar exchange rate?", "expected_status": "out_of_scope"}
+{"id": "oos_05_ru", "lang": "ru", "question": "Посоветуй хороший фильм на вечер", "expected_status": "out_of_scope"}
+{"id": "oos_05_kk", "lang": "kk", "question": "Кешке жақсы фильм ұсыншы", "expected_status": "out_of_scope"}
+{"id": "oos_05_en", "lang": "en", "question": "Recommend a good movie for tonight", "expected_status": "out_of_scope"}
+{"id": "oos_06_ru", "lang": "ru", "question": "Кто такой Илон Маск?", "expected_status": "out_of_scope"}
+{"id": "oos_06_kk", "lang": "kk", "question": "Илон Маск кім?", "expected_status": "out_of_scope"}
+{"id": "oos_06_en", "lang": "en", "question": "Who is Elon Musk?", "expected_status": "out_of_scope"}
+{"id": "oos_07_ru", "lang": "ru", "question": "Какой смартфон лучше купить?", "expected_status": "out_of_scope"}
+{"id": "oos_07_kk", "lang": "kk", "question": "Қай смартфонды сатып алған дұрыс?", "expected_status": "out_of_scope"}
+{"id": "oos_07_en", "lang": "en", "question": "Which smartphone should I buy?", "expected_status": "out_of_scope"}
+{"id": "oos_08_ru", "lang": "ru", "question": "Расскажи смешной анекдот", "expected_status": "out_of_scope"}
+{"id": "oos_08_kk", "lang": "kk", "question": "Күлкілі анекдот айтып берші", "expected_status": "out_of_scope"}
+{"id": "oos_08_en", "lang": "en", "question": "Tell me a funny joke", "expected_status": "out_of_scope"}
+{"id": "oos_09_ru", "lang": "ru", "question": "Сколько лететь до Марса?", "expected_status": "out_of_scope"}
+{"id": "oos_09_kk", "lang": "kk", "question": "Марсқа дейін қанша уақыт ұшу керек?", "expected_status": "out_of_scope"}
+{"id": "oos_09_en", "lang": "en", "question": "How long does it take to fly to Mars?", "expected_status": "out_of_scope"}
+{"id": "oos_10_ru", "lang": "ru", "question": "Как быстро похудеть?", "expected_status": "out_of_scope"}
+{"id": "oos_10_kk", "lang": "kk", "question": "Қалай тез арықтауға болады?", "expected_status": "out_of_scope"}
+{"id": "oos_10_en", "lang": "en", "question": "How can I lose weight fast?", "expected_status": "out_of_scope"}
