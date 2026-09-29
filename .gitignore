@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.pytest_cache/
+# large / generated data (re-created by scripts/run_all.py)
+data/raw/
+data/processed/
+data/uploads/
+data/app.db
+/models/
+/logs/
+# PyCharm (run configurations are shared in .run/)
+.idea/
+logs_install_done.txt
+/tessdata/
+# trained-model working files and folders prepared for deletion (kept only on the laptop)
+/_training_files/
+/_to_delete/
+data/lm/
+data/translation/
+data/training/
+*.pt
+*.bin
+*.npy
+*.npz
+*.url
